@@ -43,3 +43,10 @@ Axis
 
 Center
   Poistion from where Geometry twist
+  
+Limits Lower
+  Limits twist from the axis bottom
+  
+Limits Upper
+  Limits twist from the axis top
+
