@@ -12,10 +12,10 @@ Bends Geometry over the axis
 Angle
   Amount of deformation
 
-.. image:: images/bend_axis.PNG
-
 Axis
   Test test test
+
+.. image:: images/bend_axis.PNG
 
 Axis Rotation
   Test test test
