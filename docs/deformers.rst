@@ -6,6 +6,13 @@ Bend
 ************************************************************
 .. image:: images/bend.PNG
 
+Repository URL
+  The URL that contains the sources. Leave the automatically filled value.
+
+
+
+
+
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
