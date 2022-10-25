@@ -1,4 +1,4 @@
-Welcome to Testing's documentation!
+Higgsas Blender Geometry Nodes Groups Manual
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
