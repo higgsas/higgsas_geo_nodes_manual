@@ -5,7 +5,7 @@ Deformers
 Bend
 ************************************************************
 
-  Bends Geometry over the axis
+Bends Geometry over the axis
 
 .. image:: images/bend.PNG
 
