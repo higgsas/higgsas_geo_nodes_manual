@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
+   deformers
    usage
    api
