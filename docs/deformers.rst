@@ -9,6 +9,9 @@ Bends Geometry over the axis
 
 .. image:: images/bend.PNG
 
+Angle
+  Amount of deformation
+
 Axis
   Test test test
 
@@ -16,7 +19,7 @@ Axis Rotation
   Test test test
 
 Center
-  Test test test
+  Poistion from where Geometry bends
 
 
 
