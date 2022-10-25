@@ -1,4 +1,4 @@
-Higgsas Blender Geometry Nodes Groups Manual
+Higgsas geometry nodes groups manual
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
