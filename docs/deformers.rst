@@ -226,7 +226,7 @@ To Sphere
 
 Deforms geometry in to sphere
 
-.. image:: images/to_sphere.PNG
+.. image:: images/to_shere.PNG
 
 Factor
   Factor of the to sphere deformation
