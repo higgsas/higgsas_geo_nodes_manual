@@ -210,7 +210,7 @@ Evenly offsets mesh faces
 Offset
   Distance of the offset
   
-.. limitation::
+.. warning::
     If faces are connected, offset will be incorect
     
     .. image:: images/face_offset_limit.PNG
