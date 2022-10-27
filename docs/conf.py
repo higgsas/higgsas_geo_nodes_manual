@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Higgsas Geometry nodes manual'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
