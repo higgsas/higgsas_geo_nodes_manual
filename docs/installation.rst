@@ -10,7 +10,7 @@ You can
 
 .. image:: images/instal1.png
 
-- Navigate to where node group file `.blend` is located and double click it
+- Navigate to where node group file :guilabel:`.blend` is located and double click it
 
 .. image:: images/instal2.png
 
@@ -18,7 +18,7 @@ You can
 
 .. image:: images/instal3.png
 
-- Select all nodes and press :guilabel:`Link`
+- Select all nodes (ALT-A) and press :guilabel:`Link`
 
 .. image:: images/instal4.png
 
