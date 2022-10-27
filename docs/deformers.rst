@@ -71,9 +71,8 @@ Axis
 
 Squish
 
-  **On:** tes test
- 
-  **Off:** tes tes
+- **On:** tes test
+- **Off:** tes tes
 
 Center
   Poistion from where Geometry bends
