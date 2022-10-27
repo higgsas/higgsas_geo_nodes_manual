@@ -5,7 +5,7 @@ Deformers
 Bend
 ************************************************************
 
-Bends Geometry over the axis
+Bends geometry over the axis
 
 .. image:: images/bend.PNG
 
@@ -21,7 +21,7 @@ Axis Rotation
   Test test test
 
 Center
-  Poistion from where Geometry bends
+  Poistion from where geometry bends
 
 
 
@@ -29,7 +29,7 @@ Center
 Twist
 ************************************************************
 
-Twist Geometry over the axis
+Twist geometry over the axis
 
 .. image:: images/twist.PNG
 
@@ -52,3 +52,25 @@ Limits Upper
   Limits twist from the axis top
 
 .. image:: images/twist_limit.PNG
+
+
+
+************************************************************
+Stretch
+************************************************************
+
+Stretches geometry over the axis
+
+.. image:: images/bend.PNG
+
+Angle
+  Amount of deformation
+
+Axis
+  Test test test
+
+Axis Rotation
+  Test test test
+
+Center
+  Poistion from where Geometry bends
