@@ -170,3 +170,34 @@ Fit to Curve
 Limit Offset
   **On:** When using **Offset** values between **0** and **1** geometry bounds won't go past curve ends 
 
+
+
+************************************************************
+Displace
+************************************************************
+
+Displaces geometry along Normal or XYZ directions
+
+.. image:: images/displace.PNG
+
+Texture
+  Texture 
+  
+Strength
+  Strength of displacment 
+ 
+Midlevel
+  Offset of texture values  
+  
+Normal/XYZ Direction
+  Displacment along the Normal or XTZ Direction
+  
+.. image:: images/displace_xyz.PNG
+  
+XYZ Strength
+  Strength of displacment on each axis
+  
+  
+  
+  
+  
