@@ -43,7 +43,7 @@ Axis
   Test test test
 
 Center
-  Poistion from where Geometry twist
+  Poistion from where geometry twist
   
 Limits Lower
   Limits twist from the axis bottom
