@@ -134,3 +134,28 @@ Limits Lower
   
 Limits Upper
   Limits taper from the axis top
+
+
+
+************************************************************
+Curve Deform
+************************************************************
+
+Deforms geometry along the curve
+
+.. image:: images/curve_deform.PNG
+
+Offset
+  Moves geometry along the curve
+
+Axis
+  Bending direction
+- 1.0.0 = **X**
+- 0.1.0 = **Y**
+- 0.0.1 = **Z**
+
+Axis Rotation
+  Test test test
+
+Center
+  Poistion from where geometry bends
