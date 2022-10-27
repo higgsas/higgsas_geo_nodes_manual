@@ -20,6 +20,7 @@ Contents
 
 .. toctree::
 
+   installation
    deformers
    generators
    usage
