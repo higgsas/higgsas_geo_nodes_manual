@@ -75,7 +75,9 @@ Squish
 - **Off:** Only scales geometry over the axis while preserving mesh volume
 
 Squish Strengh
-  Srengh of squish effect
+  Srengh of squish effect. Positive values **Streches** geometry, negative values **Squishes** geometry
+  
+.. image:: images/stretch_factor.PNG  
 
 Center
   Poistion from where Geometry bends
