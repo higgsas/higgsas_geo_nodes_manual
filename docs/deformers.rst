@@ -87,3 +87,38 @@ Limits Lower
   
 Limits Upper
   Limits stretch from the axis top  
+  
+  
+  
+  ************************************************************
+Taper
+************************************************************
+
+Twist geometry over the axis
+
+.. image:: images/taper.PNG
+
+Upper Factor
+  Taper amount from the axis top
+
+Lower Factor
+  Taper amount from the axis bottom
+
+.. image:: images/taper_factor.PNG
+
+Axis
+  Test test test
+
+Squish
+  Squishes geometry into parabolic shape
+  
+.. image:: images/taper_squish.PNG  
+
+Center
+  Poistion from where geometry tapers
+  
+Limits Lower
+  Limits taper from the axis bottom
+  
+Limits Upper
+  Limits taper from the axis top
