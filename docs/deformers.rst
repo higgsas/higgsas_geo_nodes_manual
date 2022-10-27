@@ -63,14 +63,15 @@ Stretches geometry over the axis
 
 .. image:: images/bend.PNG
 
-Angle
-  Amount of deformation
+Factor
+  Amount of steching
 
 Axis
   Test test test
 
-Axis Rotation
-  Test test test
+Squish
+  **On:** 
+  **Off:**
 
 Center
   Poistion from where Geometry bends
