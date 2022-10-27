@@ -83,7 +83,7 @@ Axis
 - 0.1.0 = **Y**
 - 0.0.1 = **Z**
 
-Squish
+**Squish**
 
 - **On:** Squishes geometry into parabolic shape
 - **Off:** Only scales geometry over the axis while preserving mesh volume
@@ -121,7 +121,7 @@ Lower Factor
 .. image:: images/taper_factor.PNG
 
 Axis
-  Stretch direction
+  Taper direction
 - 1.0.0 = **X**
 - 0.1.0 = **Y**
 - 0.0.1 = **Z**
@@ -154,13 +154,19 @@ Offset
   Moves geometry along the curve
 
 Axis
-  Bending direction
+  Deformation direction
 - 1.0.0 = **X**
 - 0.1.0 = **Y**
 - 0.0.1 = **Z**
 
-Axis Rotation
-  Test test test
-
 Center
   Poistion from where geometry bends
+  
+Fit to Curve
+  **On:** Stretchs geometry along the curve lenth
+  
+.. image:: images/curve_deform_fit.PNG
+
+Limit Offset
+  **On:** When using **Offset** values between **0** and **1** geometry bounds won't go past curve ends 
+
