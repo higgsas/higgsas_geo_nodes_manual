@@ -80,7 +80,7 @@ Squish Strengh
 .. image:: images/stretch_factor.PNG  
 
 Center
-  Poistion from where Geometry bends
+  Poistion from where geometry stretches
   
 Limits Lower
   Limits stretch from the axis bottom
