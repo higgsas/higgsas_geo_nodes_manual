@@ -21,6 +21,6 @@ Contents
 .. toctree::
 
    deformers
-   generatros
+   generators
    usage
    api
