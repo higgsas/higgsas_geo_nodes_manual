@@ -18,5 +18,5 @@ You can
 - Select all nodes and press `Link`
 .. image:: images/instal4.png
 
-Go to ``File/Defaults/Save Startup File`` and press `Save Startup File`
+Go to ``File/Defaults/Save Startup File`` and press `Save Startup File` 
 .. image:: images/instal5.png
