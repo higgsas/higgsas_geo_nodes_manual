@@ -27,6 +27,7 @@ Threshold
     Use **Attribute Smooth** node to smooth edges
     
     .. image:: images/marching_sqaures_tip.png
+    
     .. image:: images/marching_sqaures_tip1.png
     
 .. warning::
