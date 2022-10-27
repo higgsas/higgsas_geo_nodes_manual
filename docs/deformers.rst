@@ -199,5 +199,14 @@ XYZ Strength
   
   
   
-  
+************************************************************
+Face Offset
+************************************************************
+
+Evenly offsets mesh faces
+
+.. image:: images/face_offset.PNG
+
+Offset
+  Distance of the offset
   
