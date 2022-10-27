@@ -211,6 +211,6 @@ Offset
   Distance of the offset
   
 .. limitation::
-   If faces are connected, offset will be incorect
+    If faces are connected, offset will be incorect
     .. image:: images/face_offset_limit.PNG
 
