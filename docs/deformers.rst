@@ -61,7 +61,7 @@ Stretch
 
 Stretches geometry over the axis
 
-.. image:: images/bend.PNG
+.. image:: images/stretch.PNG
 
 Factor
   Amount of steching
