@@ -70,6 +70,7 @@ Axis
   Test test test
 
 Squish
+
 - **On:** Squishes geometry into parabolic shape
 - **Off:** Only scales geometry over the axis while preserving mesh volume
 
