@@ -7,10 +7,10 @@ Marching Squares
 
 Creates edge lines on faces using gradient of the texture
 
-.. image:: images/marching_sqaures.PNG
-.. image:: images/marching_sqaures1.png
-.. image:: images/marching_sqaures2.png
-.. image:: images/marching_sqaures3.PNG
+.. image:: images/marching_squares.PNG
+.. image:: images/marching_squares1.png
+.. image:: images/marching_squares2.png
+.. image:: images/marching_squares3.PNG
 
 Texture
   Texture 
@@ -26,9 +26,9 @@ Threshold
 .. tip::
     Use **Attribute Smooth** node to smooth edges
     
-    .. image:: images/marching_sqaures_tip.png
+    .. image:: images/marching_squares_tip.png
     
-    .. image:: images/marching_sqaures_tip1.png
+    .. image:: images/marching_squares_tip1.png
     
 .. warning::
     Node only works quad faces (face has 4 vertises)
