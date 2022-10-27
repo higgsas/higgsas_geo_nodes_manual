@@ -71,8 +71,17 @@ Axis
 
 Squish
 
-- **On:** tes test
-- **Off:** tes tes
+- **On:** Squishes geometry into parabolic shape
+- **Off:** Only scales geometry over the axis while preserving mesh volume
+
+Squish Strengh
+  Srengh of squish effect
 
 Center
   Poistion from where Geometry bends
+  
+Limits Lower
+  Limits stretch from the axis bottom
+  
+Limits Upper
+  Limits stretch from the axis top  
