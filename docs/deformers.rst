@@ -232,7 +232,7 @@ Factor
   Factor of the to sphere deformation
   
 Scale
-  Scale of the sphere
+  Scale of the sphere.
   Uses Bounding Box average to calculate sphere size
   
 Center
