@@ -3,7 +3,7 @@ Installation
 
 You can 
 
-- Open `Blender`
+- Open :guilabel:`Blender`
 .. image:: images/instal.PNG
 
 - Go to ``File/Link``
@@ -14,14 +14,14 @@ You can
 
 .. image:: images/instal2.png
 
-- Double click `NodeTree` folder 
+- Double click :guilabel:`NodeTree` folder 
 
 .. image:: images/instal3.png
 
-- Select all nodes and press `Link`
+- Select all nodes and press :guilabel:`Link`
 
 .. image:: images/instal4.png
 
-Go to ``File/Defaults/Save Startup File`` and press `Save Startup File`
+Go to ``File/Defaults/Save Startup File`` and press :guilabel:`Save Startup File`
 
 .. image:: images/instal5.png
