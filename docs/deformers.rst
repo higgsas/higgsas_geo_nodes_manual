@@ -21,7 +21,7 @@ Axis
 .. image:: images/bend_axis.PNG
 
 Axis Rotation
-  Test test test
+  Rotates axis direction similar how Simple Deform modifier work with Origin set as rotated empty
 .. image:: images/bend_axis_rot.png
 .. image:: images/bend_axis_rot1.png
 .. image:: images/bend_axis_rot2.png
