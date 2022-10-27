@@ -217,6 +217,9 @@ Offset
     If faces are connected, offset will be incorect
     
     .. image:: images/face_offset_limit.PNG
+    
+Selection
+  Selects what faces to deform
 
 
 
