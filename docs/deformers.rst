@@ -70,8 +70,8 @@ Axis
   Test test test
 
 Squish
-  **On:** 
-  **Off:**
+  **On:** tes test
+  **Off:** tes tes
 
 Center
   Poistion from where Geometry bends
