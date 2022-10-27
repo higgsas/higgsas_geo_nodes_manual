@@ -43,7 +43,10 @@ Lower Angle
   Twist Amount from the axis bottom
 
 Axis
-  Test test test
+  Twist direction
+- 1.0.0 = **X**
+- 0.1.0 = **Y**
+- 0.0.1 = **Z**
 
 Center
   Poistion from where geometry twist
@@ -70,7 +73,10 @@ Factor
   Amount of steching
 
 Axis
-  Test test test
+  Stretch direction
+- 1.0.0 = **X**
+- 0.1.0 = **Y**
+- 0.0.1 = **Z**
 
 Squish
 
@@ -110,7 +116,10 @@ Lower Factor
 .. image:: images/taper_factor.PNG
 
 Axis
-  Test test test
+  Stretch direction
+- 1.0.0 = **X**
+- 0.1.0 = **Y**
+- 0.0.1 = **Z**
 
 Squish
   Squishes geometry into parabolic shape
