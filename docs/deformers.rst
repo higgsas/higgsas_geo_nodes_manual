@@ -181,7 +181,7 @@ Displaces geometry along Normal or XYZ directions
 .. image:: images/displace.PNG
 
 Texture
-  Texture 
+  Scales direction of displacment
   
 Strength
   Strength of displacment 
