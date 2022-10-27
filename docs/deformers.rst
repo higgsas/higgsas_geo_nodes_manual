@@ -22,7 +22,11 @@ Axis
 
 Axis Rotation
   Test test test
-
+.. image:: images/bend_axis_rot.PNG
+.. image:: images/bend_axis_rot1.PNG
+.. image:: images/bend_axis_rot2.PNG
+.. image:: images/bend_axis_rot3.PNG
+.. image:: images/bend_axis_rot4.PNG
 Center
   Poistion from where geometry bends
 
