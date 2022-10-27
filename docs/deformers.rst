@@ -197,6 +197,9 @@ Normal/XYZ Direction
 XYZ Strength
   Strength of displacment on each axis
   
+Mask
+  Mask for displacment strength
+  
   
   
 ************************************************************
@@ -214,4 +217,35 @@ Offset
     If faces are connected, offset will be incorect
     
     .. image:: images/face_offset_limit.PNG
+
+
+
+************************************************************
+To Sphere
+************************************************************
+
+Deforms geometry in to sphere
+
+.. image:: images/to_sphere.PNG
+
+Factor
+  Factor of the to sphere deformation
+  
+Scale
+  Scale of the sphere
+  Uses Bounding Box average to calculate sphere size
+  
+Center
+  Center of sphere deformation
+  
+Mask
+ Mask for sphere deformation strength
+
+
+
+
+
+
+
+
 
