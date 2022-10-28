@@ -31,5 +31,5 @@ Threshold
     .. image:: images/marching_squares_tip1.png
     
 .. warning::
-    Node only works quad faces (face has 4 vertises)
+    Node only works on quad faces (face that has 4 vertises)
 
