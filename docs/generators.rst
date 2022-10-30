@@ -86,6 +86,13 @@ Component
 
 - **Constant Scale:** Uniformly scales component
 - **Reletive Scale:**  Scales component reletive to face area
+
+Scale
+  Scale factor
+  
+Flip
+  Rotates component 90 degrees 
+  
   
   
   
