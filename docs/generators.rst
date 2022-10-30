@@ -75,6 +75,7 @@ Tessellate Mesh
 Creates edge lines on quad faces using gradient of the texture
 
 .. image:: images/tessellate_mesh.PNG
+.. image:: images/tessellate_mesh2.jpeg
 
 Mesh 
   Mesh
