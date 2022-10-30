@@ -43,6 +43,7 @@ Marching Triangles
 Creates edge lines on tris faces using gradient of the texture
 
 .. image:: images/marching_triangles.PNG
+.. image:: images/marching_triangles_s1.png
 
 Texture
   Texture 
