@@ -32,7 +32,7 @@ Threshold
     .. image:: images/marching_squares_tip1.png
     
 .. warning::
-    Node only works on quad faces (face that has 4 vertises)
+    Node only works on quad faces (faces that has 4 vertises)
 
 
 
@@ -64,7 +64,7 @@ Threshold
     .. image:: images/marching_squares_tip1.png
     
 .. warning::
-    Node only works on tris faces (face that has 3 vertises)
+    Node only works on tris faces (faces that has 3 vertises)
 
 
 
@@ -78,7 +78,7 @@ Instances geometry (Component) on mesh faces and deforms to match face
 .. image:: images/tessellate_mesh2.jpeg
 
 Mesh 
-  Mesh
+  Mesh on which 
   
 Component
   as
@@ -103,12 +103,12 @@ Flip
 - **3** = 270° 
   
 Pick Component
-  **ON:** Picks component from the instances list, similar how **Instance on Points/Pick Instace** works   
+  **ON:** Picks component from the instances list, similar how **Instance on Points/Pick Instace** node works   
   
 .. image:: images/tessellate_mesh_pick.PNG
 
 Component Index
-  When *Pick Component** is On, Selects which component to use from the instaces list, similar how **Instance on Points/Instance Index**  works  
+  When **Pick Component** is On, Selects which component to use from the instaces list, similar how **Instance on Points/Instance Index** node works  
   
 Merge
   Merges geometry by distance
