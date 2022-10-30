@@ -103,14 +103,18 @@ Flip
 - **3** = 270° 
   
 Pick Component
-  **ON:** Picks component from the list of instances similar how **Instance on Points/Pick Instace** works   
+  **ON:** Picks component from the instances list, similar how **Instance on Points/Pick Instace** works   
   
 .. image:: images/tessellate_mesh_pick.PNG
 
 Component Index
   When *Pick Component** is On, Selects which component to use from the instaces list, similar how **Instance on Points/Instance Index**  works  
   
+Merge
+  Merges geometry by distance
   
+Merge Distance
+  Distance when geoemty gets merge
   
   
   
