@@ -72,7 +72,7 @@ Threshold
 Tessellate Mesh
 ************************************************************
 
-Creates edge lines on quad faces using gradient of the texture
+Instances geometry (Component) on faces and deforms to match face
 
 .. image:: images/tessellate_mesh.PNG
 .. image:: images/tessellate_mesh2.jpeg
