@@ -101,9 +101,8 @@ Flip
 - **2** = 180° 
 - **3** = 270° 
   
-  
-  
-  
+Pick Component
+  **ON:** Picks component from the list of instances similar how **Instance on Points** / **Pick Instace** works   
   
   
   
