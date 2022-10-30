@@ -78,7 +78,7 @@ Instances geometry (Component) on mesh faces and deforms to match face
 .. image:: images/tessellate_mesh2.jpeg
 
 Component
-  as
+  Geometry that is being deformed to match mesh faces
   
 **Constant/Reletive Scale**
 
@@ -130,7 +130,7 @@ Instances geometry (Component) on mesh faces and deforms to match (Subsurface Su
 .. image:: images/tessellate_mesh_smooth2.PNG
 
 Component
-  as
+  Geometry that is being deformed to match mesh faces
   
 **Constant/Reletive Scale**
 
