@@ -72,7 +72,7 @@ Threshold
 Tessellate Mesh
 ************************************************************
 
-Instances geometry (Component) on faces and deforms to match face
+Instances geometry (Component) on mesh faces and deforms to match face
 
 .. image:: images/tessellate_mesh.PNG
 .. image:: images/tessellate_mesh2.jpeg
