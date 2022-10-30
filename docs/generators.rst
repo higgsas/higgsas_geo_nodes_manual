@@ -90,9 +90,16 @@ Component
 Scale
   Scale factor
   
+Offset
+  Offsets component location on face
+  
 Flip
   Rotates component 90 degrees 
   
+- **0** = 0°   
+- **1** = 90° 
+- **2** = 180° 
+- **3** = 270° 
   
   
   
