@@ -65,3 +65,35 @@ Threshold
     
 .. warning::
     Node only works on tris faces (face that has 3 vertises)
+
+
+
+************************************************************
+Tessellate Mesh
+************************************************************
+
+Creates edge lines on quad faces using gradient of the texture
+
+.. image:: images/tessellate_mesh.PNG
+
+Mesh 
+  Mesh
+  
+Component
+  as
+  
+**Constant/Reletive Scale**
+
+- **Constant Scale:** Uniformly scales component
+- **Reletive Scale:**  Scales component reletive to face area
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
