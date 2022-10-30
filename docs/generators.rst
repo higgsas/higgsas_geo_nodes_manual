@@ -119,7 +119,52 @@ Merge Distance
     .. image:: images/tessellate_mesh_warn.PNG
 
     
+
+************************************************************
+Tessellate Mesh Smooth
+************************************************************
+
+Instances geometry (Component) on mesh faces and deforms to match (Subsurface Subdivided) face
+
+.. image:: images/tessellate_mesh_smooth.PNG
+.. image:: images/tessellate_mesh_smooth2.PNG
+
+Component
+  as
   
+**Constant/Reletive Scale**
+
+- **Constant Scale:** Uniformly scales component
+- **Reletive Scale:**  Scales component reletive to face area
+
+Scale
+  Scale factor
+  
+Offset
+  Offsets component location from mesh face normal
+  
+Flip
+  Rotates component 90 degrees 
+  
+- **0** = 0°   
+- **1** = 90° 
+- **2** = 180° 
+- **3** = 270° 
+  
+Pick Component
+  **ON:** Picks component from the instances list, similar how **Instance on Points/Pick Instace** node works   
+  
+.. image:: images/tessellate_mesh_pick.PNG
+
+Component Index
+  When **Pick Component** is On, Selects which component to use from the instaces list, similar how **Instance on Points/Instance Index** node works  
+    
+.. warning::
+    Tris and n-gon faces will be ignored 
+    
+
+
+    
   
   
   
