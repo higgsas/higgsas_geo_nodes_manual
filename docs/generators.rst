@@ -124,13 +124,18 @@ Merge Distance
 Tessellate Mesh Smooth
 ************************************************************
 
-Instances geometry (Component) on mesh faces and deforms to match (Subsurface Subdivided) face
+Instances geometry (Component) on mesh faces and deforms to match (Subdivision Surface) face
 
 .. image:: images/tessellate_mesh_smooth.PNG
 .. image:: images/tessellate_mesh_smooth2.PNG
 
 Component
   Geometry that is being deformed to match mesh faces
+  
+Subdivisions
+  Smoothly subdivides (Subdivision Surface) input mesh 
+  
+.. image:: images/tessellate_mesh_smooth_sub.PNG
   
 **Constant/Reletive Scale**
 
