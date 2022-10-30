@@ -116,6 +116,12 @@ Merge
 Merge Distance
   Distance when geoemty gets merge
   
+.. warning::
+    For triangle and n-gon faces results can be undesirable
+    
+    .. image:: images/tessellate_mesh_warn.PNG
+
+    
   
   
   
