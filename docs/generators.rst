@@ -103,9 +103,12 @@ Flip
 - **3** = 270° 
   
 Pick Component
-  **ON:** Picks component from the list of instances similar how **Instance on Points/Pick Instace**  node works   
+  **ON:** Picks component from the list of instances similar how **Instance on Points/Pick Instace** works   
   
 .. image:: images/tessellate_mesh_pick.PNG
+
+Component Index
+  When *Pick Component** is On, Selects which component to use from the instaces list, similar how **Instance on Points/Instance Index**  works  
   
   
   
