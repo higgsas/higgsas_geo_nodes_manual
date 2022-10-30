@@ -77,9 +77,6 @@ Instances geometry (Component) on mesh faces and deforms to match face
 .. image:: images/tessellate_mesh.PNG
 .. image:: images/tessellate_mesh2.jpeg
 
-Mesh 
-  Mesh on which 
-  
 Component
   as
   
@@ -92,7 +89,7 @@ Scale
   Scale factor
   
 Offset
-  Offsets component location on face
+  Offsets component location from mesh face normal
   
 Flip
   Rotates component 90 degrees 
