@@ -5,7 +5,7 @@ Distribution
 Distribute Points in Volume
 ************************************************************
 
-Distributes Points inside mesh volime
+Distributes points inside mesh volume
 
 .. image:: images/dist_p_i_v.PNG
 
@@ -18,6 +18,22 @@ Radius
 Seed
   Seed of the random distribution
 
+
+
+************************************************************
+Volume Points Grid
+************************************************************
+
+Distributes points inside mesh volume in grid pattern
+
+.. image:: images/d_p_g.PNG
+
+Density
+  Amount of points inside volume
+  
+World Space
+  **On:** Points dstribution stays at world coordinates if mesh moving
+  
 
 
 ************************************************************
