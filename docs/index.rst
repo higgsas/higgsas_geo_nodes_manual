@@ -23,6 +23,7 @@ Contents
    installation
    deformers
    generators
+   distribution
    primitives
    usage
    api
