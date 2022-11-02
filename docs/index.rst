@@ -25,5 +25,6 @@ Contents
    generators
    distribution
    primitives
+   selection
    usage
    api
