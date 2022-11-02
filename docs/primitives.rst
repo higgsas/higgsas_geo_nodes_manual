@@ -148,6 +148,11 @@ Q
   
 Curve
   Outputs torus knot curve
+  
+Trefoil Knot
+  Trefoil Knot
+  
+.. image:: images/torus_knot_t.PNG
 
   
   
