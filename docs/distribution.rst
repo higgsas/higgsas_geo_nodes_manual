@@ -154,13 +154,13 @@ Distance
   Distance between distributed points
   
 Radius
-  Radius of the sphere
+  Radius of the disk
   
 Scale
   Scale of the points gap
   
-Poles Distance
-  Increases gap on the sphere poles
+Pole Distance
+  Increases gap on the disk pole
   
 .. image:: images/h_d_p_d.PNG
 
