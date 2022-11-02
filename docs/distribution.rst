@@ -21,6 +21,28 @@ Seed
 
 
 ************************************************************
+Distribute Points on Edges
+************************************************************
+
+Distributes Points on mesh edges
+
+.. image:: images/dist_p_o_e.PNG
+
+Count
+  Amount of points
+  
+Radius
+  Radius of the points
+  
+Seed
+  Seed of the random distribution
+  
+Selection
+  Selection of the edges that points will be distributed
+
+
+
+************************************************************
 Random Points
 ************************************************************
 
