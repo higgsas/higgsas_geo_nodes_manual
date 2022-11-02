@@ -6,7 +6,7 @@ You can
 
 Go to``Edit/Preferences/File Paths/Asset Libraries`` and add node group :guilabel:`.blend` file to the Path folder
 
-.. image:: images/instal_asset.PNG
+.. image:: images/instal_asset1.PNG
 
 .. image:: images/instal_asset2.PNG
 
