@@ -5,6 +5,9 @@ Selection
 Bounding Region Selection
 ************************************************************
 
-Distributes points inside mesh volume
+Boolean selection on the axis
 
-.. image:: images/dist_p_i_v.PNG
+.. image:: images/b_r_s.PNG
+
+X
+  Axis 
