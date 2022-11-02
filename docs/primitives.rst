@@ -145,16 +145,14 @@ P
   
 Q
   Integer number for the equation  
-  
-Curve
-  Outputs torus knot curve
-  
+   
 Trefoil Knot
   Trefoil Knot
   
 .. image:: images/torus_knot_t.PNG
 
-  
+Curve
+  Outputs torus knot curve
   
   
   
