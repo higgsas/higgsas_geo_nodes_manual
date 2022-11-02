@@ -70,6 +70,50 @@ Constant Hex Size
   
 Merge
   Hexagon tiles will be merged
+  
+  
+************************************************************
+Triangle Grid
+************************************************************
+
+Triangle grid mesh primitive
+
+.. image:: images/triangle_grid.PNG
+
+Size
+  Size of the grid
+  
+Hex X
+  Number of triangle tiles on **X** axis
+
+Hex Y
+  Number of triangle tiles on **Y** axis
+
+Gap
+  Gap between trianle tiles
+  
+Constant Hex Size
+  Triangle size will be controlled by **Size** input
+  
+Merge
+  Triangle tiles will be merged
+
+
+
+************************************************************
+Round Cube
+************************************************************
+
+Round cube mesh primitive
+
+.. image:: images/round_cube.PNG
+
+Radius
+  Radius of sphere
+  
+Resoliution
+  Resoliution of the sphere
+
 
 
 
