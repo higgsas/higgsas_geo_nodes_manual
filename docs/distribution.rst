@@ -26,7 +26,7 @@ Volume Points Grid
 
 Distributes points inside mesh volume in grid pattern
 
-.. image:: images/d_p_g.PNG
+.. image:: images/v_p_g.PNG
 
 Density
   Amount of points inside volume
