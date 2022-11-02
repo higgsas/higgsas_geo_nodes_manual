@@ -4,6 +4,11 @@ Installation
 You can 
 
 
+
+************************************************************
+Adding node groups to the Assect Browser
+************************************************************
+
 Go to``Edit/Preferences/File Paths/Asset Libraries`` and add node group :guilabel:`.blend` file to the Path folder, and press :guilabel:`Safe Preferences`
 
 .. image:: images/instal_asset1.PNG
@@ -15,6 +20,11 @@ Now node groups will accessible in :guilabel:`Asset Browser`
 .. warning::
     Node groups are not searchable inside Geometry Nodes editor
 
+
+
+************************************************************
+Linking node groups to the Startup File
+************************************************************
 
 - Open :guilabel:`Blender`
 - Go to ``File/Link``
