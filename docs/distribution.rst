@@ -66,3 +66,13 @@ Radius
   
 Seed
   Seed of the random distribution
+  
+  
+  
+************************************************************
+3D Points Grid
+************************************************************
+
+Distributes points in 3d grid
+
+.. image:: images/3d_p_g.PNG
