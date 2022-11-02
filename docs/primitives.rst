@@ -5,7 +5,7 @@ Mesh Primitives
 Capsule
 ************************************************************
 
-Mesh Capsule primitive
+Mesh capsule primitive
 
 .. image:: images/capsule.PNG
 
@@ -42,3 +42,39 @@ Side
   
 Bottom
   Selection of bottom cap
+  
+  
+ 
+************************************************************
+Hexagon Grid
+************************************************************
+
+Hexagon grid mesh primitive
+
+.. image:: images/hexagon_grid.PNG
+
+Size
+  Size of the grid
+  
+Hex X
+  Number of hexagon tiles on **X** axis
+
+Hex Y
+  Number of hexagon tiles on **Y** axis
+
+Gap
+  Gap between hexagons tiles
+  
+Constant Hex Size
+  Hexagon size will be controlled by **Size** input
+  
+Merge
+  Hexagon tiles will be merged
+
+
+
+
+
+
+
+
