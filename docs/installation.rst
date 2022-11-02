@@ -4,8 +4,6 @@ Installation
 You can 
 
 - Open :guilabel:`Blender`
-.. image:: images/instal.PNG
-
 - Go to ``File/Link``
 
 .. image:: images/instal1.png
