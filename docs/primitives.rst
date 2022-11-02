@@ -116,7 +116,17 @@ Resoliution
 
 
 
+************************************************************
+Torus Knot
+************************************************************
 
+Torus knot mesh and curve primitive
+
+.. image:: images/torus_knot.PNG
+.. image:: images/torus_knot2.png
+
+Segments
+  Number of segments
 
 
 
