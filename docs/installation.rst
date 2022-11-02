@@ -4,11 +4,16 @@ Installation
 You can 
 
 
-Go to``Edit/Preferences/File Paths/Asset Libraries`` and add node group :guilabel:`.blend` file to the Path folder
+Go to``Edit/Preferences/File Paths/Asset Libraries`` and add node group :guilabel:`.blend` file to the Path folder, and press :guilabel:`Safe Preferences`
 
 .. image:: images/instal_asset1.PNG
 
+Now node groups will accessible in :guilabel:`Asset Browser`
+
 .. image:: images/instal_asset2.PNG
+
+.. warning::
+    Node groups are not searchable inside Geometry Nodes editor
 
 
 - Open :guilabel:`Blender`
