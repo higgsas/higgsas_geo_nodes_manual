@@ -23,3 +23,5 @@ You can
 Go to ``File/Defaults/Save Startup File`` and press :guilabel:`Save Startup File`
 
 .. image:: images/instal5.png
+
+Now the node groups will be linked to the startup file, so everytime you open :guilabel:`Blender` node groups will be available and searchable inside Geomety Nodes editor
