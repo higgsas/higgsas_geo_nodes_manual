@@ -3,6 +3,14 @@ Installation
 
 You can 
 
+
+Go to``Edit/Preferences/File Paths/Asset Libraries`` and add node group :guilabel:`.blend` file to the Path folder
+
+.. image:: images/instal_asset.png
+
+.. image:: images/instal_asset2.png
+
+
 - Open :guilabel:`Blender`
 - Go to ``File/Link``
 
