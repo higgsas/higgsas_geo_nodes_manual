@@ -24,5 +24,21 @@ Radius
 Depth
   Depth of the capsule
   
-Top Cap
+**Top Cap**
+
+- **On:** Round cap
+- **Off:** Flat cap
+
+**Bottom Cap**
+
+- **On:** Round cap
+- **Off:** Flat cap
+
+Top
+  Selection of top cap
   
+Side
+  Selection of side capsule
+  
+Bottom
+  Selection of bottom cap
