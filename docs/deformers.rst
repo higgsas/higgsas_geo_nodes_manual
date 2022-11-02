@@ -213,14 +213,14 @@ Evenly offsets mesh faces
 Offset
   Distance of the offset
   
+Selection
+  Selects what faces to deform
+
 .. warning::
     If faces are connected, offset will be incorect
     
     .. image:: images/face_offset_limit.PNG
     
-Selection
-  Selects what faces to deform
-
 
 
 ************************************************************
