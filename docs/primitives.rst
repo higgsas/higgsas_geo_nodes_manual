@@ -125,8 +125,40 @@ Torus knot mesh and curve primitive
 .. image:: images/torus_knot.PNG
 .. image:: images/torus_knot2.png
 
-Segments
-  Number of segments
+Major Resolution
+  Resoliution of the knot curve
+  
+Minor Resoliution
+  Resoliution of the profile curve
+  
+Profile Radius
+  Radius of the profile curve
+  
+Major Radius
+  Radius of the knot curve
+  
+Minor Radius
+  Radius of the profile curve
+  
+P
+  Integer number for the equation  
+  
+Q
+  Integer number for the equation  
+  
+Curve
+  Outputs torus knot curve
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
