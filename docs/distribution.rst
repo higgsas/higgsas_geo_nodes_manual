@@ -76,3 +76,20 @@ Seed
 Distributes points in 3d grid
 
 .. image:: images/3d_p_g.PNG
+
+Size
+  Size of the grid
+  
+Points X
+  Amount of points in X axis
+  
+Points Y
+  Amount of points in Y axis  
+  
+Points Z
+  Amount of points in Z axis  
+  
+Radius
+  Radius of the points
+  
+  
