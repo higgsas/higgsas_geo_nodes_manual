@@ -49,8 +49,18 @@ Thickness
   Distance of the offset from the curve
   
 Rotation
-  Amount of rotaions
+  Amount of rotation
   
+  
+
+************************************************************
+Loft Splines
+************************************************************
+
+Connects splines
+
+.. image:: images/loft_splines.PNG
+.. image:: images/loft_splines.jpeg
 
 
 
