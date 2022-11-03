@@ -49,10 +49,10 @@ Target
 Edge Angle Selection
 ************************************************************
 
-Selects mesh edges based on angle
+Selects mesh edges based on edges angle
 
 .. image:: images/e_a_s.PNG
 
 Angle
-  Selects mesh edges 
+  Selects mesh edges that are greather than Angle input
 
