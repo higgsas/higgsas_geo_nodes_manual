@@ -18,7 +18,7 @@ Y
 Z
   Ratio of the axis position selection
   
--X
+"-X"
   Ratio of the axis position selection
   
 -Y
