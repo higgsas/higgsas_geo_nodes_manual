@@ -43,3 +43,16 @@ Checks if point are inside Taget mesh volume
 
 Target
   Mesh that being used to check if points are inside it
+  
+  
+************************************************************
+Edge Angle Selection
+************************************************************
+
+Selects mesh edges based on angle
+
+.. image:: images/e_a_s.PNG
+
+Angle
+  Selects mesh edges 
+
