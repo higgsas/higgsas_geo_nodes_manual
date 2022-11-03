@@ -68,3 +68,26 @@ Selects mesh edges that are on the boundary
 .. image:: images/boundary_edge.PNG
 
 
+
+************************************************************
+Expand / Contract Selection
+************************************************************
+
+Expands or contracts selection
+
+.. image:: images/e_c_s.PNG
+
+Selection
+  Selection input that will be contracted expanded
+  
+Steps
+  **Positive** values will expand selection, **Negative** valuesa will contract selection
+  
+**To Face / To Edge**
+  
+- **On:** Expands/contract selection towards mesh neighbor edges 
+- **Off:** Expands/contract selection towards mesh neighbor faces 
+
+
+
+
