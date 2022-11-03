@@ -28,3 +28,29 @@ Axis/Normal
 Axis
   Axis direction
 
+
+
+************************************************************
+Twist Curve
+************************************************************
+
+Evenly offsets curve from axis or normal
+
+.. image:: images/twist_curve.PNG
+.. image:: images/twist_curve2.PNG
+
+Spline Amount
+  Duplicates splines
+  
+Factor/Lenth
+  Uses splines factor or lenth paramater for the rotations
+  
+Thickness
+  Distance of the offset from the curve
+  
+Rotation
+  Amount of rotaions
+  
+
+
+
