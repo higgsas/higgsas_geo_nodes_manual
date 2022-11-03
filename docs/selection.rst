@@ -21,10 +21,10 @@ Z
 '-X'
   Ratio of the axis position selection
   
--Y
+'-Y'
   Ratio of the axis position selection
   
--Z
+'-Z'
   Ratio of the axis position selection
 
 Invert
