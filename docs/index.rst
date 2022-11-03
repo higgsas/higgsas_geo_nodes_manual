@@ -24,6 +24,7 @@ Contents
    deformers
    generators
    distribution
+   curves
    primitives
    selection
    usage
