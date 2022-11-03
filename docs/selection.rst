@@ -81,7 +81,7 @@ Selection
   Selection input that will be contracted expanded
   
 Steps
-  **Positive** values will expand selection, **Negative** valuesa will contract selection
+  **Positive** values will expand selection, **Negative** values will contract selection
   
 **To Face / To Edge**
   
