@@ -75,7 +75,7 @@ Expand / Contract Selection
 
 Expands or contracts selection
 
-.. image:: images/e_c_s.PNG
+.. image:: images/e_c_s.png
 
 Selection
   Selection input that will be contracted expanded
