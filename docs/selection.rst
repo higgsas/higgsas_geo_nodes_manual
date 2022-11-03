@@ -5,12 +5,30 @@ Selection
 Bounding Region Selection
 ************************************************************
 
-Boolean selection based on the axis
+Boolean selection based on the axis position from the goemetry bounding box
 
 .. image:: images/b_r_s.PNG
 
 X
-  Axis 
+  Ratio of the axis position selection
+  
+Y
+  Ratio of the axis position selection
+  
+Z
+  Ratio of the axis position selection
+  
+-X
+  Ratio of the axis position selection
+  
+-Y
+  Ratio of the axis position selection
+  
+-Z
+  Ratio of the axis position selection
+
+Invert
+  Inverts selection
 
 
 
