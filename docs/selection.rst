@@ -5,7 +5,7 @@ Selection
 Bounding Region Selection
 ************************************************************
 
-Boolean selection on the axis
+Boolean selection based on the axis
 
 .. image:: images/b_r_s.PNG
 
@@ -29,5 +29,17 @@ Direction
   Direction of the selection
   
 Positive/Negative
-  **On:** Select both negative and positive normal direction
+  **On:** Select both negative and positive directions of the normal
   
+
+
+************************************************************
+Is Inside Volume
+************************************************************
+
+Checks if point are inside Taget mesh volume
+
+.. image:: images/is_inside_volume.PNG
+
+Target
+  Mesh that being used to check if points are inside it
