@@ -45,6 +45,7 @@ Target
   Mesh that being used to check if points are inside it
   
   
+  
 ************************************************************
 Edge Angle Selection
 ************************************************************
@@ -55,4 +56,15 @@ Selects mesh edges based on edges angle
 
 Angle
   Selects mesh edges that are greather than Angle input
+  
+  
+
+************************************************************
+Boundary Edge
+************************************************************
+
+Selects mesh edges that are on the boundary
+
+.. image:: images/boundary_edge.PNG
+
 
