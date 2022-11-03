@@ -2,6 +2,35 @@ Curves
 ===================================
 
 ************************************************************
+Loft Splines
+************************************************************
+
+Connects splines
+
+.. image:: images/loft_splines.PNG
+.. image:: images/loft_splines.jpeg
+
+Bezier/Catmull/Poly
+  Interpolation method
+  
+Resample Splines
+  Resamples splines. **Tip:** Use it if splines has uneven controls points 
+  
+Resample Count
+  Resamples spline points count
+  
+Subdivide
+  Subdivides connection between splines
+  
+Cyclic Splines
+  Connects input splines
+  
+Cyclic Loft
+  Connected loft
+
+
+
+************************************************************
 Curve Offset
 ************************************************************
 
@@ -52,31 +81,3 @@ Rotation
   Amount of rotation
   
   
-
-************************************************************
-Loft Splines
-************************************************************
-
-Connects splines
-
-.. image:: images/loft_splines.PNG
-.. image:: images/loft_splines.jpeg
-
-Bezier/Catmull/Poly
-  Interpolation method
-  
-Resample Splines
-  Resamples splines. **Tip:** Use it if splines has uneven controls points 
-  
-Resample Count
-  Resamples spline points count
-  
-Subdivide
-  Subdivides connection between splines
-  
-Cyclic Splines
-  Connects input splines
-  
-Cyclic Loft
-  Connected loft
-
