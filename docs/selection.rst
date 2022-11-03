@@ -20,7 +20,7 @@ Select by Normal
 
 Boolean selection based on geometry normal direction
 
-.. image:: images/select_by_normal.PNG
+.. image:: images/select_by_normal.png
 
 Factor
   Factor of the normal selection
