@@ -113,6 +113,24 @@ U/V
 
 
 ************************************************************
+Gradient Direction
+************************************************************
+
+Creates directional vector from gradient 
+
+.. image:: images/grad_dir.jpeg
+.. image:: images/grad_dir2.PNG
+.. image:: images/grad_dir.PNG
+
+Gradient
+  Gradient float input
+  
+Solenoidal
+  Divergence-free vector field
+
+
+
+************************************************************
 Face Vertex Poistion
 ************************************************************
 
