@@ -66,7 +66,7 @@ Attribute
   Name of the thickness value attribute on point domain 
   
 .. warning::
-    Node can be really slow depending on mesh density and rays samples. You can "bake it" by applying geometry nodes modifier and the "thicnkess" attribute will be stored on the mesh
+    Node can be really slow depending on mesh density and rays samples. You can "bake it" by applying geometry nodes modifier and the "thickness" attribute will be stored on the mesh
   
   
   
