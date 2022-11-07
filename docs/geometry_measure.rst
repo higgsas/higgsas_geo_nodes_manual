@@ -54,8 +54,7 @@ Rays Samples
   Amount of rays for sampling
   
 Rays Angle
-  Angle that rays direction will be randomly rotated from the original direction (vertex normal)
-  asdasd
+  Angle that rays direction will be randomly rotated. Bigger angle will give more accurate results but with more noise
 
 Seed
   Random seed of the rays random direction
@@ -67,7 +66,7 @@ Attribute
   Name of the thickness value attribute on point domain 
   
 .. warning::
-    Node slow
+    Node can be really slow depending on mesh density and rays samples. You can "bake it" by applying geometry nodes modifier and the "thicnkess" attribute will be stored on the mesh
   
   
   
