@@ -50,6 +50,22 @@ Calculates mesh thickness
 
 .. image:: images/mesh_thick.jpeg
   
+Rays Samples
+  Amount of rays for sampling
+  
+Rays Angle
+  
+
+Seed
+  
+  
+Normalize
+  Fits values between 0 to 1
+  
+Attribute
+  Name of the thickness value attribute on point domain 
+  
+  
   
   
   
