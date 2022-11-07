@@ -115,8 +115,8 @@ Fill Caps
   
 **Factor/Lenth**
 
- -**Factor:** Scales UV map to curve parameter factor
- -**Lenth:**  Scales UV map to curve lenth
+- **Factor:** Scales UV map to curve parameter factor
+- **Lenth:**  Scales UV map to curve lenth
  
 UV Attribute
   Attribute name for storing UV attribute on mesh
@@ -132,7 +132,19 @@ Rotate
 
 
 
+************************************************************
+Curve Point Angle
+************************************************************
 
+Calculates curve points angle from its neighbors points 
+
+.. image:: images/c_p_a.PNG
+.. image:: images/c_p_a2.PNG
+
+Angle
+  Angle output in radians from 0 to 3.14159
+  
+  
 
 
 
