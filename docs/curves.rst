@@ -81,3 +81,18 @@ Rotation
   Amount of rotation
   
   
+
+************************************************************
+Even Curve to Mesh
+************************************************************
+
+Makes curve radius even
+
+.. image:: images/even_curve1.PNG
+.. image:: images/even_curve.PNG
+
+Profile Curve
+  Profile Curve
+  
+Fill Caps
+  Fill Caps
