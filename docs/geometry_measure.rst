@@ -22,6 +22,24 @@ Area Center of Mass
   Position of Area Center of Mass
   
   
+
+************************************************************
+Mesh Island Measure
+************************************************************
+
+Calculates Area, Center, Area Center of Mass for each mesh island
+
+.. image:: images/m_i_m.png
+
+Area
+  Area of the mesh
+  
+Center
+  Position from average vertex locations
+
+Area Center of Mass
+  Position of Area Center of Mass
+  
   
   
   
