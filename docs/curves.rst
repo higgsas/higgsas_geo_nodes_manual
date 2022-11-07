@@ -118,7 +118,7 @@ Fill Caps
  -**Factor:** Scales UV map to curve parameter factor
  -**Lenth:**  Scales UV map to curve lenth
  
- UV Attribute
+UV Attribute
   Attribute name for storing UV attribute on mesh
   
 Pack UV Islands
