@@ -71,6 +71,32 @@ Attribute
   
  
 ************************************************************
+Mesh Tension
+************************************************************
+
+Creates Compression and Tension mask by comparing Face Area before and after mesh deformation
+
+.. image:: images/mesh_tension.png
+.. image:: images/mesh_tension1.png
+
+Original Geometry
+  Geometry before deformation happens
+  
+Strength
+  Strength of the Tension / Compresion values
+  
+Bias
+  Offset of the Tension / Compresion values 
+  
+Tension
+  Output values of the tension map
+
+Compresion
+  Output values of the compresion map
+
+ 
+
+************************************************************
 Face Tangent
 ************************************************************
 
