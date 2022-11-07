@@ -42,6 +42,16 @@ Area Center of Mass
   
   
   
+************************************************************
+Mesh Thickness
+************************************************************
+
+Calculates mesh thickness 
+
+.. image:: images/mesh_thick.jpeg
+  
+  
+  
   
   
   
