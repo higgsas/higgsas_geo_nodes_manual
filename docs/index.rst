@@ -23,6 +23,7 @@ Contents
    installation
    deformers
    generators
+   geometry_measure
    distribution
    curves
    primitives
