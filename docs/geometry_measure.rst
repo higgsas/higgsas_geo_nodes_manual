@@ -71,6 +71,33 @@ Attribute
   
  
 ************************************************************
+Face Tangent
+************************************************************
+
+Creates Direction Vector that points from Face center to its edge
+
+.. image:: images/face_tangent.png
+.. image:: images/face_tangent2.png
+
+Order
+  Selects to which face edge vector points
+  
+Aligh to Direction
+  Choses direction that are closest to the **Direction** input
+
+.. image:: images/face_tangent_a.png
+
+Direction
+  Direction
+  
+Corner Tangent
+  Creates Direction Vector that points from Face center to its vertex
+
+.. image:: images/face_tangent_c.png
+
+
+
+************************************************************
 Face Vertex Poistion
 ************************************************************
 
