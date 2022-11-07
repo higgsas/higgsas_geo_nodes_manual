@@ -54,10 +54,11 @@ Rays Samples
   Amount of rays for sampling
   
 Rays Angle
-  
+  Angle that rays direction will be randomly rotated from the original direction (vertex normal)
+  asdasd
 
 Seed
-  
+  Random seed of the rays random direction
   
 Normalize
   Fits values between 0 to 1
@@ -65,6 +66,8 @@ Normalize
 Attribute
   Name of the thickness value attribute on point domain 
   
+.. warning::
+    Node slow
   
   
   
