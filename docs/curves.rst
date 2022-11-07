@@ -96,3 +96,47 @@ Profile Curve
   
 Fill Caps
   Fill Caps
+
+
+
+************************************************************
+UV Curve to Mesh
+************************************************************
+
+Creates UV map attribute for curves
+
+.. image:: images/uv_curve.jpeg
+
+Profile Curve
+  Profile Curve
+  
+Fill Caps
+  Fill Caps
+  
+**Factor/Lenth**
+
+ -**Factor:** Scales UV map to curve parameter factor
+ -**Lenth:**  Scales UV map to curve lenth
+ 
+ UV Attribute
+  Attribute name for storing UV attribute on mesh
+  
+Pack UV Islands
+  Packs UV Islands
+  
+Margin
+  Gap between UV islands
+  
+Rotate
+  Rotates UV islands for better packing
+
+
+
+
+
+
+
+
+
+
+
