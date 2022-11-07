@@ -96,6 +96,21 @@ Corner Tangent
 .. image:: images/face_tangent_c.png
 
 
+************************************************************
+UV Tangent
+************************************************************
+
+Creates directional vector from UV map on face domain
+
+.. image:: images/uv_tangent.png
+
+UV
+  UV map input for direction calculation
+  
+U/V
+  Choses UV map alightment axis to **U** or **V**
+
+
 
 ************************************************************
 Face Vertex Poistion
