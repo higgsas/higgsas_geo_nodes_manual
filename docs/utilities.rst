@@ -7,8 +7,8 @@ Smooth Attribute
 
 Smooths/blurs attribute
 
-.. image:: images/am_att.png
-.. image:: images/am_att2.png
+.. image:: images/sm_att.png
+.. image:: images/sm_att2.png
 
 Factor
   Factor of the original and smooth attribute value
