@@ -63,7 +63,7 @@ Mirror
   Mirros functions
  
 .. warning::
-    Bounce input doesn't work on **Bounce** function
+    Bounces input doesn't work on **Bounce** function
   
   
 
