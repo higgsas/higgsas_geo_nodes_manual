@@ -53,8 +53,44 @@ Position
   Position of the falloff
   
 Falloff Fac
+  Falloff factor of the sphere gradient
   
+Smooth 
+  Smooths falloff
   
+Min
+  Falloff min Value
+  
+Max
+  Falloff max Value
+
+  
+
+************************************************************
+Radial Falloff
+************************************************************
+
+Creates radial falloff
+
+.. image:: images/rad_fall.png
+
+Rotation
+  Rotation of the falloff
+  
+Direction
+  Direction of the falloff
+  
+Position
+  Position of the falloff
+  
+Flip 
+  Flips falloff
+  
+Min
+  Falloff min Value
+  
+Max
+  Falloff max Value
 
 
 
