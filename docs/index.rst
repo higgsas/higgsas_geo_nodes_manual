@@ -28,5 +28,6 @@ Contents
    curves
    primitives
    selection
+   falloffs
    usage
    api
