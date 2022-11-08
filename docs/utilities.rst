@@ -67,9 +67,35 @@ Mirror
   
   
 
+************************************************************
+Triplanar UV Mapping  
+************************************************************
 
+Creates UV map using triplanar projection method
 
+.. image:: images/tri_uv.PNG
+.. image:: images/tri_uv2.PNG
 
+Translation
+  Translation of Triplanar projection
+  
+Rotation
+  Rotation of Triplanar projection
+  
+Scale
+  Scale of Triplanar projection
+  
+UV Attribute
+  UV attribute name that will be stored on the mesh on face corner domain
+  
+Pack UV Islands
+  Packs UV islands
+  
+Margin
+  Distance between UV islands
+  
+Rotate
+  Rotates packed UV islands
 
 
 
