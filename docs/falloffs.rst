@@ -94,10 +94,62 @@ Max
 
 
 
+************************************************************
+Objectr Directional Falloff
+************************************************************
+
+Creates directional falloff that is controlled by an object
+
+.. image:: images/o_dir_fall.png
+
+Size
+  Size of the falloff
+
+Direction
+  Direction of the falloff
+  
+Offset
+  Offset of falloff position
+  
+Smooth
+  Smooths falloff
+  
+Flip
+  Flips falloff
+  
+Mirror
+  Mirros falloff
+  
+Min
+  Falloff min Value
+  
+Max
+  Falloff max Value
 
 
 
+************************************************************
+Object Spherical Falloff
+************************************************************
 
+Creates spherical falloff that is controlled by an object
+
+.. image:: images/o_sph_fall.png
+
+Radius
+  Radius of the falloff
+  
+Falloff Fac
+  Falloff factor of the sphere gradient
+  
+Smooth 
+  Smooths falloff
+  
+Min
+  Falloff min Value
+  
+Max
+  Falloff max Value
 
 
 
