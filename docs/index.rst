@@ -24,6 +24,7 @@ Contents
    deformers
    generators
    geometry_measure
+   utilities
    distribution
    curves
    primitives
