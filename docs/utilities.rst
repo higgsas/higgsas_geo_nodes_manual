@@ -2,9 +2,89 @@ Utilities
 ===================================
 
 ************************************************************
-Loft Splines
+Mix Float
 ************************************************************
 
-Connects splines
+Mixes between two float values
 
-.. image:: images/loft_splines.PNG
+.. image:: images/mix_float.png
+
+Factor
+  Mix factor
+  
+Value
+  Float Value
+  
+Value
+  Float Value
+  
+  
+  
+************************************************************
+Mix Vector
+************************************************************
+
+Mixes between two vector values
+
+.. image:: images/mix_vector.png
+
+Factor
+  Mix factor
+  
+Value
+  Vector Value
+  
+Value
+  Vector Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
