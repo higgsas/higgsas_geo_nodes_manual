@@ -103,7 +103,7 @@ Rotate
 Box Mapping  
 ************************************************************
 
-Map image using box mapping method 
+Map image on mesh using box mapping method 
 
 .. image:: images/box_map.png
 
