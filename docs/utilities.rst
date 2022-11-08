@@ -188,7 +188,7 @@ Value
 Random Normal Distribution
 ************************************************************
 
-Creates random values that for bell curve (Gaussian Distribution)
+Creates random values that form bell curve (Gaussian Distribution)
 
 .. image:: images/r_n_d.png
 .. image:: images/r_n_d2.png
