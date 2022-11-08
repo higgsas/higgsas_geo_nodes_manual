@@ -184,8 +184,23 @@ Value
 
 
 
+************************************************************
+Random Normal Distribution
+************************************************************
 
+Creates random values that for bell curve (Gaussian Distribution)
 
+.. image:: images/r_n_d.png
+.. image:: images/r_n_d2.png
+
+Standard deviation
+  Spread of the distribution
+  
+Mean
+  Center of the distribution
+
+Seed
+  Seed of the random values
 
 
 
