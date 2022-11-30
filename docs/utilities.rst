@@ -132,7 +132,8 @@ Geometry Visualizer
 
 Show geometry Index values or directional vectors on Vertex, Edges, Faces, Face Corners domains
 
-.. image:: images/sm_att.png
+.. image:: images/geo_v.PNG
+.. image:: images/geo_v2.PNG
 
 **V / E / F / FC**
 
@@ -140,6 +141,8 @@ Show geometry Index values or directional vectors on Vertex, Edges, Faces, Face 
 - **E** Shows **Edge** Indices/Vectors
 - **F** Shows **Face** or Indices/Vectors
 - **FC** Shows **Face Corner** Indices/Vectors
+
+.. image:: images/geo_v3.png
 
 Scale
   Scale of indices letters and directional vectors arros size
@@ -152,6 +155,8 @@ Normal
  
 Curve Tangent
   Show curve tangent arrors
+  
+.. image:: images/geo_vc.png
   
 Custom Vector
   Show custom vector arrors
