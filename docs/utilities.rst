@@ -167,8 +167,14 @@ Show Original Geometry
 
 
 
+************************************************************
+Mesh to Ascii
+************************************************************
 
+Show geometry Index values or directional vectors on Vertex, Edges, Faces, Face Corners domains
 
+.. image:: images/geo_v.PNG
+.. video:: images/m_t_a.mp4
 
 
 
