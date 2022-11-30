@@ -171,10 +171,38 @@ Show Original Geometry
 Mesh to Ascii
 ************************************************************
 
-Show geometry Index values or directional vectors on Vertex, Edges, Faces, Face Corners domains
+Creates Ascii representation of geometry inside camera
 
 .. image:: images/m_t_a.jpeg
 .. image:: images/m_t_a.gif
+
+Mesh
+  Mesh that will be projected as Ascii
+
+Camera
+  Camera that Ascii will be projected from
+
+Focal Lenth
+  Camera focal lenth
+  
+Sensor Size
+  Camera censor size
+  
+Scene Res X
+  Scene X resoliution
+   
+Scene Res Y
+  Scene Y resoliution
+  
+Grid Resoliution
+  
+
+
+
+
+
+
+
 
 
 
