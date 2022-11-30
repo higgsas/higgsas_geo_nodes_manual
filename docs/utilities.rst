@@ -155,9 +155,7 @@ Normal
  
 Curve Tangent
   Show curve tangent arrors
-  
-.. image:: images/geo_vc.png
-  
+   
 Custom Vector
   Show custom vector arrors
   
