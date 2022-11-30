@@ -195,9 +195,22 @@ Scene Res Y
   Scene Y resoliution
   
 Grid Resoliution
+  Resoliution of the Ascii grid
   
+Grid offset
+  Grid offset inside camera
+  
+Contrast Min
+  Min contrast of the mesh normals dot product
 
+Contrast Max
+  Max contrast of the mesh normals dot product
 
+Light Direction
+  Gradient direction
+  
+Ascii
+  Ascii characters that used for gradient values. Black/empty is space " " 
 
 
 
