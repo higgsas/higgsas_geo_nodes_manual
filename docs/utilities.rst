@@ -214,12 +214,40 @@ Ascii
 
 
 
+************************************************************
+Image to Ascii
+************************************************************
 
+Creates Ascii from image
 
+.. image:: images/i_t_ac.jpeg
 
+Image
+  Image input
+  
+Resoliution
+  Grid resolution of Ascii
+  
+Img Res X
+  Input image X resolution
 
+Img Res Y
+  Input image Y resolution
 
+Contrast Min
+  Min contrast of the image values
 
+Contrast Max
+  Max contrast of the image values
+
+Ascii
+  Ascii characters that used for gradient values. Black/empty is space " " 
+  
+Frame
+  Frame of the image input
+  
+Color Attribute
+  
 
 
 
