@@ -126,6 +126,41 @@ Scale
   
 
 
+************************************************************
+Geometry Visualizer
+************************************************************
+
+Show geometry Index values or directional vectors on Vertex, Edges, Faces, Face Corners domains
+
+.. image:: images/sm_att.png
+
+**V / E / F / FC**
+
+- **V** Shows **Vertex** or Points Indices/Vectors
+- **E** Shows **Edge** Indices/Vectors
+- **F** Shows **Face** or Indices/Vectors
+- **FC** Shows **Face Corner** Indices/Vectors
+
+Scale
+  Scale of indices letters and directional vectors arros size
+  
+Index
+  Shows indices of selected domain
+  
+Normal
+ Shows geometry normals arrows
+ 
+Curve Tangent
+  Show curve tangent arrors
+  
+Custom Vector
+  Show custom vector arrors
+  
+Custom Vector
+  Directional vector values that will show as arros if **Custom Vector** on
+  
+Show Original Geometry
+  Show original geometry
 
 
 
