@@ -173,9 +173,8 @@ Mesh to Ascii
 
 Show geometry Index values or directional vectors on Vertex, Edges, Faces, Face Corners domains
 
-.. image:: images/geo_v.PNG
-.. video:: images/m_t_a.mp4
-
+.. image:: images/m_t_a.jpeg
+.. image:: images/m_t_a.gif
 
 
 
