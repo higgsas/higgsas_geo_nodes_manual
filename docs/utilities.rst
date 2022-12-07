@@ -247,6 +247,7 @@ Frame
   Frame of the image input
   
 Color Attribute
+  Creates color attribute from image colors
   
 
 
