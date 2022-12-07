@@ -240,5 +240,38 @@ Bottom
 
 
 
+************************************************************
+Inset Faces
+************************************************************
+
+Insets mesh faces
+
+.. image:: images/inset_face.PNG
+
+Offset
+  Offset of the inset
+  
+Depth
+  Push inseted faces from face normal
+  
+Reletive Offset
+  Offsets inseted faces reletive to face area
+  
+Selection
+  Selection of the face inset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
