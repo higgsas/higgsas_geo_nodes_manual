@@ -200,17 +200,45 @@ Normalize Step
   
   
   
+************************************************************
+Solidify
+************************************************************
+
+Evenly solidifies mesh
+
+.. image:: images/solidify.jpeg  
   
+Even Thickness
+  Evenly solidifies mesh
   
+Thickness
+  Thickness of solidify
   
+Offset
+  Offset of solidify
   
+**All/TopSide/TopBottom**
+
+- **All:** Outputs all mesh faces
+- **TopSide:** Outputs Top and Side mesh faces
+- **TopBottom:** Outputs Top and Bottom mesh faces
+
+Individual
+  Solidified individual faces
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+Selection
+  Selection of the faces that will be solified
+
+Top
+  Selection of the top solified faces
+
+Side
+  Selection of the side solified faces
+
+Bottom
+  Selection of the bottom solified faces
+
+
+
+
+
