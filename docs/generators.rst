@@ -299,7 +299,27 @@ Selection
 
 
 
+************************************************************
+Array
+************************************************************
 
+Creates array of the geometry
+
+.. image:: images/array.PNG
+
+Count
+  Amount that geometry will duplicated
+  
+**Constant Offset**
+
+- **Off:** Offsets geometry from its bonding box
+- **On:** Offsets geometry from its center
+
+Translation
+  Offsets array
+  
+Rotation
+  Rotates geometry
 
 
 
