@@ -262,9 +262,40 @@ Selection
 
 
 
+************************************************************
+Edge Offset
+************************************************************
 
+Evenly offsets, extrudes or dublicates selected edges
 
+.. image:: images/edge_offset.jpeg
 
+**Offset/Extrude/Dublicate**
+
+- **Offset** Offsets edges
+- **Extrude** Extrude edges  
+- **Dublicate** Dublicates edges  
+  
+Distance
+  Distance of the offset
+  
+Angle
+  Rotates offset around the selected edge
+  
+Offset
+  Offset of the offseted and original edges
+  
+Axis/Normal
+  Direction that edges will be offseted
+  
+- **Axis** Uses Axis vector input for offset direction
+- **Normal** Uses face normals directions
+
+Axis
+  Direction of the offset
+  
+Selection
+  Selects what edges to offset
 
 
 
