@@ -169,7 +169,48 @@ Component Index
     
 
 
-    
+************************************************************
+2D Curl Noise
+************************************************************
+
+Creates curl noise curves
+
+.. image:: images/2d_curl.jpeg   
+  
+Iterations
+  More iteration longer curl curves. Max iterations 400
+  
+Step
+  Size between each iteration in curve
+  
+Scale
+  Noise scale
+  
+Detail
+  Noise detail
+  
+Offset
+  Noise offset
+  
+Normalize Step
+  Makes each step size even
+  
+.. warning::
+    Node become really slow after alot of iterations, you can "bake it" by converting curves to mesh and applying modifier  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
