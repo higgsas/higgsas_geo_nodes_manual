@@ -323,6 +323,47 @@ Rotation
 
 
 
+************************************************************
+Circular Array
+************************************************************
+
+Creates array of the geometry on a circle
+
+.. image:: images/c_array.PNG
+
+Count
+  Amount that geometry will duplicated on a circle
+  
+Radius
+  Radius of the circle
+  
+Circle Rotation
+  Rotates circle
+  
+Rotation
+  Rotates geometry orientation
+  
+Scale
+  Scale of the geometry
+  
+Pick Instance
+  Picks instaces from the instances list or collection
+
+.. image:: images/array_p.PNG
+
+Instance Index
+  Index of the instances list
+  
+  
+  
+
+
+
+
+
+
+
+
 
 
 
