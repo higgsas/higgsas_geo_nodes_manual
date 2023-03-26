@@ -1,7 +1,7 @@
 Higgsas geometry nodes groups manual
 ===================================
 
-.. image:: images/geomainp.png
+.. image:: images/geomainp.jpeg
 
 
 
@@ -21,5 +21,4 @@ Contents
    primitives
    selection
    falloffs
-   usage
-   api
+
