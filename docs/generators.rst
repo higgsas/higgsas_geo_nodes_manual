@@ -170,6 +170,22 @@ Component Index
 
 
 ************************************************************
+Tessellate Align Orientation
+************************************************************
+
+Aligns components rotation to direction
+
+.. image:: images/tesali.png
+
+Direction
+  Direction that compotent will be aligned
+  
+Flip Offset
+  Offsets component oreantation by 90 degree 
+  
+
+
+************************************************************
 2D Curl Noise
 ************************************************************
 
