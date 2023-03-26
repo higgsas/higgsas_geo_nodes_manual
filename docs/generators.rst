@@ -186,6 +186,22 @@ Flip Offset
 
 
 ************************************************************
+Connect Points
+************************************************************
+
+Connects points with segment by distance
+
+.. image:: images/c_points.png 
+  
+Distance
+  Distance that points will be connected
+  
+Connect All
+  Connects all points
+
+
+
+************************************************************
 2D Curl Noise
 ************************************************************
 
