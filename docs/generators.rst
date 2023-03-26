@@ -191,7 +191,7 @@ Connect Points
 
 Connects points with segment by distance
 
-.. image:: images/c_points.png 
+.. image:: images/c_points.PNG 
   
 Distance
   Distance that points will be connected
