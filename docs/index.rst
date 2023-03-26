@@ -1,13 +1,10 @@
 Higgsas geometry nodes groups manual
 ===================================
 
-.. image:: images/allnodes.PNG
+.. image:: images/geomainp.png
 
 
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
