@@ -387,9 +387,87 @@ Instance Index
   Index of the instances list
   
   
+************************************************************
+Mesh to Ascii
+************************************************************
+
+Creates Ascii representation of geometry inside camera
+
+.. image:: images/m_t_a.jpeg
+.. image:: images/m_t_a.gif
+
+Mesh
+  Mesh that will be projected as Ascii
+
+Camera
+  Camera that Ascii will be projected from
+
+Focal Lenth
+  Camera focal lenth
   
+Sensor Size
+  Camera censor size
+  
+Scene Res X
+  Scene X resoliution
+   
+Scene Res Y
+  Scene Y resoliution
+  
+Grid Resoliution
+  Resoliution of the Ascii grid
+  
+Grid offset
+  Grid offset inside camera
+  
+Contrast Min
+  Min contrast of the mesh normals dot product
+
+Contrast Max
+  Max contrast of the mesh normals dot product
+
+Light Direction
+  Gradient direction
+  
+Ascii
+  Ascii characters that used for gradient values. Black/empty is space " " 
 
 
+
+************************************************************
+Image to Ascii
+************************************************************
+
+Creates Ascii from image
+
+.. image:: images/i_t_ac.jpeg
+
+Image
+  Image input
+  
+Resoliution
+  Grid resolution of Ascii
+  
+Img Res X
+  Input image X resolution
+
+Img Res Y
+  Input image Y resolution
+
+Contrast Min
+  Min contrast of the image values
+
+Contrast Max
+  Max contrast of the image values
+
+Ascii
+  Ascii characters that used for gradient values. Black/empty is space " " 
+  
+Frame
+  Frame of the image input
+  
+Color Attribute
+  Creates color attribute from image colors
 
 
 
