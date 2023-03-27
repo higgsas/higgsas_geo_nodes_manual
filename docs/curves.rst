@@ -146,6 +146,19 @@ Angle
   
   
 
+************************************************************
+Align Curve Normal
+************************************************************
+
+Aligns curve normal to the Direction vector by tilting it
+
+.. image:: images/curveal.png
+
+Direction
+  Direction that curve normals will be aligned
+  
+Tilt
+  Tilts curve
 
 
 
