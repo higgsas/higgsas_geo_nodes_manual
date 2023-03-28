@@ -25,12 +25,12 @@ Iterations
 Easing 
 ************************************************************
 
-Smooths/blurs attribute
+Easing functions specify the rate of change of a parameter over time
 
 .. image:: images/easing.png
 
 In / Out / InOut
-  asd
+  In / Out / InOut
   
 Value
   Value that will be remapped
