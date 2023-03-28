@@ -21,4 +21,7 @@ Contents
    primitives
    selection
    falloffs
+
+.. toctree::
+
    contact
