@@ -188,7 +188,7 @@ Flip Offset
 2D Recursive Subdivision
 ************************************************************
 
-Subdivides quad face and with the offset
+Subdivides quad faces with offset
 
 .. image:: images/2drec.PNG
 .. image:: images/2drec2.PNG
