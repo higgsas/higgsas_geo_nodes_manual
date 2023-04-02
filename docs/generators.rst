@@ -184,6 +184,42 @@ Flip Offset
   Offsets component oreantation by 90 degree 
   
 
+************************************************************
+2D Recursive Subdivision
+************************************************************
+
+Subdivides quad face and with the offset
+
+.. image:: images/2drec.PNG
+.. image:: images/2drec2.PNG
+.. image:: images/2drec3.PNG
+.. image:: images/2drec.gif
+
+W
+  Controls subdivided quad movement 
+
+Limit Distance
+  Limits subdivided quad movement side to side
+  
+Random Orientation
+  Randomize movement verticaly and horizontaly  
+  
+Seed
+  Seed of random orientation
+  
+Rotation
+  Rotation
+  
+Scale
+  Scale
+  
+Selection
+  Selects which faces to subdivide 
+    
+.. warning::
+    Subdivision only wokrs on non-deformed quad faces
+    
+
 
 ************************************************************
 Connect Points
