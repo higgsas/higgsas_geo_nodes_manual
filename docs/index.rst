@@ -26,3 +26,4 @@ Contents
 .. toctree::
 
    contact
+   updates
