@@ -1,6 +1,27 @@
 Installation
 ===================================
 
+Three different installation methods:
+
+.. warning::
+    You don't need to do all three installation methods, simply just do the Addon instalation
+
+************************************************************
+Installing node groups Addon 
+************************************************************
+
+- Go to``Edit/Preferences/File Paths/Add-ons`` and press :guilabel:`Install`
+
+.. image:: images/addon1.png
+
+- Navigate to where node group file :guilabel:`.blend` is located and click :guilabel:`Install Add-on`
+
+.. image:: images/addon2.png
+
+- Enable Addon by pressing checkmark and click :guilabel:`Save Preferences`
+
+.. image:: images/addon3.png
+
 
 
 
