@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+2023-04-05 Update
+
+Fixed nodes not loading when opening new blend files
+
 2023-04-04 Update
 
 Added installation addon with node groups menu categories
