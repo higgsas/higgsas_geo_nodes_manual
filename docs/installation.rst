@@ -19,7 +19,7 @@ Installing node groups assets for Blender 3.4/3.5+
 
 
 ************************************************************
-For Blender 3.3 Linking node groups to the Startup File
+Linking node groups to the Startup File for Blender 3.3
 ************************************************************
 
 - Open :guilabel:`Blender`
