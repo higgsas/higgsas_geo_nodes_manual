@@ -2,7 +2,7 @@ Higgsas geometry nodes groups manual
 ===================================
 
 .. image:: images/geomainp.jpeg
-.. image:: images/search.PNG
+.. image:: images/search2.PNG
 
 
 
