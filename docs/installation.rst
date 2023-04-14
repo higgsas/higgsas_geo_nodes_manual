@@ -1,65 +1,25 @@
 Installation
 ===================================
 
-Three different installation methods:
-
-.. warning::
-    You don't need to do all three installation methods, simply just do the Addon instalation
 
 ************************************************************
-Installing node groups Addon 
-************************************************************
-
-- Go to``Edit/Preferences/File Paths/Add-ons`` and press :guilabel:`Install`
-
-.. image:: images/addon1.png
-
-- Navigate to where node group file :guilabel:`.blend` is located and click :guilabel:`Install Add-on`
-
-.. image:: images/addon2.png
-
-- Enable Addon by pressing checkmark and click :guilabel:`Save Preferences`
-
-.. image:: images/addon3.png
-
-
-************************************************************
-Installing node groups Addon 
+Installing node groups assets for Blender 3.4/3.5+
 ************************************************************
 
 |install_video|
 
 .. |install_video| raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/IgIHBMXEqu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/IgIHBMXEqu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Extract downloaded .zip file folder for your blender version
 - Inside Blender go to :guilabel:`Edit/Preferences/Files Paths/Asset Libraries` and press :guilabel:`+` Add Asset Library
-- Locate unzipped 
-
-
-
-
-
-************************************************************
-Adding node groups to the Assect Browser
-************************************************************
-
-Go to``Edit/Preferences/File Paths/Asset Libraries`` and add node group :guilabel:`.blend` file to the Path folder, and press :guilabel:`Safe Preferences`
-
-.. image:: images/instal_asset1.PNG
-
-Now node groups will accessible in :guilabel:`Asset Browser`
-
-.. image:: images/instal_asset2.PNG
-
-.. warning::
-    Node groups are not searchable inside Geometry Nodes editor
+- Locate unzipped folder and press :guilabel:`Add Asset Library`
 
 
 
 ************************************************************
-Linking node groups to the Startup File
+For Blender 3.3 Linking node groups to the Startup File
 ************************************************************
 
 - Open :guilabel:`Blender`
