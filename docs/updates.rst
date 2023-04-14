@@ -1,6 +1,15 @@
 Updates
 ===================================
 
+2023-04-14 Update
+
+Updated installation methods 
+Fixed artifacts with Align Curve Normal
+
+New nodes:
+Fit Size
+UV Deform
+
 2023-04-05 Update
 
 Fixed nodes not loading when opening new blend files
