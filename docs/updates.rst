@@ -1,6 +1,12 @@
 Updates
 ===================================
 
+
+2023-04-17 Update
+
+Added limits to Bend node
+
+
 2023-04-14 Update
 
 Updated installation methods 
