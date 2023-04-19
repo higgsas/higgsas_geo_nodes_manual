@@ -1,6 +1,14 @@
 Updates
 ===================================
 
+2023-04-20 Update
+
+Added boundary edge option to Marching Squares/Triangles nodes, and performance improvements
+
+Fixed issue with Tessellate Mesh Smooth not working corrently with Tessellate Topology Helper
+
+New node: Set Center
+
 
 2023-04-17 Update
 
