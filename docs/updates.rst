@@ -5,7 +5,7 @@ Updates
 
 Added boundary edge option to Marching Squares/Triangles nodes, and performance improvements
 
-Fixed issue with Tessellate Mesh Smooth not working corrently with Tessellate Topology Helper
+Fixed issue with Tessellate Mesh Smooth not working correctly with Tessellate Topology Helper
 
 New node: Set Center
 
