@@ -58,6 +58,27 @@ Axis
   Axis direction
 
 
+************************************************************
+Splines Patch
+************************************************************
+
+Creates grid patch from 4 splines
+
+.. image:: images/spatch.png
+.. image:: images/spatch1.png
+
+**Resample/Set Resolution**
+
+- **Resample:**  Resamples input splines
+- **Set Resolution:**  Set resolution for Bezier splines
+  
+U Resolution
+  Sets grid resolution for rows
+  
+V Resolution
+  Sets grid resolution for columns
+ 
+
 
 ************************************************************
 Twist Curve
