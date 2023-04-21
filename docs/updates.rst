@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+2023-04-21 Update
+
+New node: Splines Patch - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#splines-patch
+
 2023-04-20 Update
 
 Added boundary edge option to Marching Squares/Triangles nodes, and performance improvements
