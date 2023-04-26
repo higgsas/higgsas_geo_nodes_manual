@@ -1,6 +1,11 @@
 Updates
 ===================================
 
+2023-04-27 Update
+
+New node: Marching Squares Surface
+Renamed Marching Squares to Marching Squares Isolines
+
 2023-04-21 Update
 
 New node: Splines Patch - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#splines-patch
