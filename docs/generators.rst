@@ -218,8 +218,41 @@ Selection
     
 .. warning::
     Subdivision only wokrs on non-deformed quad faces
-    
 
+
+
+************************************************************
+UV Deform
+************************************************************
+
+Projects geometry to target mesh UV map
+
+.. image:: images/uvdefrom.PNG
+.. image:: images/uvdefrom2.PNG
+
+
+Target Mesh
+  Mesh that geometry will be project on
+
+Depth
+  Scale of projected geometry along target mesh normals
+  
+Offset
+  Offset of projected geometry along target mesh normals
+  
+Delete Nonvalind
+  Deletes geometry that are outside the trarget mesh UV Map
+  
+Rotation
+  Rotation of goemetry
+  
+Translation 
+  Translation of goemetry
+
+Scale
+  Scale of geometry
+  
+  
 
 ************************************************************
 Connect Points
