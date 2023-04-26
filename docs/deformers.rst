@@ -249,11 +249,6 @@ Offset
 Selection
   Selects what faces to deform
 
-.. warning::
-    If faces are connected, offset will be incorect
-    
-    .. image:: images/face_offset_limit.PNG
-    
 
 
 ************************************************************
