@@ -227,8 +227,8 @@ UV Deform
 
 Projects geometry to target mesh UV map
 
-.. image:: images/uvdefrom.PNG
-.. image:: images/uvdefrom2.PNG
+.. image:: images/uvdeform.PNG
+.. image:: images/uvdeform2.PNG
 
 
 Target Mesh
