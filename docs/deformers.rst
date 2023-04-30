@@ -149,6 +149,7 @@ Curve Deform
 Deforms geometry along the curve
 
 .. image:: images/curve_deform.PNG
+.. image:: images/c_deform.PNG
 
 Offset
   Moves geometry along the curve
