@@ -1,6 +1,26 @@
 Updates
 ===================================
 
+2023-05-13 Update
+
+New nodes:
+
+Line Line Intersection - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#line-line-intersection
+
+Line Plane Intersection - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#line-plane-intersection
+
+Edge Bisect - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#edge-bisect
+
+Cube Recursive Subdivision
+
+Surface Bind
+
+Mesh Ambient Occlusion - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#mesh-ambient-occlusion
+
+Distance to Edge Voronoi
+
+Wave Falloff
+
 2023-04-27 Update
 
 New node: Marching Squares Surface
