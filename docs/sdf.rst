@@ -38,7 +38,7 @@ Show Bounds
 SDF Boolean
 ************************************************************
 
-Creates boolean operation between 2 SDFs
+Creates boolean operation between 2 SDFs volumes
 
 .. image:: images/sdfb1.PNG
 .. image:: images/sdfb2.PNG
@@ -67,6 +67,31 @@ Color Mask
 .. image:: images/sdfb5.PNG
 .. image:: images/sdfb6.PNG
   
+
+************************************************************
+Mesh to SDF
+************************************************************
+
+.. image:: images/sdftm.PNG
+
+Converts mesh to SDF volume
+
+Iso
+  Volume offset from mesh surface to inside/outside
+  
+.. image:: images/sdftm2.PNG
+.. image:: images/sdftm3.PNG
+
+Fill Volume
+  Fills SDF volume
+  
+.. image:: images/sdftm3.PNG
+
+  
+
+
+
+
 
 
 
