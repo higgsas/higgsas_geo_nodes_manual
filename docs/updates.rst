@@ -3,6 +3,8 @@ Updates
 
 **2023-05-13 Update**
 
+Updated SDF nodes documentation
+
 **New nodes:**
 
 Line Line Intersection - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#line-line-intersection
@@ -11,13 +13,13 @@ Line Plane Intersection - https://higgsas-geo-nodes-manual.readthedocs.io/en/lat
 
 Edge Bisect - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#edge-bisect
 
-Cube Recursive Subdivision
+Cube Recursive Subdivision - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#cube-recursive-subdivision
 
 Surface Bind
 
 Mesh Ambient Occlusion - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#mesh-ambient-occlusion
 
-Distance to Edge Voronoi
+Distance to Edge Voronoi - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/utilities.html#distance-to-edge-voronoi
 
 Wave Falloff
 
