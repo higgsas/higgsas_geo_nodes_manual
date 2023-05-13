@@ -236,10 +236,10 @@ Line 2 Point 2
 
 
 ************************************************************
-Line Line Intersection
+Line Plane Intersection
 ************************************************************
 
-Calculates intersection point between 2 lines on the Z axis
+Calculates intersection points between lines and plane
 
 .. image:: images/bisect.PNG
 
