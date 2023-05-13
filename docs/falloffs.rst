@@ -153,6 +153,40 @@ Max
 
 
 
+************************************************************
+Wave Falloff
+************************************************************
+
+Creates spherical falloff that is controlled by an object
+
+.. image:: images/wave_f.PNG
+
+Spherical/Directional
+  Spherical or directional falloff
+  
+Time
+  Moves the wave
+  
+Width 
+  Width of the wave
+  
+Narrowness
+  Narrowness of the wave
+  
+Position
+  Position of the wave
+  
+Direction
+  Direction of the directional wave
+
+Falloff
+  Falloff the the wave
+
+Min
+  Falloff min Value
+  
+Max
+  Falloff max Value
 
 
 
