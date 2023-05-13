@@ -1,9 +1,9 @@
-Expermental Nodes
+Experimental Nodes
 ===================================
 
-Expermental nodes that are not finished or require custom blender version
+Experimental nodes that are not finished or require custom blender version
 
-Download link - 
+Download link - https://drive.google.com/drive/folders/1BJ-hDIHpXpzU4lGPlxPBoqNdhhWysa6-?usp=sharing
 
 ************************************************************
 Reaction diffusion solver
