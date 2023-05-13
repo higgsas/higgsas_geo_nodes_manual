@@ -23,6 +23,13 @@ Distance to Edge Voronoi - https://higgsas-geo-nodes-manual.readthedocs.io/en/la
 
 Wave Falloff
 
+**Added Expermental nodes:**
+
+Reaction diffusion solver
+
+VDM displace
+
+
 2023-04-27 Update
 
 New node: Marching Squares Surface
