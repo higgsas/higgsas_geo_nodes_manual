@@ -8,6 +8,7 @@ Bend
 Bends geometry over the axis
 
 .. image:: images/bend.PNG
+.. image:: images/bend_instances.png
 
 Angle
   Amount of deformation
