@@ -22,6 +22,7 @@ Contents
    primitives
    selection
    falloffs
+   sdf
 
 .. toctree::
 
