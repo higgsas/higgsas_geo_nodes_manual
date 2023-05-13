@@ -31,10 +31,41 @@ Shade Smooth
   
 Show Bounds
   Shows bounds visualisation that volume will be calculated
+  
+  
+  
+************************************************************
+SDF Boolean
+************************************************************
 
+Creates boolean operation between 2 SDFs
 
+.. image:: images/sdfb1.PNG
+.. image:: images/sdfb2.PNG
+.. image:: images/sdfb3.PNG
 
+**Uni / Dif / Int**
 
+- **Uni** Union operation
+- **Dif** Difference operation
+- **Int** Intersection operation
+  
+SDF 1
+  First SDF input
+  
+SDF 2
+  Second SDF input
+  
+Blend
+  Smoothly blends boolean operation between 2 SDFs
+  
+.. image:: images/sdfb4.PNG
+
+Color Mask
+  Crates mask between 2 SDFs
+  
+.. image:: images/sdfb5.PNG
+  
 
 
 
