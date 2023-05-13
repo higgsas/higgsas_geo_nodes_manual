@@ -1,12 +1,12 @@
 Expermental Nodes
 ===================================
 
-Expermental nodes that are not finished or require custom blender version - Soon
+Expermental nodes that are not finished or require custom blender version
 
 ************************************************************
-Reaction Diffusion solver
+Reaction diffusion solver
 ************************************************************
 
-Test
+Create reaction diffusion growth simulation using Blender 3.6 alpha
 
-.. image:: images/sdftomesh.PNG
+.. image:: images/rds.PNG
