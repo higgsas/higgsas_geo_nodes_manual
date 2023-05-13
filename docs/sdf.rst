@@ -65,6 +65,7 @@ Color Mask
   Crates mask between 2 SDFs
   
 .. image:: images/sdfb5.PNG
+.. image:: images/sdfb6.PNG
   
 
 
