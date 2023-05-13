@@ -2,7 +2,7 @@ Generators
 ===================================
 
 ************************************************************
-Marching Squares
+Marching Squares Isolines
 ************************************************************
 
 Creates edge lines on quad faces using gradient of the texture
@@ -37,7 +37,7 @@ Threshold
 
 
 ************************************************************
-Marching Triangles
+Marching Triangles Isolines
 ************************************************************
 
 Creates edge lines on tris faces using gradient of the texture
@@ -218,6 +218,40 @@ Selection
     
 .. warning::
     Subdivision only wokrs on non-deformed quad faces
+    
+    
+ ************************************************************
+Cube Recursive Subdivision
+************************************************************
+
+Recursively subdivides cubes with offset
+
+.. image:: images/cuber1.PNG
+
+W
+  Controls subdivided quad movement 
+
+Limit Distance
+  Limits subdivided quad movement side to side
+  
+Random Orientation
+  Randomize movement verticaly and horizontaly  
+  
+Seed
+  Seed of random orientation
+   
+Scale
+  Scale of the cubes
+  
+.. image:: images/cuber3.PNG
+  
+Selection
+  Selects which cubes to subdivide 
+  
+.. image:: images/cuber2.PNG
+    
+.. warning::
+    Cubes subdivision only wokrs correctly on geometry nodes Cube
 
 
 
