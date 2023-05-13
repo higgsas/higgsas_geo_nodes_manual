@@ -180,6 +180,27 @@ Position 4
 
 
 
+************************************************************
+Line Line Intersection
+************************************************************
+
+Calculates intersection point between 2 lines on the Z axis
+
+.. image:: images/lines_int.PNG
+
+Line 1 Point 1
+  First point of the line
+
+Line 1 Point 2
+  Second point of the line
+
+Line 2 Point 1
+  First point of the line
+
+Line 2 Point 2
+  Second point of the line
+
+
 
 
 
