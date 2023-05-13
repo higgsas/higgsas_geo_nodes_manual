@@ -1,22 +1,55 @@
 SDF Nodes
 ===================================
 
+SDF - Signed distance fields creates 3d volume surface that can be definded using mathematical functions
+
 ************************************************************
-Capsule
+SDF to Mesh
 ************************************************************
 
-Mesh capsule primitive
+Converts SDF volume to mesh
 
-.. image:: images/capsule.PNG
+.. image:: images/sdftomesh.PNG
 
-Segments
-  Number of segments
+SDF
+  SDF field that mesh will be created
   
-Rings
-  Number of rings
+Voxel Size
+  Density of the mesh created. Lower values = dense mesh
   
-Side Segments
-  Number of side segments
+Min Bounds
+  Position in 3d space that volume will be calculated
   
-Radius
-  Radius of the capsule
+Max Bounds
+  Position in 3d space that volume will be calculated
+  
+Bounds Padding
+  Extends voxels from the bounds
+  
+Shade Smooth
+  Shades mesh smooth
+  
+Show Bounds
+  Shows bounds visualisation that volume will be calculated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
