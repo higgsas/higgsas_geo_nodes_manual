@@ -507,8 +507,23 @@ Color Attribute
 
 
 
+************************************************************
+Edge Bisect
+************************************************************
 
+Creates Ascii from image
 
+.. image:: images/edge_b.PNG
+
+Position
+  Position of intersection plane
+  
+Direction
+  Direction of intersection plane
+  
+Flip Direction
+  Flips intersection direction
+  
 
 
 
