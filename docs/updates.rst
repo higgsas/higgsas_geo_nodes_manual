@@ -1,9 +1,9 @@
 Updates
 ===================================
 
-2023-05-13 Update
+**2023-05-13 Update**
 
-New nodes:
+**New nodes:**
 
 Line Line Intersection - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#line-line-intersection
 
