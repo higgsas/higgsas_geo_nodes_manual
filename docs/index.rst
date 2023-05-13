@@ -26,5 +26,6 @@ Contents
 
 .. toctree::
 
+   expermental
    contact
    updates
