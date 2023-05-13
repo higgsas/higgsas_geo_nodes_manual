@@ -202,6 +202,25 @@ Line 2 Point 2
 
 
 
+************************************************************
+Line Line Intersection
+************************************************************
+
+Calculates intersection point between 2 lines on the Z axis
+
+.. image:: images/bisect.PNG
+
+Line Point 1
+  First point of the line
+
+Line Point 2
+  Second point of the line
+
+Plane Position
+  Position of intersection plane
+
+Plane Normal
+  Normal of intersection plane
 
 
 
