@@ -213,13 +213,23 @@ Scene Res Y
   Scene Y resolution
 
 
+************************************************************
+Distance to Edge Voronoi
+************************************************************
 
+Creates distance to edge voronoi texture from points 
 
+.. image:: images/dtev.PNG
+.. image:: images/dtev2.PNG
 
+Points
+  Points that voronoi texture will be calculated
+  
+Smoothness
+  Smoothness of the distance to edge texture
 
-
-
-
+.. warning::
+    Maximum input points are 100. For more points, inside the node group duplicate "NodeGroupVor" node group and connect it with the rest of nodes 
 
 ************************************************************
 Mix Float
