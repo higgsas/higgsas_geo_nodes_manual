@@ -43,6 +43,39 @@ Area Center of Mass
   
   
 ************************************************************
+Mesh Ambient Occlusion
+************************************************************
+
+Calculates mesh ambient occlusion
+
+.. image:: images/ao1.PNG
+  
+Rays Samples
+  Amount of rays for sampling
+  
+Rays Angle
+  Angle that rays direction will be randomly rotated. Bigger angle will give more accurate results but with more noise
+
+Seed
+  Random seed of the rays random direction
+  
+Blur Iterations
+  Smooth ambient occlusion map
+  
+External Mesh
+  Uses external mesh that rays will hit from main mesh to calculate ambient occlusion map
+  
+.. image:: images/ao2.PNG
+  
+Attribute
+  Name of the thickness value attribute on point domain 
+  
+.. warning::
+    Node can be really slow depending on mesh density and rays samples. You can "bake it" by applying geometry nodes modifier and the "ao" attribute will be stored on the mesh
+    
+    
+    
+************************************************************
 Mesh Thickness
 ************************************************************
 
