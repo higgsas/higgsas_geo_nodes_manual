@@ -273,11 +273,34 @@ Center
   
 Mask
  Mask for sphere deformation strength
+ 
+ 
+ 
+************************************************************
+Set Center
+************************************************************
 
+Places geometry relevite to local 0.0.0 coordinate (origin) depending on its bounding box
 
+.. image:: images/set_c.PNG
 
+C
+  Places geometry from center of bounding box
+  
+X
+  Places geometry from center X axis of bounding box
 
+Y
+  Places geometry from center Y axis of bounding box
 
+X
+  Places geometry from center X axis of bounding box
+
+X
+  Places geometry from center X axis of bounding box
+  
+X
+  Places geometry from center X axis of bounding box
 
 
 
