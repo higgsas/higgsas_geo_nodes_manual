@@ -296,13 +296,13 @@ Y
 Z
   Places geometry to center Z axis of bounding box
 
--X
+**-X**
   Places geometry to center -X axis of bounding box
   
--Y
+**-Y**
   Places geometry to center -Y axis of bounding box
 
--Z
+**-Z**
   Places geometry to center -Z axis of bounding box
 
 
