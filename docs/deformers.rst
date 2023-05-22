@@ -285,23 +285,25 @@ Places geometry relevite to local 0.0.0 coordinate (origin) depending on its bou
 .. image:: images/set_c.PNG
 
 C
-  Places geometry from center of bounding box
+  Places geometry to center of bounding box
   
 X
-  Places geometry from center X axis of bounding box
+  Places geometry to center X axis of bounding box
 
 Y
-  Places geometry from center Y axis of bounding box
+  Places geometry to center Y axis of bounding box
 
-X
-  Places geometry from center X axis of bounding box
+Z
+  Places geometry to center Z axis of bounding box
 
-X
-  Places geometry from center X axis of bounding box
+-X
+  Places geometry to center -X axis of bounding box
   
-X
-  Places geometry from center X axis of bounding box
+-Y
+  Places geometry to center -Y axis of bounding box
 
+-Z
+  Places geometry to center -Z axis of bounding box
 
 
 
