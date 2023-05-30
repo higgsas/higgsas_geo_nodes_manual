@@ -65,7 +65,53 @@ Mirror
 .. warning::
     Bounces input doesn't work on **Bounce** function
   
+
+************************************************************
+Bezier Easing 
+************************************************************
+
+Easing functions specify the rate of change of a parameter over time
+
+.. image:: images/b_easing.PNG
+
+Value
+  Value that will be remapped
   
+From Min
+  The lower bound of the range to remap from
+
+From Max
+  The higher bound of the range to remap from
+
+To Min
+  The lower bound of the target range
+
+To Max
+  The higher bound of the target range
+  
+Sample Resolution
+  Resolution of the bezier curve that values will be sampled
+  
+Point 1 X
+  Bezier curve handle point X location
+
+Point 1 Y
+  Bezier curve handle point Y location
+
+Point 2 X
+  Bezier curve handle point X location
+
+Point 2 Y
+  Bezier curve handle point Y location
+  
+Mirror
+  Mirros output values
+  
+Visualise Easing Curve
+  Shows easing curve
+  
+.. image:: images/b_easing2.PNG
+
 
 ************************************************************
 Triplanar UV Mapping  
