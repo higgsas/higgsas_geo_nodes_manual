@@ -1,6 +1,12 @@
 Updates
 ===================================
 
+**2023-05-30 Update**
+
+**New node:**
+
+Bezier Easing - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/utilities.html#bezier-easing
+
 **2023-05-13 Update**
 
 Updated SDF nodes documentation
