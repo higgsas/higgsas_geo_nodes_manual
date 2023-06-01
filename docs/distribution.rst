@@ -175,7 +175,7 @@ Scale
 Phyllotaxis Disk
 ************************************************************
 
-Evenly distributes points on to disk
+Distributes points in phyllotaxy arrangement
 
 .. image:: images/phy_d.PNG
 
@@ -199,6 +199,35 @@ Even Pole
 Points Radius
   Radius of the points
 
+
+
+************************************************************
+Phyllotaxis Sphere
+************************************************************
+
+Distributes points in phyllotaxy arrangement on sphere
+
+.. image:: images/phy_s.PNG
+
+Count
+  Count of points
+  
+Radius
+  Radius of the disk
+  
+Angle
+  Angle of spiral 
+  
+Even Pole
+  Offsets first point for more even distribution
+  
+U Parameter
+  Cuts sphere along U coordinate
+  
+.. image:: images/phy_s2.PNG
+
+Points Radius
+  Radius of the points
 
   
   
