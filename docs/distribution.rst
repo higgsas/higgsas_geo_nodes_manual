@@ -171,6 +171,33 @@ Scale
   Points gap distance
 
 
+************************************************************
+Phyllotaxis Disk
+************************************************************
+
+Evenly distributes points on to disk
+
+.. image:: images/phy_d.PNG
+
+Count
+  Count of points
+  
+Radius
+  Radius of the disk
+  
+Angle
+  Angle of spiral 
+  
+Even Spacing
+  Space points evenly
+  
+.. image:: images/phy_d2.PNG
+  
+Even Pole
+  Offsets first point for more even distribution
+  
+Points Radius
+  Radius of the points
 
 
   
