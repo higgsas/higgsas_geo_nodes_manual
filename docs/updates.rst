@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+**2023-06-09 Update**
+
+Added expermental rope simulation solver - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/experimental.html#rope-simulation
+
 **2023-05-30 Update**
 
 **New node:**
