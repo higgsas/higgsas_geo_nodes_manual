@@ -37,6 +37,19 @@ Creates VDM mesh displacment from VDM images
 .. |vdm| raw:: html
 
     <center><iframe width="455" height="809" src="https://www.youtube.com/embed/UxYZQ3uoZmQ" title="Blender VDM Geometry Nodes Displace Test #b3d #geometrynodes #blender" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+    
+    
+    
+************************************************************
+Rope Simulation
+************************************************************
 
+Rope simulation solver
+
+|rope|
+
+.. |rope| raw:: html
+
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simple rope simulation with blender 3.6 <a href="https://twitter.com/hashtag/geomentrynodes?src=hash&amp;ref_src=twsrc%5Etfw">#geomentrynodes</a><a href="https://twitter.com/hashtag/b3d?src=hash&amp;ref_src=twsrc%5Etfw">#b3d</a> <a href="https://twitter.com/hashtag/simulation?src=hash&amp;ref_src=twsrc%5Etfw">#simulation</a> <a href="https://t.co/v1yC65oojF">pic.twitter.com/v1yC65oojF</a></p>&mdash; higgsas (@higgsasxyz) <a href="https://twitter.com/higgsasxyz/status/1665762313519919104?ref_src=twsrc%5Etfw">June 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
