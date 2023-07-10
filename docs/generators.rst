@@ -341,6 +341,36 @@ Bottom
   Selection of the bottom solified faces
 
 
+************************************************************
+Voxel Remesh
+************************************************************
+
+Remesh mesh to surface voxels without voxels inside volume
+
+.. image:: images/voxel_r1.PNG  
+  
+Voxel Size
+  Size of a voxel
+  
+Exterior Band Width
+  The maximum distance of the included voxels to the surface on the outside of the mesh
+
+Interior Band Width
+  The maximum distance of the included voxels to the surface on the inside of the mesh
+
+Fill Volume
+  The entire enclosed volume or otherwise only the voxels close to the surface will get a density greater than zero. This setting is only used when the mesh object is Manifold.
+  
+Transfer Attribute
+  Transfer attribute from source mesh to a voxel
+
+.. image:: images/voxel_r3.PNG  
+
+Face UV Map
+  Creates uv map for each face
+
+.. image:: images/voxel_r2.PNG  
+
 
 ************************************************************
 Inset Faces
