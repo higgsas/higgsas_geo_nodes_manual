@@ -185,6 +185,36 @@ Flip Offset
   
 
 ************************************************************
+Mesh Face Divider
+************************************************************
+
+Divides mesh face horizontally and vertically / U or V
+
+.. image:: images/mfd.PNG
+
+U/V Ratio
+  Ratio of more U or V divisions
+  
+Divide Propability
+  Propability of face to be divided
+
+Even Propability
+  Makes division more even
+
+Limit Distance
+  Limits division distance from the center
+
+Seed
+  Seed of random divisions
+
+Selection
+  Selection of faces being divided
+
+.. warning::
+    Tris and n-gon faces will be ignored 
+
+
+************************************************************
 2D Recursive Subdivision
 ************************************************************
 
