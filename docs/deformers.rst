@@ -222,7 +222,8 @@ Tangent
   Tangent vector that rotation will be aligned
 
 Projection Falloff
-  Falloff of VDM displacment, mostry use when VDM texture scaled outside the mesh 
+  Falloff of VDM displacment, mostly usefull when VDM texture scaled larger then the mesh 
+
 
 
 ************************************************************
