@@ -175,6 +175,57 @@ Limit Offset
 
 
 ************************************************************
+VDM Brush
+************************************************************
+
+Displaces mesh using VDM (Vector Displacment Map) texture
+
+.. image:: images/vdm1.PNG
+
+VDM Texture
+  VDM (Vector Displacment Map) texture used to displace mesh
+
+Guide Object
+  Guide object to control VDM texture location, rotation, scale. Object Z rotation controls VDM texture rotation
+  
+Displacment Scale
+  Scale of the displacment
+  
+Mirror X
+  Mirrors VDM texture on X axis
+  
+Mirror Y
+  Mirrors VDM texture on X axis
+  
+Mirror Z
+  Mirrors VDM texture on X axis
+
+.. image:: images/vdm2.PNG
+
+Mirror Center
+  Center location that of the mirror
+
+Flip X
+  Flips VDM texture on X axis
+
+Flip Y
+  Flips VDM texture on X axis
+
+Flip Z
+  Flips VDM texture on X axis
+
+.. image:: images/vdmf1.PNG
+
+.. image:: images/vdmf2.PNG
+
+Tangent
+  Tangent vector that rotation will be aligned
+
+Projection Falloff
+  Falloff of VDM displacment, mostry use when VDM texture scaled outside the mesh 
+
+
+************************************************************
 UV Deform
 ************************************************************
 
