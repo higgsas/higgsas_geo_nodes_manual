@@ -200,7 +200,7 @@ Mirror Y
 Mirror Z
   Mirrors VDM texture on X axis
 
-.. image:: images/vmdb1.PNG
+.. image:: images/vmdb2.PNG
 
 Mirror Center
   Center location that of the mirror
