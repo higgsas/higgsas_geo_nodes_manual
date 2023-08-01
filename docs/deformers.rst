@@ -180,7 +180,7 @@ VDM Brush
 
 Displaces mesh using VDM (Vector Displacment Map) texture
 
-.. image:: images/vdm1.PNG
+.. image:: images/vmdb1.PNG
 
 VDM Texture
   VDM (Vector Displacment Map) texture used to displace mesh
@@ -200,7 +200,7 @@ Mirror Y
 Mirror Z
   Mirrors VDM texture on X axis
 
-.. image:: images/vdm2.PNG
+.. image:: images/vmdb1.PNG
 
 Mirror Center
   Center location that of the mirror
