@@ -375,7 +375,7 @@ Bottom
 Voxel Remesh
 ************************************************************
 
-Remesh mesh to surface voxels without voxels inside volume
+Remeshes mesh to surface voxels without voxels inside volume
 
 .. image:: images/voxel_r1.PNG  
   
@@ -605,7 +605,7 @@ Color Attribute
 Edge Bisect
 ************************************************************
 
-Creates Ascii from image
+Bisects edges from plane defined from position/direction
 
 .. image:: images/edge_b.PNG
 
