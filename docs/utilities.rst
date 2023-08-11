@@ -314,6 +314,33 @@ Value
   Vector Value
 
 
+************************************************************
+Triangle Incircle
+************************************************************
+
+Calculate incircle from triangle
+
+.. image:: images/incircle.PNG
+.. image:: images/incircle2.PNG
+
+Point 1
+  Point 1 of triangle
+  
+Point 2
+  Point 2 of triangle
+
+Point 3
+  Point 3 of triangle
+
+Center
+  Center of circle
+
+Radius
+  Radius of circle
+
+Normal
+  Normal direction of circle
+
 
 ************************************************************
 Random Normal Distribution
