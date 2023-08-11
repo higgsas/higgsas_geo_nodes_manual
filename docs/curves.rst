@@ -166,6 +166,24 @@ N-Gons/Triangles
 .. image:: images/3dcf2.PNG
 
 
+************************************************************
+Curve Bisect
+************************************************************
+
+Cut a curbe along a custom plane
+
+.. image:: images/cbisect.PNG
+
+Place Position
+  Position of cutting plane
+
+Plane Normal
+  Direction of cutting plane
+
+Flip Direction
+  Flips cutting plane direction
+
+
 
 ************************************************************
 Curve Point Angle
