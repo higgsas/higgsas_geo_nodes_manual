@@ -170,7 +170,7 @@ N-Gons/Triangles
 Curve Bisect
 ************************************************************
 
-Cut a curbe along a custom plane
+Cuts a curve along a custom plane
 
 .. image:: images/cbisect.PNG
 
