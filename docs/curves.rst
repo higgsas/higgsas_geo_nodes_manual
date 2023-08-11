@@ -152,6 +152,20 @@ Rotate
   Rotates UV islands for better packing
 
 
+************************************************************
+3D Curve Fill
+************************************************************
+
+Fills curves with face in 3d
+
+.. image:: images/3dcf.PNG
+
+N-Gons/Triangles
+  Fills with single n-gon face or triangulates it
+
+.. image:: images/3dcf2.PNG
+
+
 
 ************************************************************
 Curve Point Angle
