@@ -344,6 +344,19 @@ Center
   
 Mask
  Mask for sphere deformation strength
+
+
+
+************************************************************
+Cube Deform
+************************************************************
+
+Deforms geometry to match external cube mesh
+
+.. image:: images/cdef.PNG
+
+Default Cube/Geo Cube
+  Switch between default cube or geometry nodes cubes, because of the vertex indices difference between default cube and geometry nodes cube 
  
  
  
