@@ -306,6 +306,25 @@ Selection
 
 
 ************************************************************
+Mesh Offset
+************************************************************
+
+Evenly offsets mesh faces along normal
+
+.. image:: images/to_shere.PNG
+
+Even offset
+  Offsets faces evenly
+  
+Offset
+  Amount of offset
+  
+Selection
+  Selection that faces will be offseted
+
+
+
+************************************************************
 To Sphere
 ************************************************************
 
