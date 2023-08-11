@@ -170,7 +170,7 @@ Intersecting points
   Outputs true boolean value on new points that been created from mesh boolean
 
 .. warning::
-    Singe curve segment can only by cut one time
+    Singe curve segment can only be cut one time
 
 
 
