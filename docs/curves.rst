@@ -153,6 +153,24 @@ Rotate
 
 
 ************************************************************
+Curve Mesh Boolean
+************************************************************
+
+Cuts curve using a mesh
+
+.. image:: images/cmbool.PNG
+
+**Diff/Inter/Slice**
+
+- **Diff:** Difference boolean mode
+- **Inter:**  Intersection boolean mode
+- **Slice:**  Slice boolean mode
+
+Intersecting points
+  Outputs true boolean value on new points that been created from mesh boolean
+
+
+************************************************************
 3D Curve Fill
 ************************************************************
 
