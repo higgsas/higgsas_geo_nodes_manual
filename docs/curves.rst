@@ -169,6 +169,10 @@ Cuts curve using a mesh
 Intersecting points
   Outputs true boolean value on new points that been created from mesh boolean
 
+.. warning::
+    Singe curve segment can only by cut one time
+
+
 
 ************************************************************
 3D Curve Fill
