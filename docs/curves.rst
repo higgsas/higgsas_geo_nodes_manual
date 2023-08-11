@@ -134,6 +134,41 @@ Angle
 Smooth
   Smooths curve to minimize the gaps
 
+.. warning::
+    Cyclic curves decimate results can be undesirable 
+
+
+************************************************************
+Poly Arc
+************************************************************
+
+Creates circle arcs smootly connected from curve segments
+
+.. image:: images/polyarc.PNG
+
+Resolution
+  Resolution of each segment arc
+  
+Auto Tangent
+  Automaticaly creates tangent that first curve segment arc will follow
+
+First Point Tangent
+  Tangent direction that first curve segment arc will follow
+
+.. image:: images/polyarc2.PNG
+.. image:: images/polyarc3.PNG
+
+Connect Segment
+  Connects each arcs segments
+
+Set Cyclic
+  Connects first arc with the last arc
+
+Arc/Poly
+  Connection type 
+  
+.. warning::
+    Node only works sigle spline and spline can only have maximum of 40 segments
 
 
 ************************************************************
