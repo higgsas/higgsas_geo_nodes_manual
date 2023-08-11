@@ -121,6 +121,22 @@ Fill Caps
 
 
 ************************************************************
+Curve Decimate
+************************************************************
+
+Removes curve points depending on curve curvature
+
+.. image:: images/cdecim.PNG
+
+Angle
+  Cuve points greater then angle that points will be removed
+  
+Smooth
+  Smooths curve to minimize the gaps
+
+
+
+************************************************************
 UV Curve to Mesh
 ************************************************************
 
