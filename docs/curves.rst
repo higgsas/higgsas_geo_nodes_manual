@@ -168,7 +168,7 @@ Arc/Poly
   Connection type 
   
 .. warning::
-    Node only works sigle spline and spline can only have maximum of 40 segments
+    Node only works with single spline and spline can only have maximum of 40 segments
 
 
 ************************************************************
