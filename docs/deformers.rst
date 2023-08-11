@@ -348,6 +348,22 @@ Mask
 
 
 ************************************************************
+Surface Bind
+************************************************************
+
+Binds geometry to target mesh surface that will match target mesh position/deformation
+
+.. image:: images/sbind.png
+
+Target Mesh
+  Target mesh that geometry will be binded
+
+Tart Rest Position
+  Target mesh rest/static position before any transformation
+
+
+
+************************************************************
 Cube Deform
 ************************************************************
 
