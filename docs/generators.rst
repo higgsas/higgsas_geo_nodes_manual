@@ -191,6 +191,7 @@ Mesh Face Divider
 Divides mesh face horizontally and vertically / U or V
 
 .. image:: images/mfd.PNG
+.. image:: images/mfd2.PNG
 
 U/V Ratio
   Ratio of more U or V divisions
