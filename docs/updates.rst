@@ -1,6 +1,23 @@
 Updates
 ===================================
 
+**2023-08-11 Update**
+
+26 new nodes:
+
+VDM Brush, VDM Point Scatter, Sphere UV Mapping, Cylinder UV Mapping, Voxel Remesh, Mesh Face Divider, Mesh Face Subdivide, Rotate Eelement, Triangle Incircle, Triangle circumcircle, Triangle Tangent Circle, 3D Curve Fill, Curve Bisect, Curve Mesh Boolean, Curve Decimate, Index Ratio, Mix Splines, Poly Arc, Cube Deform, Mesh Offset, Mesh Section, Torus, Curl Noise 2D, Curl Noise 3D, Surface Curl Noise, Reaction Diffusion Solver
+
+Fixed Mesh Island Measure incorrect measurments
+
+Updated Mesh Tension to work with rest_position attribute
+
+Added thumbnails for nodes assets
+
+.. image:: images/thumbnails.PNG
+
+Added Blender 3.6
+
+
 **2023-06-09 Update**
 
 Added expermental rope simulation solver - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/experimental.html#rope-simulation
