@@ -403,6 +403,31 @@ Face UV Map
 .. image:: images/voxel_r2.PNG  
 
 
+
+************************************************************
+Mesh Contours
+************************************************************
+
+Creates contour lines from mesh
+
+.. image:: images/cont1.PNG
+
+Slice Distance
+  Distance between contour slices
+  
+Single Slice
+  Creates just a single contour slice
+
+.. image:: images/cont2.PNG
+
+Plane Position
+  Position of the contour slices
+  
+Plane Normal
+  Direction of the contour slices
+
+
+
 ************************************************************
 Inset Faces
 ************************************************************
