@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+**2023-08-16 Update**
+
+Replaced **Mesh Section** node with **Mesh Contour** node. New mesh contour node works much better and has ability to do multiple countour slices
+
 **2023-08-11 Update**
 
 26 new nodes:
