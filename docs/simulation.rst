@@ -5,7 +5,7 @@ Simulation
 Reaction Diffusion Solver
 ************************************************************
 
-Creater growing effect between two virtual chemicals 
+Creater growing/mixing effect between two virtual chemicals 
 
 .. image:: images/reactdiff1.PNG
 .. image:: images/reactdiff.gif
