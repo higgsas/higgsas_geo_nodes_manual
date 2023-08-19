@@ -27,6 +27,15 @@ F
 K
   Chemicals kill rate
 
+.. image:: images/reactshow.png
+
+T
+  Time scale of the simulation (going above 1.5 simulation will become unstable)
+
+Scale
+  Scale of the grouth pattern
+
+.. image:: images/diffsale.png
 
 
 
