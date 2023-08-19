@@ -35,6 +35,33 @@ Threshold
     Node only works on quad faces (faces that has 4 vertises)
 
 
+************************************************************
+Marching Squares Surface
+************************************************************
+
+smoothly cuts mesh using texture
+
+.. image:: images/marchsurf.PNG
+.. image:: images/marchsurf2.PNG
+.. image:: images/marchsurf3.PNG
+
+Texture
+  Texture 
+  
+Threshold
+  Threshold
+  
+**Linier Interpolation**
+  
+- **On**  Smoothly interpolates values from texture
+- **Off**  Places line on face edge midpoint
+
+.. image:: images/marchsurf4.PNG
+
+.. warning::
+    Node only works on quad faces (faces that has 4 vertises)
+
+
 
 ************************************************************
 Marching Triangles Isolines
