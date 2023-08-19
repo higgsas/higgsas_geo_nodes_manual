@@ -26,6 +26,7 @@ Contents
    selection
    falloffs
    sdf
+   simulation
 
 .. toctree::
 
