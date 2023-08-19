@@ -11,6 +11,24 @@ Creater growing/mixing effect between two virtual chemicals
 .. image:: images/reactdiff.gif
 .. image:: images/reactdiff2.PNG
 
+Inside Reaction Diffusion Solver node group (tab to open)
+
+.. image:: images/reactdiff3.PNG
+
+A
+  Chemical A value stored on the mesh (set to 1)
+
+B
+  Chemical B value stored on the mesh (set it to some random texture/noise that effect will growth from)
+
+F
+  Chemicals feed rate
+
+K
+  Chemicals kill rate
+
+
+
 
 
 
