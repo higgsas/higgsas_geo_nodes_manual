@@ -138,6 +138,31 @@ Smooth
     Cyclic curves decimate results can be undesirable 
 
 
+
+************************************************************
+Adaptive Catenary Splines
+************************************************************
+
+Creates physically accurate rope sag effect from a splines with 2 points
+
+.. image:: images/catn1.PNG
+.. image:: images/catn2.gif
+
+Splines Length
+  Splines length per spline segment
+  
+Splines Resolution
+  Resolution of the splines per spline segment
+
+Axis Rotation
+  Rotates spline around its axis
+
+.. warning::
+    Splines segments must be separated
+
+    .. image:: images/catn3.png
+
+
 ************************************************************
 Poly Arc
 ************************************************************
