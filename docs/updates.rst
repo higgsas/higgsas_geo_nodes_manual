@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+**2023-08-29 Update**
+
+New node: Adaptive Catenary Splines - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#adaptive-catenary-splines
+
 **2023-08-16 Update**
 
 Replaced **Mesh Section** node with **Mesh Contour** node. New mesh contour node works much better and has ability to do multiple countour slices
