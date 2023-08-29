@@ -143,7 +143,7 @@ Smooth
 Adaptive Catenary Splines
 ************************************************************
 
-Creates physically accurate rope sag effect from a splines with 2 points
+Creates physically accurate rope sag effect that maintains its length from a splines with 2 points
 
 .. image:: images/catn1.PNG
 .. image:: images/catn2.gif
@@ -160,7 +160,7 @@ Axis Rotation
 .. warning::
     Splines segments must be separated
 
-    .. image:: images/catn3.png
+    .. image:: images/catn3.PNG
 
 
 ************************************************************
