@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+**2023-08-31 Update**
+
+Added Fill Curves option to Mesh Contours node
+
 **2023-08-29 Update**
 
 New node: Adaptive Catenary Splines - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#adaptive-catenary-splines
