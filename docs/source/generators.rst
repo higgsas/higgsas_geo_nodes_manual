@@ -346,7 +346,7 @@ End Face
   Face selection of end face
 
 .. tip::
-    Note that after maze generated you might not want to use **Start Face** as start of the maze, because it will give more easier path to the end
+    Note that after maze generated you might not want to use **Start Face** as start of the maze, because it will give more easier path to the end, so use it as the end of the maze
 
 
 ************************************************************
