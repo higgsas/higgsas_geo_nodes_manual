@@ -328,6 +328,26 @@ Connect All
   Connects all points
 
 
+************************************************************
+2D Triangular Remesh
+************************************************************
+
+Remeshes 2d mesh using delaunay triangulation
+
+.. image:: images/2dtriang.PNG
+
+Density
+  Density of triangles
+
+Corner Angles
+  Keeps corners sharp
+
+Relax Iterations
+  Relaxing triangles for more even spacing
+  
+.. warning::
+    Input meshes has to be on the Z axis
+
 
 ************************************************************
 2D Curl Noise
