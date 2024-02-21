@@ -77,6 +77,11 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 .. image:: images/stipps3.JPG
 
+- **Sharpness/Softness** controls the gradient of the points moving, negatives values will results in sharper gradient cut off, positives values results in softer gradient. Preferably use values in between 0 and 1
+
+.. image:: images/stipps4.JPG
+.. image:: images/stipps5.JPG
+.. image:: images/stipps6.JPG
 
 
 ************************************************************
