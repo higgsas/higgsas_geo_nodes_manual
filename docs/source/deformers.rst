@@ -225,6 +225,33 @@ Projection Falloff
   Falloff of VDM displacment, mostly usefull when VDM texture scaled larger then the mesh 
 
 
+************************************************************
+Sharpen Mesh
+************************************************************
+
+Sharpens mesh by pushing vertices direction of the curvature
+
+.. image:: images/msharp.JPG
+.. image:: images/msharp2.JPG
+
+Iterations
+  Number of steps verices will be pushed
+
+Sharpenss
+  Amount of step verices will be pushed
+
+Smooth Mesh
+  Smoothing of mesh each iteration
+
+Smooth Weight
+  Weight of mesh smoothing
+
+Blur Curvature
+  Blurs curvature
+
+Post Smooth
+  Smooths mesh after the sharpening aplied
+
 
 ************************************************************
 UV Deform
@@ -234,7 +261,6 @@ Projects geometry to target mesh UV map
 
 .. image:: images/uvdeform.PNG
 .. image:: images/uvdeform2.PNG
-
 
 Target Mesh
   Mesh that geometry will be project on
