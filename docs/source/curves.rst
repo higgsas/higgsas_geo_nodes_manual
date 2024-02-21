@@ -269,6 +269,26 @@ Tilt
   Tilts whole curve
 
 
+************************************************************
+Tubes to Splines
+************************************************************
+
+Converts mesh tubes to splines
+
+.. image:: images/tts.PNG
+
+Sort Index
+  Choses edge index to compare direction
+  
+Epsilon
+  Value to match direction
+
+Delete Caps
+  Deletes caps that has more than 4 faces
+
+.. warning::
+    Cylinder primitives or manually created cylinders might not work because of random random indices
+
 
 ************************************************************
 3D Curve Fill
