@@ -63,7 +63,14 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 - **Min Distance** controls density in the dark areas, lower values will results in more points in dark areas. Be carefull not to set value too low, resulting in way too many points that will slow simulation significantly. For decent results aim total point count somewhere between 10k/30k
 
-- **Points Count** initial points count that points will be deleted using image brightness values. Preferably leave it to the default and only increase it if in some areas points are too sparse 
+- **Points Count** initial points count that points will be deleted using image brightness values. Preferably leave it to the default and only increase it if in some areas points are too sparse
+
+**Simulation**
+
+- After adjusted Initial Distribution settings connect **Points Stippling Simulation** to the Group Output and rund the simulation
+
+.. image:: images/stipps1.JPG
+.. image:: images/stippa2.JPG
 
 
 
