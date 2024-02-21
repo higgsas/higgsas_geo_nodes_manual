@@ -48,6 +48,13 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 .. image:: images/stipp2.JPG
 .. image:: images/stipp3.JPG
 
+**Setting up the solver**
+
+- First open image of your choice 
+- Connect **Initial Distribution View** to the **Group Output** or a viewer node
+- Adjust **Min Brightness** and **Max Brightness** to best match gradient of the image 
+
+.. image:: images/stippa1.JPG
 
 
 ************************************************************
