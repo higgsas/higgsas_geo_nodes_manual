@@ -44,7 +44,25 @@ Bottom
   Selection of bottom cap
   
   
- 
+************************************************************
+Rounded Cube
+************************************************************
+
+Rounded cube mesh primitive
+
+.. image:: images/rcube.PNG
+.. image:: images/rcube2.PNG
+
+Size
+  Size of the rounded cube
+
+Resoliution
+  Resolution of rounded corners
+
+Radius
+  Radius of rounded corners
+
+
 ************************************************************
 Hexagon Grid
 ************************************************************
