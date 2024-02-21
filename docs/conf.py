@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'Higgsas Geo Nodes Manual'
+copyright = '2024, Higgsas'
 author = 'Graziella'
 
 release = '0.1'
