@@ -61,7 +61,7 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 .. image:: images/stippa2.JPG
 .. image:: images/stippa3.JPG
 
-- **Min Distance** controls density in the dark areas, lower values will results in more points in dark areas. Be carefull not to set value too low, resulting in way too many points that will slow simulation significantly. For decent results aim total point count somewhere between 10k/30k
+- **Min Distance** controls density in the dark areas, lower values will results in more points in dark areas. Be carefull not to set value too low, resulting in way too many points that will slow simulation significantly. For decent results aim total point count somewhere between 10k / 30k
 
 - **Points Count** initial points count that points will be deleted using image brightness values. Preferably leave it to the default and only increase it if in some areas points are too sparse
 
@@ -82,6 +82,16 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 .. image:: images/stipps4.JPG
 .. image:: images/stipps5.JPG
 .. image:: images/stipps6.JPG
+
+- **Sharpness Scale** controls gradient difference between bright and dark ares. If set **Sharpness Scale** to 0 points in bright ares will not apear. Leave it default value 0.01 
+
+.. image:: images/stipps7.JPG
+
+- **Grid Resolution** used to calculate weighted voronoi coordinates for points directions to move. For better quality points distribution, grid resolution can be increased. Make sure keep keep it around 1200 / 2000, higher grid number will make simulation significantly slower
+
+- **Color** attribute can be use for different points scale from image texture for better effect
+
+.. image:: images/stipps8.JPG
 
 
 ************************************************************
