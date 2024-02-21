@@ -302,6 +302,14 @@ Flip Direction
   Flips cutting plane direction
 
 
+************************************************************
+Heart
+************************************************************
+
+Curve heart shape
+
+.. image:: images/cheart.PNG
+
 
 ************************************************************
 Curve Point Angle
