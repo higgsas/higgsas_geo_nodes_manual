@@ -38,6 +38,15 @@ Scale
 .. image:: images/diffsale.png
 
 
+************************************************************
+Image Points Stippling
+************************************************************
+
+Recreates image using point/dots for the gradiant shading using weighted voronoi technique 
+
+.. image:: images/stipp1.JPG
+.. image:: images/stipp2.JPG
+.. image:: images/stipp3.JPG
 
 
 
