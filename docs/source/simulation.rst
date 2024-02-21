@@ -67,10 +67,15 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 **Simulation**
 
-- After adjusted Initial Distribution settings connect **Points Stippling Simulation** to the Group Output and rund the simulation
+- After adjusted Initial Distribution settings, connect **Points Stippling Simulation** to the Group Output and rund the simulation
 
 .. image:: images/stipps1.JPG
 .. image:: images/stipps2.JPG
+
+- Usually it will take about 50 frames to get stippling effect
+- Instancing spheres on to points with small radius
+
+.. image:: images/stipps3.JPG
 
 
 
