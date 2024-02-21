@@ -1,25 +1,6 @@
 Utilities
 ===================================
 
-************************************************************
-Smooth Attribute
-************************************************************
-
-Smooths/blurs attribute
-
-.. image:: images/sm_att.png
-.. image:: images/sm_att2.png
-
-Factor
-  Factor of the original and smooth attribute value
-  
-Value
-  Value that will be smoothed/blured
-  
-Iterations
-  Amount of smooth/blur
-
-
 
 ************************************************************
 Easing 
