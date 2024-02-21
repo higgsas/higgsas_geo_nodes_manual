@@ -4,7 +4,7 @@
 
 project = 'Higgsas Geo Nodes Manual'
 copyright = '2024, Higgsas'
-author = 'Graziella'
+author = 'Higgsas'
 
 release = '0.1'
 version = '0.1.0'
