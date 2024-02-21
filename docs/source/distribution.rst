@@ -229,6 +229,24 @@ U Parameter
 Points Radius
   Radius of the points
 
+
+************************************************************
+Phyllotaxis Profile Surface
+************************************************************
+
+Distributes points in phyllotaxys arrangement on the surface from the profile curve
+
+.. image:: images/phyprof.JPG
+
+Petal Area
+  Density of phyllotaxys distribution
   
+Step Size
+  Step size for choosing which petal point are valid for the ddistribution. Smaller value more accurate results
   
+Axis
+  Axis of the distribution
+  
+Center
+  Center of the distribution
 
