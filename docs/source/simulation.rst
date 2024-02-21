@@ -93,6 +93,10 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 .. image:: images/stipps8.JPG
 
+- Stippling effect can be inverted by inverting **Min Brightness** and **Max Brightness** values
+
+.. image:: images/stipps9.JPG
+
 
 ************************************************************
 Surface Curl Noise
