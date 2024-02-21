@@ -312,6 +312,42 @@ Selection
     Cubes subdivision only wokrs correctly on geometry nodes Cube
 
 
+************************************************************
+Maze Solver
+************************************************************
+
+Generates maze edge walls on the mesh using random walk with backtracing
+
+.. image:: images/maze1.JPG
+.. image:: images/maze2.JPG
+  
+Start Face
+  Index of face from where random walk beginds
+  
+End Face
+  Index of face that finds shortest path between start and end faces. Note this will not effect maze generation
+
+Seed
+  Seed of maze generation
+
+Start End Path
+  Curve path between start and end faces
+
+All Paths
+  All pahts of the maze
+
+Edge Walls
+  Edges selection of maze walls
+
+Start Face
+  Face selection of start face
+
+End Face
+  Face selection of end face
+
+.. tip::
+    Note that after maze generated you might not want to use **Start Face** as start of the maze, because it will give more easier path to the end
+
 
 ************************************************************
 Connect Points
