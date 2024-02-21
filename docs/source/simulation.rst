@@ -70,7 +70,7 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 - After adjusted Initial Distribution settings connect **Points Stippling Simulation** to the Group Output and rund the simulation
 
 .. image:: images/stipps1.JPG
-.. image:: images/stippa2.JPG
+.. image:: images/stipps2.JPG
 
 
 
