@@ -97,6 +97,13 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 .. image:: images/stipps9.JPG
 
+- To apply the simulation, apply geo nodes modifier with realized circle instances, or convert points to vertices by using **Points to Vertices** nodes and apply the geo nodes modifier
+
+.. tip::
+    You can use fill curve trick to convert points to triangular mesh 
+    
+    .. image:: images/stipps10.JPG
+
 
 ************************************************************
 Surface Curl Noise
