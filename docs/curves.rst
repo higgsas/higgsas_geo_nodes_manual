@@ -251,6 +251,26 @@ Intersecting points
 
 
 ************************************************************
+Curve Banking
+************************************************************
+
+Sets curve tilt to create road banking effect depending on curve curvature
+
+.. image:: images/c_bank1.PNG
+.. image:: images/c_bank.PNG
+
+Banking
+  Amount of banking curve tilt
+
+Blur
+  Blurs banking tilt for smoother results
+
+Tilt
+  Tilts whole curve
+
+
+
+************************************************************
 3D Curve Fill
 ************************************************************
 
