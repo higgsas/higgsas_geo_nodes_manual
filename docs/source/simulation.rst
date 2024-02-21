@@ -77,19 +77,19 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 .. image:: images/stipps3.JPG
 
-- **Sharpness/Softness** controls the gradient of the points moving, negatives values will results in sharper gradient cut off, positives values results in softer gradient. Preferably use values in between 0 and 1
+- **Sharpness/Softness** controls the gradient of the points distribution, negatives values will results in sharper gradient cut off, positives values results in softer gradient. Preferably use the values in between 0 and 1
 
 .. image:: images/stipps4.JPG
 .. image:: images/stipps5.JPG
 .. image:: images/stipps6.JPG
 
-- **Sharpness Scale** controls gradient difference between bright and dark ares. If set **Sharpness Scale** to 0 points in bright ares will not apear. Leave it default value 0.01 
+- **Sharpness Scale** controls gradient difference between bright and dark ares. If set **Sharpness Scale** to 0, points in bright ares will not apear. Leave it default value 0.01 
 
 .. image:: images/stipps7.JPG
 
-- **Grid Resolution** used to calculate weighted voronoi coordinates for points directions to move. For better quality points distribution, grid resolution can be increased. Make sure keep keep it around 1200 / 2000, higher grid number will make simulation significantly slower
+- **Grid Resolution** used to calculate weighted voronoi coordinates for points directions to move. For better quality of points distribution, grid resolution can be increased. Make sure keep keep it around 1200 / 2000, higher grid number will make simulation significantly slower
 
-- **Color** attribute can be use for different points scale from image texture for better effect
+- **Color** attribute can be use for controlling points scale from image texture for better effect
 
 .. image:: images/stipps8.JPG
 
