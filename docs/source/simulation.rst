@@ -56,6 +56,12 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 .. image:: images/stippa1.JPG
 
+- **Min Points Amount** and **Max Points Amount** controls density of points for bright and dark portions of the image. For the best results adjust **Min Points Amount** to get small amount of points in bright areas why keeping contrast, can leave it to the default. **Max Points Amount** can be decreased if you have too many points in dark areas, preferably leave it default of 1
+
+.. image:: images/stippa2.JPG
+.. image:: images/stippa3.JPG
+
+
 
 ************************************************************
 Surface Curl Noise
