@@ -188,6 +188,21 @@ Solenoidal
   Divergence-free vector field
 
 
+************************************************************
+Instances Bounding Box
+************************************************************
+
+Generates bounding box min max values for each instance in global coordinate space
+
+.. image:: images/bboxinst.JPG
+
+
+Min
+  Min of bounding box
+
+Max
+  Max of bounding box
+
 
 ************************************************************
 Face Vertex Poistion
