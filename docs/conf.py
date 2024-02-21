@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Higgsas Geometry nodes manual'
-copyright = '2023, Higgsas'
-author = 'Higgsas'
+project = 'Lumache'
+copyright = '2021, Graziella'
+author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
