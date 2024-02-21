@@ -119,12 +119,12 @@ Merge
 
 
 ************************************************************
-Round Cube
+Quad Sphere 
 ************************************************************
 
-Round cube mesh primitive
+Quad sphere mesh primitive
 
-.. image:: images/round_cube.PNG
+.. image:: images/qsp1.PNG
 
 Radius
   Radius of sphere
