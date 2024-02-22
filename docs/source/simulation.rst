@@ -119,7 +119,7 @@ Time Steps
   Number of simulation steps per frame
 
 Relax Strenght 
-  The amount of relaxation per step. Going above 1 can create unstable simulation. Value bellow 1 will slow down the simulation for more stable relaxations, but it slower convergence to packed circles. Preferably leave at 1
+  The amount of relaxation per step. Going above 1 can create unstable simulation. Value bellow 1 will slow down the simulation for more stable relaxations, but it slow down convergence for circle packing. Preferably leave at 1
   
 
 
