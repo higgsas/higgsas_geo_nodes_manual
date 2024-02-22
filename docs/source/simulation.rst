@@ -152,9 +152,14 @@ Pull Strength
 
 .. warning::
     **Limitations**
-    
-    .. image:: images/stipps10.JPG
 
+    In some cases circles on edges can overlap
+    
+    .. image:: images/tmeshc7.PNG
+
+    Surfaces that has holes inside will not pack well
+
+    .. image:: images/tmeshc8.PNG    
 
 
 
