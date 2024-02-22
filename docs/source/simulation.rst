@@ -140,8 +140,20 @@ Boundary Edge
 
 **Radius/Center**
 
-- **0** Circles will touch the boundary edge with circle side. **Important** 
+- **0** Circles will touch the boundary edge with circle side. **Important** boundary edge must be some distance offsetted from triangle mesh
 - **1** Circles center will be on the boundary edge
+
+Pull Strength
+  Strength for pulling circles to the boundary edge
+
+**Using boundary edge on 3d surface**
+
+.. image:: images/tmeshc4.PNG
+
+.. warning::
+    **Limitations**
+    
+    .. image:: images/stipps10.JPG
 
 
 
