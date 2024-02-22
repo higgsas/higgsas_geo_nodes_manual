@@ -121,6 +121,14 @@ Time Steps
 Relax Strenght 
   The amount of relaxation per step. Going above 1 can create unstable simulation. Value bellow 1 will slow down the simulation for more stable relaxations, but it slow down convergence for circle packing. Preferably leave at 1
   
+Project to Surface
+  Will shrinkwraps relaxed mesh to input mesh to keep the shape
+
+Surface Mesh
+  Surface mesh that triangle mesh will be shrinkwraped
+
+.. image:: images/tmeshc2.PNG
+
 
 
 
