@@ -129,6 +129,20 @@ Surface Mesh
 
 .. image:: images/tmeshc2.PNG
 
+Contain in Boundary
+  Tries to contain circles inside the boundary edge
+
+Boundary Edge
+  Mesh boundary edge
+
+.. image:: images/tmeshc5.PNG
+.. image:: images/tmeshc6.PNG
+
+**Radius/Center**
+
+- **0** Circles will touch the boundary edge with circle side. **Important** 
+- **1** Circles center will be on the boundary edge
+
 
 
 
