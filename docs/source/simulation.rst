@@ -106,6 +106,26 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 
 ************************************************************
+Triangle Mesh Circle Packing
+************************************************************
+
+Relaxes triangulated mesh to fit tangent circles using simulation
+
+
+.. image:: images/tmeshc.PNG
+.. image:: images/tmeshc1.PNG
+
+Time Steps
+  Number of simulation steps per frame
+
+Relax Strenght 
+  The amount of relaxation per step. Going above 1 can create unstable simulation. Value bellow 1 will slow down the simulation for more stable relaxations, but it slower convergence to packed circles. Preferably leave at 1
+  
+
+
+
+
+************************************************************
 Surface Curl Noise
 ************************************************************
 
