@@ -5,7 +5,7 @@ Simulation
 Reaction Diffusion Solver
 ************************************************************
 
-Creater growing/mixing effect between two virtual chemicals 
+Creates growing/mixing effect between two virtual chemicals 
 
 .. image:: images/reactdiff1.PNG
 .. image:: images/reactdiff.gif
@@ -63,7 +63,7 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 - **Min Distance** controls density in the dark areas, lower values will results in more points in dark areas. Be carefull not to set value too low, resulting in way too many points that will slow simulation significantly. For decent results aim total point count somewhere between 10k / 30k
 
-- **Points Count** initial points count that points will be deleted using image brightness values. Preferably leave it to the default and only increase it if in some areas points are too sparse
+- **Points Count** initial points count that points will be deleted using image brightness values. Preferably leave it to the default and only increase it, if in some areas points are too sparse
 
 **Simulation**
 
@@ -72,7 +72,7 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 .. image:: images/stipps1.JPG
 .. image:: images/stipps2.JPG
 
-- Usually it will take about 50 frames to get stippling effect
+- Usually it will take about 50 frames to get good stippling effect
 - Instancing spheres on to points with small radius
 
 .. image:: images/stipps3.JPG
@@ -87,7 +87,7 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 .. image:: images/stipps7.JPG
 
-- **Grid Resolution** used to calculate weighted voronoi coordinates for points directions to move. For better quality of points distribution, grid resolution can be increased. Make sure keep keep it around 1200 / 2000, higher grid number will make simulation significantly slower
+- **Grid Resolution** used to calculate weighted voronoi coordinates for points directions to move. For better quality of points distribution, grid resolution can be increased. Make sure keep it around 1200 / 2000 or higher grid resolution will make simulation significantly slower
 
 - **Color** attribute can be use for controlling points scale from image texture for better effect
 
@@ -157,7 +157,7 @@ Pull Strength
 
     .. image:: images/tmeshc10.PNG
 
-    Best is to avaid these triangles when generating triangular mesh if posible, if not simple solution would be deleting vertices with only 2 neighbors untill no more bad triangles left
+    Best is to avoid these triangles when generating triangular mesh if posible, if not simple solution would be deleting vertices with only 2 neighbors untill no more bad triangles left
 
     .. image:: images/tmeshc11.PNG
     .. image:: images/tmeshc12.PNG
