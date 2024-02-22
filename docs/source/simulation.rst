@@ -153,6 +153,15 @@ Pull Strength
 .. warning::
     **Limitations**
 
+    Boundary trianges that has only 2 vertex neighbors will not move during simulation and can give bad packing results
+
+    .. image:: images/tmeshc10.PNG
+
+    Best is to avaid these triangles when generating triangular mesh if posible, if not simple solution would be deleting vertices with only 2 neighbors untill no more bad triangles left
+
+    .. image:: images/tmeshc11.PNG
+    .. image:: images/tmeshc12.PNG
+
     In some cases circles on edges can overlap
     
     .. image:: images/tmeshc7.PNG
