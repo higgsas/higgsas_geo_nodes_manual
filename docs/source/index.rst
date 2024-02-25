@@ -27,6 +27,7 @@ Contents
    falloffs
    sdf
    simulation
+   uv
 
 .. toctree::
 
