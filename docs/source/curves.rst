@@ -164,6 +164,23 @@ Axis Rotation
 
 
 ************************************************************
+Advect Splines
+************************************************************
+
+Instances splines on points and advects/moves splines each step by vector
+
+.. image:: images/advectsp.PNG
+.. image:: images/advectsp1.PNG
+
+Steps
+  Steps of the splines
+  
+Direction
+  Vector direction that splines moves each step
+
+
+
+************************************************************
 Poly Arc
 ************************************************************
 
