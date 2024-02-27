@@ -53,6 +53,10 @@ Mesh
 .. image:: images/cipack6.PNG
 .. image:: images/cipack7.PNG
 
+Packing using noise or the texture
+
+.. image:: images/cipack8.PNG
+
 
 ************************************************************
 Distribute Points in Volume
