@@ -2,6 +2,40 @@ Distribution
 ===================================
 
 ************************************************************
+Circle Packing
+************************************************************
+
+Creates circle packing by removing points that inside the radius each interation. The more points you have the better circle packing will be, aim it around 50k/100k points
+
+.. image:: images/cipack.PNG
+.. image:: images/cipack1.PNG
+
+Iterations
+  Iterations of the circle packing. If you have a lot of points or min/max radius set to low values increase Iterations
+  
+Min Radius
+  Min radius of the circle
+  
+Max Radius
+  Max radius of the circle
+
+**Random/Max Radius**
+
+- **Random** Each interation sets circle radius to random value, and will clamp it with existing circles that it won't overlap. It will give more randomized circles, but with bigger gaps
+- **Max Radius** Each interation sets circle radius to max radius to the closest existing circle. It will tighter gaps between circles but with more uniform circles
+
+**Random/Index Order**
+
+- **Random** Selects each point randomly. Will result in more randomized circles with bigger gaps
+- **Index Order** Selects each point by its index. Will result in more tighter packing. Note that points indices depending on how points was created
+
+.. image:: images/cipack4.PNG
+.. image:: images/cipack5.PNG
+
+
+
+
+************************************************************
 Distribute Points in Volume
 ************************************************************
 
