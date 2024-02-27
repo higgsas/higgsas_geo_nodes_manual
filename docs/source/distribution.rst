@@ -32,6 +32,20 @@ Max Radius
 .. image:: images/cipack4.PNG
 .. image:: images/cipack5.PNG
 
+Fit in Mesh
+  Fits circles inside the mesh that won't go past boundary
+
+Mesh
+  Mesh for boundary
+
+**2D Boundary/3D Surface**
+
+- **2D Boundary** Makes circles radius equal boundary edge
+
+.. image:: images/cipack2.PNG
+.. image:: images/cipack3.PNG
+
+
 
 
 
