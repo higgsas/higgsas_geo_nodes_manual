@@ -33,7 +33,7 @@ Max Radius
 .. image:: images/cipack5.PNG
 
 Seed
-  Seed of setting random radius to circles
+  Seed of setting random radius between min and max to circles
 
 Fit in Mesh
   Fits circles inside the mesh that won't go past boundary
