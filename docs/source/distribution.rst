@@ -32,6 +32,9 @@ Max Radius
 .. image:: images/cipack4.PNG
 .. image:: images/cipack5.PNG
 
+Seed
+  Seed of setting random radius to circles
+
 Fit in Mesh
   Fits circles inside the mesh that won't go past boundary
 
@@ -45,8 +48,10 @@ Mesh
 .. image:: images/cipack2.PNG
 .. image:: images/cipack3.PNG
 
+- **3D Surface** Makes circles/sphere radius equal to surface boundary
 
-
+.. image:: images/cipack6.PNG
+.. image:: images/cipack7.PNG
 
 
 ************************************************************
