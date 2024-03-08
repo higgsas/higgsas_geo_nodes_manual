@@ -1,6 +1,15 @@
 Updates
 ===================================
 
+
+**2024-03-08 Update**
+
+Fixed Curve Offset node not working in blender 4.0
+
+**2024-01-27 Update**
+
+Added version for Blender 4.0
+
 **2023-08-31 Update**
 
 Added Fill Curves option to Mesh Contours node
