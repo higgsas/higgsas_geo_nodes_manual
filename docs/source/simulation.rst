@@ -2,43 +2,6 @@ Simulation
 ===================================
 
 ************************************************************
-Reaction Diffusion Solver
-************************************************************
-
-Creates growing/mixing effect between two virtual chemicals 
-
-.. image:: images/reactdiff1.PNG
-.. image:: images/reactdiff.gif
-.. image:: images/reactdiff2.PNG
-
-Inside Reaction Diffusion Solver node group (tab to open)
-
-.. image:: images/reactdiff3.PNG
-
-A
-  Chemical A value stored on the mesh (set to 1)
-
-B
-  Chemical B value stored on the mesh (set it to some random texture/noise that effect will growth from)
-
-F
-  Chemicals feed rate
-
-K
-  Chemicals kill rate
-
-.. image:: images/reactshow.png
-
-T
-  Time scale of the simulation (going above 1.5 simulation will become unstable)
-
-Scale
-  Scale of the grouth pattern
-
-.. image:: images/diffsale.png
-
-
-************************************************************
 Image Points Stippling
 ************************************************************
 
@@ -103,6 +66,45 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
     You can use fill curve trick to convert points to triangular mesh 
     
     .. image:: images/stipps10.JPG
+
+
+
+************************************************************
+Reaction Diffusion Solver
+************************************************************
+
+Creates growing/mixing effect between two virtual chemicals 
+
+.. image:: images/reactdiff1.PNG
+.. image:: images/reactdiff.gif
+.. image:: images/reactdiff2.PNG
+
+Inside Reaction Diffusion Solver node group (tab to open)
+
+.. image:: images/reactdiff3.PNG
+
+A
+  Chemical A value stored on the mesh (set to 1)
+
+B
+  Chemical B value stored on the mesh (set it to some random texture/noise that effect will growth from)
+
+F
+  Chemicals feed rate
+
+K
+  Chemicals kill rate
+
+.. image:: images/reactshow.png
+
+T
+  Time scale of the simulation (going above 1.5 simulation will become unstable)
+
+Scale
+  Scale of the grouth pattern
+
+.. image:: images/diffsale.png
+
 
 
 ************************************************************
