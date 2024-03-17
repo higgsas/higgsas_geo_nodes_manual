@@ -2,31 +2,136 @@ Curves
 ===================================
 
 ************************************************************
-Loft Splines
+3D Curve Fill
 ************************************************************
 
-Connects splines
+Fills curves with face in 3d
 
-.. image:: images/loft_splines.PNG
-.. image:: images/loft_splines.jpeg
+.. image:: images/3dcf.PNG
 
-Bezier/Catmull/Poly
-  Interpolation method
+N-Gons/Triangles
+  Fills with single n-gon face or triangulates it
+
+.. image:: images/3dcf2.PNG
+
+
+
+************************************************************
+Adaptive Catenary Splines
+************************************************************
+
+Creates physically accurate rope sag effect that maintains its length from a splines with 2 points
+
+.. image:: images/catn1.PNG
+.. image:: images/catn2.gif
+
+Splines Length
+  Splines length per spline segment
   
-Resample Splines
-  Resamples splines. **Tip:** Use it if splines has uneven controls points 
+Splines Resolution
+  Resolution of the splines per spline segment
+
+Axis Rotation
+  Rotates spline around its axis
+
+.. warning::
+    Splines segments must be separated
+
+    .. image:: images/catn3.PNG
+
+
+
+************************************************************
+Advect Splines
+************************************************************
+
+Instances splines on points and advects/moves splines each step by vector
+
+.. image:: images/advectsp.PNG
+.. image:: images/advectsp1.PNG
+
+Steps
+  Steps of the splines
   
-Resample Count
-  Resamples spline points count
+Direction
+  Vector direction that splines moves each step
+
+
+
+************************************************************
+Align Curve Normal
+************************************************************
+
+Aligns curve normal to the Direction vector by tilting it
+
+.. image:: images/curveal.png
+
+Direction
+  Direction that curve normals will be aligned
   
-Subdivide
-  Subdivides connection between splines
-  
-Cyclic Splines
-  Connects input splines
-  
-Cyclic Loft
-  Connected loft
+Tilt
+  Tilts curve
+
+
+
+************************************************************
+Curve Banking
+************************************************************
+
+Sets curve tilt to create road banking effect depending on curve curvature
+
+.. image:: images/c_bank1.PNG
+.. image:: images/c_bank.PNG
+
+Banking
+  Amount of banking curve tilt
+
+Blur
+  Blurs banking tilt for smoother results
+
+Tilt
+  Tilts whole curve
+
+
+
+************************************************************
+Curve Bisect
+************************************************************
+
+Cuts a curve along a custom plane
+
+.. image:: images/cbisect.PNG
+
+Place Position
+  Position of cutting plane
+
+Plane Normal
+  Direction of cutting plane
+
+Flip Direction
+  Flips cutting plane direction
+
+
+
+************************************************************
+Curve Mesh Boolean
+************************************************************
+
+Cuts curve using a mesh
+
+.. image:: images/cmbool.PNG
+
+**Diff/Inter/Slice**
+
+- **Diff:** Difference boolean mode
+- **Inter:**  Intersection boolean mode
+- **Slice:**  Slice boolean mode
+
+Intersecting points
+  Outputs true boolean value on new points that been created from mesh boolean
+
+.. warning::
+    Singe curve segment can only be cut one time
 
 
 
@@ -58,50 +163,39 @@ Axis
   Axis direction
 
 
+
 ************************************************************
-Splines Patch
+Curve Point Angle
 ************************************************************
 
-Creates grid patch from 4 splines
+Calculates curve points angle from its neighbors points 
 
-.. image:: images/spatch.png
-.. image:: images/spatch1.png
+.. image:: images/c_p_a.PNG
+.. image:: images/c_p_a2.PNG
 
-**Resample/Set Resolution**
+Angle
+  Angle output in radians from 0 to 3.14159
 
-- **Resample:**  Resamples input splines
-- **Set Resolution:**  Set resolution for Bezier splines
-  
-U Resolution
-  Sets grid resolution for rows
-  
-V Resolution
-  Sets grid resolution for columns
- 
 
 
 ************************************************************
-Twist Curve
+Decimate Curve
 ************************************************************
 
-Evenly offsets curve from axis or normal
+Removes curve points depending on curve curvature
 
-.. image:: images/twist_curve.PNG
-.. image:: images/twist_curve2.PNG
+.. image:: images/cdecim.PNG
 
-Spline Amount
-  Duplicates splines
+Angle
+  Cuve points greater then angle that points will be removed
   
-Factor/Lenth
-  Uses splines factor or lenth paramater for the rotations
-  
-Thickness
-  Distance of the offset from the curve
-  
-Rotation
-  Amount of rotation
-  
-  
+Smooth
+  Smooths curve to minimize the gaps
+
+.. warning::
+    Cyclic curves decimate results can be undesirable 
+
+
 
 ************************************************************
 Even Curve to Mesh
@@ -121,62 +215,41 @@ Fill Caps
 
 
 ************************************************************
-Curve Decimate
+Heart
 ************************************************************
 
-Removes curve points depending on curve curvature
+Curve heart shape
 
-.. image:: images/cdecim.PNG
+.. image:: images/cheart.PNG
 
-Angle
-  Cuve points greater then angle that points will be removed
+
+
+************************************************************
+Loft Splines
+************************************************************
+
+Connects splines
+
+.. image:: images/loft_splines.PNG
+.. image:: images/loft_splines.jpeg
+
+Bezier/Catmull/Poly
+  Interpolation method
   
-Smooth
-  Smooths curve to minimize the gaps
-
-.. warning::
-    Cyclic curves decimate results can be undesirable 
-
-
-
-************************************************************
-Adaptive Catenary Splines
-************************************************************
-
-Creates physically accurate rope sag effect that maintains its length from a splines with 2 points
-
-.. image:: images/catn1.PNG
-.. image:: images/catn2.gif
-
-Splines Length
-  Splines length per spline segment
+Resample Splines
+  Resamples splines. **Tip:** Use it if splines has uneven controls points 
   
-Splines Resolution
-  Resolution of the splines per spline segment
-
-Axis Rotation
-  Rotates spline around its axis
-
-.. warning::
-    Splines segments must be separated
-
-    .. image:: images/catn3.PNG
-
-
-************************************************************
-Advect Splines
-************************************************************
-
-Instances splines on points and advects/moves splines each step by vector
-
-.. image:: images/advectsp.PNG
-.. image:: images/advectsp1.PNG
-
-Steps
-  Steps of the splines
+Resample Count
+  Resamples spline points count
   
-Direction
-  Vector direction that splines moves each step
+Subdivide
+  Subdivides connection between splines
+  
+Cyclic Splines
+  Connects input splines
+  
+Cyclic Loft
+  Connected loft
 
 
 
@@ -213,6 +286,74 @@ Arc/Poly
     Node only works with single spline and spline can only have maximum of 40 segments. In Blender 4.0 works with unlimited curve segments
 
 
+
+************************************************************
+Splines Patch
+************************************************************
+
+Creates grid patch from 4 splines
+
+.. image:: images/spatch.png
+.. image:: images/spatch1.png
+
+**Resample/Set Resolution**
+
+- **Resample:**  Resamples input splines
+- **Set Resolution:**  Set resolution for Bezier splines
+  
+U Resolution
+  Sets grid resolution for rows
+  
+V Resolution
+  Sets grid resolution for columns
+
+
+
+************************************************************
+Tubes to Splines
+************************************************************
+
+Converts mesh tubes to splines
+
+.. image:: images/tts.PNG
+
+Sort Index
+  Choses edge index to compare direction
+  
+Epsilon
+  Value to match direction
+
+Delete Caps
+  Deletes caps that has more than 4 faces
+
+.. warning::
+    Cylinder primitives or manually created cylinders might not work because of random random indices
+
+
+
+************************************************************
+Twist Curve
+************************************************************
+
+Evenly offsets curve from axis or normal
+
+.. image:: images/twist_curve.PNG
+.. image:: images/twist_curve2.PNG
+
+Spline Amount
+  Duplicates splines
+  
+Factor/Lenth
+  Uses splines factor or lenth paramater for the rotations
+  
+Thickness
+  Distance of the offset from the curve
+  
+Rotation
+  Amount of rotation
+
+
+
 ************************************************************
 UV Curve to Mesh
 ************************************************************
@@ -243,141 +384,4 @@ Margin
   
 Rotate
   Rotates UV islands for better packing
-
-
-************************************************************
-Curve Mesh Boolean
-************************************************************
-
-Cuts curve using a mesh
-
-.. image:: images/cmbool.PNG
-
-**Diff/Inter/Slice**
-
-- **Diff:** Difference boolean mode
-- **Inter:**  Intersection boolean mode
-- **Slice:**  Slice boolean mode
-
-Intersecting points
-  Outputs true boolean value on new points that been created from mesh boolean
-
-.. warning::
-    Singe curve segment can only be cut one time
-
-
-
-************************************************************
-Curve Banking
-************************************************************
-
-Sets curve tilt to create road banking effect depending on curve curvature
-
-.. image:: images/c_bank1.PNG
-.. image:: images/c_bank.PNG
-
-Banking
-  Amount of banking curve tilt
-
-Blur
-  Blurs banking tilt for smoother results
-
-Tilt
-  Tilts whole curve
-
-
-************************************************************
-Tubes to Splines
-************************************************************
-
-Converts mesh tubes to splines
-
-.. image:: images/tts.PNG
-
-Sort Index
-  Choses edge index to compare direction
-  
-Epsilon
-  Value to match direction
-
-Delete Caps
-  Deletes caps that has more than 4 faces
-
-.. warning::
-    Cylinder primitives or manually created cylinders might not work because of random random indices
-
-
-************************************************************
-3D Curve Fill
-************************************************************
-
-Fills curves with face in 3d
-
-.. image:: images/3dcf.PNG
-
-N-Gons/Triangles
-  Fills with single n-gon face or triangulates it
-
-.. image:: images/3dcf2.PNG
-
-
-************************************************************
-Curve Bisect
-************************************************************
-
-Cuts a curve along a custom plane
-
-.. image:: images/cbisect.PNG
-
-Place Position
-  Position of cutting plane
-
-Plane Normal
-  Direction of cutting plane
-
-Flip Direction
-  Flips cutting plane direction
-
-
-************************************************************
-Heart
-************************************************************
-
-Curve heart shape
-
-.. image:: images/cheart.PNG
-
-
-************************************************************
-Curve Point Angle
-************************************************************
-
-Calculates curve points angle from its neighbors points 
-
-.. image:: images/c_p_a.PNG
-.. image:: images/c_p_a2.PNG
-
-Angle
-  Angle output in radians from 0 to 3.14159
-  
-  
-
-************************************************************
-Align Curve Normal
-************************************************************
-
-Aligns curve normal to the Direction vector by tilting it
-
-.. image:: images/curveal.png
-
-Direction
-  Direction that curve normals will be aligned
-  
-Tilt
-  Tilts curve
-
-
-
-
-
 
