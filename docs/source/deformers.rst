@@ -35,35 +35,171 @@ Center
 
 
 ************************************************************
-Twist
+Cube Deform
 ************************************************************
 
-Twist geometry over the axis
+Deforms geometry to match external cube mesh
 
-.. image:: images/twist.PNG
+.. image:: images/cdef.PNG
 
-Upper Angle
-  Twist Amount from the axis top
+Default Cube/Geo Cube
+  Switch between default cube or geometry nodes cubes, because of the vertex indices difference between default cube and geometry nodes cube 
 
-Lower Angle
-  Twist Amount from the axis bottom
+
+
+************************************************************
+Curve Deform
+************************************************************
+
+Deforms geometry along the curve
+
+.. image:: images/curve_deform.PNG
+.. image:: images/c_deform.PNG
+
+Offset
+  Moves geometry along the curve
 
 Axis
-  Twist direction
+  Deformation direction
 - 1.0.0 = **X**
 - 0.1.0 = **Y**
 - 0.0.1 = **Z**
 
 Center
-  Poistion from where geometry twist
+  Poistion from where geometry bends
   
-Limits Lower
-  Limits twist from the axis bottom
+Fit to Curve
+  **On:** Stretchs geometry along the curve lenth
   
-Limits Upper
-  Limits twist from the axis top
+.. image:: images/curve_deform_fit.PNG
 
-.. image:: images/twist_limit.PNG
+Limit Offset
+  **On:** When using **Offset** values between **0** and **1** geometry bounds won't go past curve ends 
+
+
+
+************************************************************
+Displace
+************************************************************
+
+Displaces geometry along Normal or XYZ directions
+
+.. image:: images/displace.PNG
+
+Texture
+  Scales direction of displacment
+  
+Strength
+  Strength of displacment 
+ 
+Midlevel
+  Offset of texture values  
+  
+Normal/XYZ Direction
+  Displacment along the Normal or XTZ Direction
+  
+.. image:: images/displace_xyz.PNG
+  
+XYZ Strength
+  Strength of displacment on each axis
+  
+Mask
+  Mask for displacment strength
+
+
+
+************************************************************
+Face Offset
+************************************************************
+
+Evenly offsets mesh faces
+
+.. image:: images/face_offset.PNG
+
+Offset
+  Distance of the offset
+  
+Selection
+  Selects what faces to deform
+
+
+
+************************************************************
+Mesh Offset
+************************************************************
+
+Evenly offsets mesh faces along normal
+
+.. image:: images/moffset.PNG
+
+Even offset
+  Offsets faces evenly
+  
+Offset
+  Amount of offset
+  
+Selection
+  Selection that faces will be offseted
+
+
+
+************************************************************
+Set Center
+************************************************************
+
+Places geometry relevite to local 0.0.0 coordinate (origin) depending on its bounding box
+
+.. image:: images/set_c.PNG
+
+C
+  Places geometry to center of bounding box
+  
+X
+  Places geometry to center X axis of bounding box
+
+Y
+  Places geometry to center Y axis of bounding box
+
+Z
+  Places geometry to center Z axis of bounding box
+
+**-X**
+  Places geometry to center -X axis of bounding box
+  
+**-Y**
+  Places geometry to center -Y axis of bounding box
+
+**-Z**
+  Places geometry to center -Z axis of bounding box
+
+
+
+************************************************************
+Sharpen Mesh
+************************************************************
+
+Sharpens mesh by pushing vertices direction of the curvature
+
+.. image:: images/msharp.JPG
+.. image:: images/msharp2.JPG
+
+Iterations
+  Number of steps verices will be pushed
+
+Sharpenss
+  Amount of step verices will be pushed
+
+Smooth Mesh
+  Smoothing of mesh each iteration
+
+Smooth Weight
+  Weight of mesh smoothing
+
+Blur Curvature
+  Blurs curvature
+
+Post Smooth
+  Smooths mesh after the sharpening aplied
 
 
 
@@ -102,9 +238,25 @@ Limits Lower
   
 Limits Upper
   Limits stretch from the axis top  
-  
-  
-  
+
+
+
+************************************************************
+Surface Bind
+************************************************************
+
+Binds geometry to target mesh surface that will match target mesh position/deformation
+
+.. image:: images/sbind.png
+
+Target Mesh
+  Target mesh that geometry will be binded
+
+Tart Rest Position
+  Target mesh rest/static position before any transformation
+
+
+
 ************************************************************
 Taper
 ************************************************************
@@ -144,33 +296,90 @@ Limits Upper
 
 
 ************************************************************
-Curve Deform
+To Sphere
 ************************************************************
 
-Deforms geometry along the curve
+Deforms geometry in to sphere
 
-.. image:: images/curve_deform.PNG
-.. image:: images/c_deform.PNG
+.. image:: images/to_shere.PNG
 
-Offset
-  Moves geometry along the curve
+Factor
+  Factor of the to sphere deformation
+  
+Scale
+  Scale of the sphere.
+  Uses Bounding Box average to calculate sphere size
+  
+Center
+  Center of sphere deformation
+  
+Mask
+  Mask for sphere deformation strength
+
+
+
+************************************************************
+Twist
+************************************************************
+
+Twist geometry over the axis
+
+.. image:: images/twist.PNG
+
+Upper Angle
+  Twist Amount from the axis top
+
+Lower Angle
+  Twist Amount from the axis bottom
 
 Axis
-  Deformation direction
+  Twist direction
 - 1.0.0 = **X**
 - 0.1.0 = **Y**
 - 0.0.1 = **Z**
 
 Center
-  Poistion from where geometry bends
+  Poistion from where geometry twist
   
-Fit to Curve
-  **On:** Stretchs geometry along the curve lenth
+Limits Lower
+  Limits twist from the axis bottom
   
-.. image:: images/curve_deform_fit.PNG
+Limits Upper
+  Limits twist from the axis top
 
-Limit Offset
-  **On:** When using **Offset** values between **0** and **1** geometry bounds won't go past curve ends 
+.. image:: images/twist_limit.PNG
+
+
+
+************************************************************
+UV Deform
+************************************************************
+
+Projects geometry to target mesh UV map
+
+.. image:: images/uvdeform.PNG
+.. image:: images/uvdeform2.PNG
+
+Target Mesh
+  Mesh that geometry will be project on
+
+Depth
+  Scale of projected geometry along target mesh normals
+  
+Offset
+  Offset of projected geometry along target mesh normals
+  
+Delete Nonvalind
+  Deletes geometry that are outside the trarget mesh UV Map
+  
+Rotation
+  Rotation of goemetry
+  
+Translation 
+  Translation of goemetry
+
+Scale
+  Scale of geometry
 
 
 
@@ -223,213 +432,5 @@ Tangent
 
 Projection Falloff
   Falloff of VDM displacment, mostly usefull when VDM texture scaled larger then the mesh 
-
-
-************************************************************
-Sharpen Mesh
-************************************************************
-
-Sharpens mesh by pushing vertices direction of the curvature
-
-.. image:: images/msharp.JPG
-.. image:: images/msharp2.JPG
-
-Iterations
-  Number of steps verices will be pushed
-
-Sharpenss
-  Amount of step verices will be pushed
-
-Smooth Mesh
-  Smoothing of mesh each iteration
-
-Smooth Weight
-  Weight of mesh smoothing
-
-Blur Curvature
-  Blurs curvature
-
-Post Smooth
-  Smooths mesh after the sharpening aplied
-
-
-************************************************************
-UV Deform
-************************************************************
-
-Projects geometry to target mesh UV map
-
-.. image:: images/uvdeform.PNG
-.. image:: images/uvdeform2.PNG
-
-Target Mesh
-  Mesh that geometry will be project on
-
-Depth
-  Scale of projected geometry along target mesh normals
-  
-Offset
-  Offset of projected geometry along target mesh normals
-  
-Delete Nonvalind
-  Deletes geometry that are outside the trarget mesh UV Map
-  
-Rotation
-  Rotation of goemetry
-  
-Translation 
-  Translation of goemetry
-
-Scale
-  Scale of geometry
-
-
-
-************************************************************
-Displace
-************************************************************
-
-Displaces geometry along Normal or XYZ directions
-
-.. image:: images/displace.PNG
-
-Texture
-  Scales direction of displacment
-  
-Strength
-  Strength of displacment 
- 
-Midlevel
-  Offset of texture values  
-  
-Normal/XYZ Direction
-  Displacment along the Normal or XTZ Direction
-  
-.. image:: images/displace_xyz.PNG
-  
-XYZ Strength
-  Strength of displacment on each axis
-  
-Mask
-  Mask for displacment strength
-  
-  
-  
-************************************************************
-Face Offset
-************************************************************
-
-Evenly offsets mesh faces
-
-.. image:: images/face_offset.PNG
-
-Offset
-  Distance of the offset
-  
-Selection
-  Selects what faces to deform
-
-
-
-************************************************************
-Mesh Offset
-************************************************************
-
-Evenly offsets mesh faces along normal
-
-.. image:: images/moffset.PNG
-
-Even offset
-  Offsets faces evenly
-  
-Offset
-  Amount of offset
-  
-Selection
-  Selection that faces will be offseted
-
-
-
-************************************************************
-To Sphere
-************************************************************
-
-Deforms geometry in to sphere
-
-.. image:: images/to_shere.PNG
-
-Factor
-  Factor of the to sphere deformation
-  
-Scale
-  Scale of the sphere.
-  Uses Bounding Box average to calculate sphere size
-  
-Center
-  Center of sphere deformation
-  
-Mask
- Mask for sphere deformation strength
-
-
-
-************************************************************
-Surface Bind
-************************************************************
-
-Binds geometry to target mesh surface that will match target mesh position/deformation
-
-.. image:: images/sbind.png
-
-Target Mesh
-  Target mesh that geometry will be binded
-
-Tart Rest Position
-  Target mesh rest/static position before any transformation
-
-
-
-************************************************************
-Cube Deform
-************************************************************
-
-Deforms geometry to match external cube mesh
-
-.. image:: images/cdef.PNG
-
-Default Cube/Geo Cube
-  Switch between default cube or geometry nodes cubes, because of the vertex indices difference between default cube and geometry nodes cube 
- 
- 
- 
-************************************************************
-Set Center
-************************************************************
-
-Places geometry relevite to local 0.0.0 coordinate (origin) depending on its bounding box
-
-.. image:: images/set_c.PNG
-
-C
-  Places geometry to center of bounding box
-  
-X
-  Places geometry to center X axis of bounding box
-
-Y
-  Places geometry to center Y axis of bounding box
-
-Z
-  Places geometry to center Z axis of bounding box
-
-**-X**
-  Places geometry to center -X axis of bounding box
-  
-**-Y**
-  Places geometry to center -Y axis of bounding box
-
-**-Z**
-  Places geometry to center -Z axis of bounding box
-
 
 
