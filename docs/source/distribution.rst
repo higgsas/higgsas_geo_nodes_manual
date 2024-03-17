@@ -2,6 +2,55 @@ Distribution
 ===================================
 
 ************************************************************
+3D Points Grid
+************************************************************
+
+Distributes points in 3d grid
+
+.. image:: images/3d_p_g.PNG
+
+Size
+  Size of the grid
+  
+Points X
+  Amount of points in X axis
+  
+Points Y
+  Amount of points in Y axis  
+  
+Points Z
+  Amount of points in Z axis  
+  
+Radius
+  Radius of the points
+
+
+
+************************************************************
+Array
+************************************************************
+
+Creates array of the geometry
+
+.. image:: images/array.PNG
+
+Count
+  Amount that geometry will duplicated
+  
+**Constant Offset**
+
+- **Off:** Offsets geometry from its bonding box
+- **On:** Offsets geometry from its center
+
+Translation
+  Offsets array
+  
+Rotation
+  Rotates geometry
+
+
+
+************************************************************
 Circle Packing
 ************************************************************
 
@@ -58,6 +107,40 @@ Packing using noise or the texture
 .. image:: images/cipack8.PNG
 
 
+
+************************************************************
+Circular Array
+************************************************************
+
+Creates array of the geometry on a circle
+
+.. image:: images/c_array.PNG
+
+Count
+  Amount that geometry will duplicated on a circle
+  
+Radius
+  Radius of the circle
+  
+Circle Rotation
+  Rotates circle
+  
+Rotation
+  Rotates geometry orientation
+  
+Scale
+  Scale of the geometry
+  
+Pick Instance
+  Picks instaces from the instances list or collection
+
+.. image:: images/array_p.PNG
+
+Instance Index
+  Index of the instances list
+  
+
+
 ************************************************************
 Distribute Points in Volume
 ************************************************************
@@ -75,22 +158,6 @@ Radius
 Seed
   Seed of the random distribution
 
-
-
-************************************************************
-Volume Points Grid
-************************************************************
-
-Distributes points inside mesh volume in grid pattern
-
-.. image:: images/v_p_g.PNG
-
-Density
-  Amount of points inside volume
-  
-World Space
-  **On:** Points dstribution stays at world coordinates if mesh moving
-  
 
 
 ************************************************************
@@ -112,89 +179,6 @@ Seed
   
 Selection
   Selection of the edges that points will be distributed
-
-
-
-************************************************************
-Random Points
-************************************************************
-
-Randomly distributes points
-
-.. image:: images/random_points.PNG
-
-Spherical
-  **On:** Random points will be distributed into sphere  
-  
-.. image:: images/random_points_s.PNG
-
-Count
-  Count of points
-  
-Size
-  Size of the points distrubution
-  
-Radius
-  Radius of the point
-  
-Seed
-  Seed of the random distribution
-  
-  
-  
-************************************************************
-3D Points Grid
-************************************************************
-
-Distributes points in 3d grid
-
-.. image:: images/3d_p_g.PNG
-
-Size
-  Size of the grid
-  
-Points X
-  Amount of points in X axis
-  
-Points Y
-  Amount of points in Y axis  
-  
-Points Z
-  Amount of points in Z axis  
-  
-Radius
-  Radius of the points
-  
-  
-  
-************************************************************
-Homogeneous Sphere
-************************************************************
-
-Evenly distributes points on to sphere
-
-.. image:: images/h_s.PNG
-.. image:: images/h_s_2.PNG
-
-Distance
-  Distance between distributed points
-  
-Radius
-  Radius of the sphere
-  
-Scale
-  Scale of the points gap
-  
-Poles Distance
-  Increases gap on the sphere poles
-  
-.. image:: images/h_s_p_d.PNG
-
-Rotation
-  Rotation
-  
-Scale
-  Points gap distance
 
 
 
@@ -228,6 +212,38 @@ Scale
   Points gap distance
 
 
+
+************************************************************
+Homogeneous Sphere
+************************************************************
+
+Evenly distributes points on to sphere
+
+.. image:: images/h_s.PNG
+.. image:: images/h_s_2.PNG
+
+Distance
+  Distance between distributed points
+  
+Radius
+  Radius of the sphere
+  
+Scale
+  Scale of the points gap
+  
+Poles Distance
+  Increases gap on the sphere poles
+  
+.. image:: images/h_s_p_d.PNG
+
+Rotation
+  Rotation
+  
+Scale
+  Points gap distance
+
+
+
 ************************************************************
 Phyllotaxis Disk
 ************************************************************
@@ -255,6 +271,28 @@ Even Pole
   
 Points Radius
   Radius of the points
+
+
+
+************************************************************
+Phyllotaxis Profile Surface
+************************************************************
+
+Distributes points in phyllotaxys arrangement on the surface from the profile curve
+
+.. image:: images/phyprof.JPG
+
+Petal Area
+  Density of phyllotaxys distribution
+  
+Step Size
+  Step size for choosing which petal point are valid for the ddistribution. Smaller value more accurate results
+  
+Axis
+  Axis of the distribution
+  
+Center
+  Center of the distribution
 
 
 
@@ -287,23 +325,45 @@ Points Radius
   Radius of the points
 
 
+
 ************************************************************
-Phyllotaxis Profile Surface
+Random Points
 ************************************************************
 
-Distributes points in phyllotaxys arrangement on the surface from the profile curve
+Randomly distributes points
 
-.. image:: images/phyprof.JPG
+.. image:: images/random_points.PNG
 
-Petal Area
-  Density of phyllotaxys distribution
+Spherical
+  **On:** Random points will be distributed into sphere  
   
-Step Size
-  Step size for choosing which petal point are valid for the ddistribution. Smaller value more accurate results
-  
-Axis
-  Axis of the distribution
-  
-Center
-  Center of the distribution
+.. image:: images/random_points_s.PNG
 
+Count
+  Count of points
+  
+Size
+  Size of the points distrubution
+  
+Radius
+  Radius of the point
+  
+Seed
+  Seed of the random distribution
+
+
+
+************************************************************
+Volume Points Grid
+************************************************************
+
+Distributes points inside mesh volume in grid pattern
+
+.. image:: images/v_p_g.PNG
+
+Density
+  Amount of points inside volume
+  
+World Space
+  **On:** Points dstribution stays at world coordinates if mesh moving
+  

@@ -569,62 +569,6 @@ Selection
   Selects what edges to offset
 
 
-
-************************************************************
-Array
-************************************************************
-
-Creates array of the geometry
-
-.. image:: images/array.PNG
-
-Count
-  Amount that geometry will duplicated
-  
-**Constant Offset**
-
-- **Off:** Offsets geometry from its bonding box
-- **On:** Offsets geometry from its center
-
-Translation
-  Offsets array
-  
-Rotation
-  Rotates geometry
-
-
-
-************************************************************
-Circular Array
-************************************************************
-
-Creates array of the geometry on a circle
-
-.. image:: images/c_array.PNG
-
-Count
-  Amount that geometry will duplicated on a circle
-  
-Radius
-  Radius of the circle
-  
-Circle Rotation
-  Rotates circle
-  
-Rotation
-  Rotates geometry orientation
-  
-Scale
-  Scale of the geometry
-  
-Pick Instance
-  Picks instaces from the instances list or collection
-
-.. image:: images/array_p.PNG
-
-Instance Index
-  Index of the instances list
-  
   
 ************************************************************
 Mesh to Ascii
