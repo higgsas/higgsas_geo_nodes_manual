@@ -4,36 +4,26 @@ SDF Nodes
 SDF - Signed distance fields creates 3d volume surface that can be definded using mathematical functions
 
 ************************************************************
-SDF to Mesh
+Mesh to SDF
 ************************************************************
 
-Converts SDF volume to mesh
+.. image:: images/sdftm.PNG
 
-.. image:: images/sdftomesh.PNG
+Converts mesh to SDF volume
 
-SDF
-  SDF field that mesh will be created
+Iso
+  Volume offset from mesh surface to inside/outside
   
-Voxel Size
-  Density of the mesh created. Lower values = dense mesh
+.. image:: images/sdftm2.PNG
+.. image:: images/sdftm3.PNG
+
+Fill Volume
+  Fills SDF volume
   
-Min Bounds
-  Position in 3d space that volume will be calculated
-  
-Max Bounds
-  Position in 3d space that volume will be calculated
-  
-Bounds Padding
-  Extends voxels from the bounds
-  
-Shade Smooth
-  Shades mesh smooth
-  
-Show Bounds
-  Shows bounds visualisation that volume will be calculated
-  
-  
-  
+.. image:: images/sdftm5.PNG
+
+
+
 ************************************************************
 SDF Boolean
 ************************************************************
@@ -68,31 +58,15 @@ Color Mask
 .. image:: images/sdfb6.PNG
   
 
-************************************************************
-Mesh to SDF
-************************************************************
-
-.. image:: images/sdftm.PNG
-
-Converts mesh to SDF volume
-
-Iso
-  Volume offset from mesh surface to inside/outside
   
-.. image:: images/sdftm2.PNG
-.. image:: images/sdftm3.PNG
 
-Fill Volume
-  Fills SDF volume
-  
-.. image:: images/sdftm5.PNG
 
-  
 ************************************************************
 SDF Capsule
 ************************************************************
 
 .. image:: images/sdfcap.PNG
+
 
 
 ************************************************************
@@ -102,11 +76,13 @@ SDF Cube
 .. image:: images/sdfcube.PNG
 
 
+
 ************************************************************
 SDF Cylinder
 ************************************************************
 
 .. image:: images/sdfcyl.PNG
+
 
 
 ************************************************************
@@ -116,11 +92,21 @@ SDF Gyroid
 .. image:: images/sdfgy.PNG
 
 
+
+************************************************************
+SDF Heart
+************************************************************
+
+.. image:: images/sdfheart.PNG
+
+
+
 ************************************************************
 SDF Polygon
 ************************************************************
 
 .. image:: images/sdfpo.PNG
+
 
 
 ************************************************************
@@ -130,11 +116,36 @@ SDF Sphere
 .. image:: images/sdfsp.PNG
 
 
+
 ************************************************************
-SDF Heart
+SDF to Mesh
 ************************************************************
 
-.. image:: images/sdfheart.PNG
+Converts SDF volume to mesh
+
+.. image:: images/sdftomesh.PNG
+
+SDF
+  SDF field that mesh will be created
+  
+Voxel Size
+  Density of the mesh created. Lower values = dense mesh
+  
+Min Bounds
+  Position in 3d space that volume will be calculated
+  
+Max Bounds
+  Position in 3d space that volume will be calculated
+  
+Bounds Padding
+  Extends voxels from the bounds
+  
+Shade Smooth
+  Shades mesh smooth
+  
+Show Bounds
+  Shows bounds visualisation that volume will be calculated
+
 
 
 ************************************************************
@@ -142,7 +153,6 @@ SDF Torus
 ************************************************************
 
 .. image:: images/sdftor.PNG
-
 
 
 
