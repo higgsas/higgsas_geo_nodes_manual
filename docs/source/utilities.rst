@@ -214,8 +214,8 @@ Instances AABB Colision
 
 Removes instances that intersect with each other using AABB (Axis Align Bounding Box)
 
-.. image:: images/iaabbc.png
-.. image:: images/iaabbc1.png
+.. image:: images/iaabbc.PNG
+.. image:: images/iaabbc1.PNG
 
 Error
   Lets instaces intersect by small amount
