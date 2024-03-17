@@ -39,62 +39,6 @@ Max
 
 
 ************************************************************
-Spherical Falloff
-************************************************************
-
-Creates spherical falloff
-
-.. image:: images/sph_fall.png
-
-Size
-  Size of the falloff
-  
-Position
-  Position of the falloff
-  
-Falloff Fac
-  Falloff factor of the sphere gradient
-  
-Smooth 
-  Smooths falloff
-  
-Min
-  Falloff min Value
-  
-Max
-  Falloff max Value
-
-  
-
-************************************************************
-Radial Falloff
-************************************************************
-
-Creates radial falloff
-
-.. image:: images/rad_fall.png
-
-Rotation
-  Rotation of the falloff
-  
-Direction
-  Direction of the falloff
-  
-Position
-  Position of the falloff
-  
-Flip 
-  Flips falloff
-  
-Min
-  Falloff min Value
-  
-Max
-  Falloff max Value
-
-
-
-************************************************************
 Objectr Directional Falloff
 ************************************************************
 
@@ -154,6 +98,62 @@ Max
 
 
 ************************************************************
+Radial Falloff
+************************************************************
+
+Creates radial falloff
+
+.. image:: images/rad_fall.png
+
+Rotation
+  Rotation of the falloff
+  
+Direction
+  Direction of the falloff
+  
+Position
+  Position of the falloff
+  
+Flip 
+  Flips falloff
+  
+Min
+  Falloff min Value
+  
+Max
+  Falloff max Value
+
+
+
+************************************************************
+Spherical Falloff
+************************************************************
+
+Creates spherical falloff
+
+.. image:: images/sph_fall.png
+
+Size
+  Size of the falloff
+  
+Position
+  Position of the falloff
+  
+Falloff Fac
+  Falloff factor of the sphere gradient
+  
+Smooth 
+  Smooths falloff
+  
+Min
+  Falloff min Value
+  
+Max
+  Falloff max Value
+
+
+
+************************************************************
 Wave Falloff
 ************************************************************
 
@@ -187,7 +187,4 @@ Min
   
 Max
   Falloff max Value
-
-
-
 
