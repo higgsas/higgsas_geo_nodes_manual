@@ -16,18 +16,19 @@ Contents
 .. toctree::
 
    installation
+   curves
    deformers
+   distribution
+   effects
+   falloffs
    generators
    geometry_measure
-   utilities
-   distribution
-   curves
    primitives
-   selection
-   falloffs
    sdf
+   selection
    simulation
    uv
+   utilities
 
 .. toctree::
 
