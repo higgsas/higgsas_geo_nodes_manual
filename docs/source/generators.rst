@@ -526,6 +526,46 @@ Relax Interations
 
 
 ************************************************************
+Spin
+************************************************************
+
+Extrudes and spins mesh around the axis
+
+.. image:: images/spin.PNG  
+
+Angle
+  Angle of the spin
+
+Steps
+  Amount of steps
+
+Axis Push
+  Push spin on the axis
+
+Axis
+  Axis of the push
+
+Center
+  Center of the spin
+
+Merge
+  Merges mesh when spins is 360
+
+Merge Distance
+  Distance of the mesh
+
+UV Map
+  Generates UV Map
+
+Keep Faces
+  Keeps Faces of the mesh
+
+Shade Smooth
+  Shades mesh smooth
+
+
+
+************************************************************
 Tessellate Align Orientation
 ************************************************************
 
