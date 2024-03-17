@@ -75,6 +75,32 @@ Tilt
 
 
 ************************************************************
+Circle Outer/Inner Tangent Curve
+************************************************************
+
+Bevels curve segments in a way that connects circles inner/outer tangnets
+
+.. image:: images/ciot.PNG
+.. image:: images/ciot1.PNG
+
+Resolution
+  Resolution of the bevel
+
+Radius 
+  Radius of the bevel
+
+Up Axis
+  Axis of bevel
+
+Flip Sides
+  Flips bevel side
+
+.. image:: images/ciot2.PNG
+.. image:: images/ciot3.PNG
+
+
+
+************************************************************
 Curve Banking
 ************************************************************
 
