@@ -1,52 +1,6 @@
 Utilities
 ===================================
 
-
-************************************************************
-Easing 
-************************************************************
-
-Easing functions specify the rate of change of a parameter over time
-
-.. image:: images/easing.png
-
-In / Out / InOut
-  In / Out / InOut
-  
-Value
-  Value that will be remapped
-  
-From Min
-  The lower bound of the range to remap from
-
-From Max
-  The higher bound of the range to remap from
-
-To Min
-  The lower bound of the target range
-
-To Max
-  The higher bound of the target range
-  
-Exponent
-  Exponent of the **Power** and **Expoential** functions
-  
-Base
-  Base of the **Power** function
-  
-Size
-  Size of the **Back** function
-  
-Bounces
-  Bounces of the **Elastic** function
-  
-Mirror
-  Mirros functions
- 
-.. warning::
-    Bounces input doesn't work on **Bounce** function
-  
-
 ************************************************************
 Bezier Easing 
 ************************************************************
@@ -96,30 +50,94 @@ Visualise Easing Curve
 
 
 ************************************************************
-Box Mapping  
+Camera Culling
 ************************************************************
 
-Map image on mesh using box mapping method 
+Creates true boolean values inside camera view
 
-.. image:: images/box_map.png
+.. image:: images/cam_c.PNG
 
-Image
-  Input of the image that will be box mapped on the mesh
+Focal Lenth
+  Camera focal lenth 
   
-Blend
-  Blends between seams
+Sensor Size
+  Camera sensor size
+  
+Scene Res X
+  Scene X resolution
 
-.. image:: images/box_map2.png
+Scene Res Y
+  Scene Y resolution
 
-Translation
-  Translation of box mapping
+Padding
+  Camera view boundaries offset
+
+
+
+************************************************************
+Distance to Edge Voronoi
+************************************************************
+
+Creates distance to edge voronoi texture from points 
+
+.. image:: images/dtev.PNG
+.. image:: images/dtev2.PNG
+
+Points
+  Points that voronoi texture will be calculated
   
-Rotation
-  Rotation of box mapping
+Smoothness
+  Smoothness of the distance to edge texture
+
+.. warning::
+    Maximum input points are 100. For more points, inside the node group duplicate "NodeGroupVor" node group and connect it with the rest of nodes 
+
+
+
+************************************************************
+Easing 
+************************************************************
+
+Easing functions specify the rate of change of a parameter over time
+
+.. image:: images/easing.png
+
+In / Out / InOut
+  In / Out / InOut
   
-Scale
-  Scale of box mapping
+Value
+  Value that will be remapped
   
+From Min
+  The lower bound of the range to remap from
+
+From Max
+  The higher bound of the range to remap from
+
+To Min
+  The lower bound of the target range
+
+To Max
+  The higher bound of the target range
+  
+Exponent
+  Exponent of the **Power** and **Expoential** functions
+  
+Base
+  Base of the **Power** function
+  
+Size
+  Size of the **Back** function
+  
+Bounces
+  Bounces of the **Elastic** function
+  
+Mirror
+  Mirros functions
+ 
+.. warning::
+    Bounces input doesn't work on **Bounce** function
+
 
 
 ************************************************************
@@ -164,47 +182,30 @@ Show Original Geometry
 
 
 ************************************************************
-Camera Culling
+Image Box Mapping  
 ************************************************************
 
-Creates true boolean values inside camera view
+Map image on mesh using box mapping method 
 
-.. image:: images/cam_c.PNG
+.. image:: images/box_map.png
 
-Focal Lenth
-  Camera focal lenth 
+Image
+  Input of the image that will be box mapped on the mesh
   
-Sensor Size
-  Camera sensor size
+Blend
+  Blends between seams
+
+.. image:: images/box_map2.png
+
+Translation
+  Translation of box mapping
   
-Scene Res X
-  Scene X resolution
-
-Scene Res Y
-  Scene Y resolution
-
-Padding
-  Camera view boundaries offset
-
-
-
-************************************************************
-Distance to Edge Voronoi
-************************************************************
-
-Creates distance to edge voronoi texture from points 
-
-.. image:: images/dtev.PNG
-.. image:: images/dtev2.PNG
-
-Points
-  Points that voronoi texture will be calculated
+Rotation
+  Rotation of box mapping
   
-Smoothness
-  Smoothness of the distance to edge texture
-
-.. warning::
-    Maximum input points are 100. For more points, inside the node group duplicate "NodeGroupVor" node group and connect it with the rest of nodes 
+Scale
+  Scale of box mapping
+  
 
 
 ************************************************************
