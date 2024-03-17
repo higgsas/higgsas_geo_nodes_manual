@@ -2,6 +2,15 @@ Selection
 ===================================
 
 ************************************************************
+Boundary Edge
+************************************************************
+
+Selects mesh edges that are on the boundary
+
+.. image:: images/boundary_edge.PNG
+
+
+************************************************************
 Bounding Region Selection
 ************************************************************
 
@@ -33,38 +42,6 @@ Invert
 
 
 ************************************************************
-Select by Normal
-************************************************************
-
-Boolean selection based on geometry normal direction
-
-.. image:: images/select_by_normal.PNG
-
-Factor
-  Factor of the normal selection
-  
-Direction
-  Direction of the selection
-  
-Positive/Negative
-  **On:** Select both negative and positive directions of the normal
-  
-
-
-************************************************************
-Is Inside Volume
-************************************************************
-
-Checks if point are inside Taget mesh volume
-
-.. image:: images/is_inside_volume.PNG
-
-Target
-  Mesh that being used to check if points are inside it
-  
-  
-  
-************************************************************
 Edge Angle Selection
 ************************************************************
 
@@ -74,16 +51,6 @@ Selects mesh edges based on edges angle
 
 Angle
   Selects mesh edges that are greather than Angle input
-  
-  
-
-************************************************************
-Boundary Edge
-************************************************************
-
-Selects mesh edges that are on the boundary
-
-.. image:: images/boundary_edge.PNG
 
 
 
@@ -105,6 +72,40 @@ Steps
   
 - **On:** Expands/contract selection towards mesh neighbor edges 
 - **Off:** Expands/contract selection towards mesh neighbor faces 
+
+
+
+************************************************************
+Is Inside Volume
+************************************************************
+
+Checks if point are inside Taget mesh volume
+
+.. image:: images/is_inside_volume.PNG
+
+Target
+  Mesh that being used to check if points are inside it
+
+
+
+************************************************************
+Select by Normal
+************************************************************
+
+Boolean selection based on geometry normal direction
+
+.. image:: images/select_by_normal.PNG
+
+Factor
+  Factor of the normal selection
+  
+Direction
+  Direction of the selection
+  
+Positive/Negative
+  **On:** Select both negative and positive directions of the normal
+  
+
 
 
 
