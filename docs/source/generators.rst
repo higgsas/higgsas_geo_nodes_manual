@@ -501,6 +501,31 @@ Bottom
 
 
 ************************************************************
+Spheres Intersections
+************************************************************
+
+Instaces sphere meshes on points and deforms it to not intersect
+
+.. image:: images/spinter.PNG  
+.. image:: images/spinter1.PNG  
+.. image:: images/spinter2.PNG  
+.. image:: images/spinter3.PNG  
+
+Sphere Mesh
+  Mesh of spheres that will be deformed
+
+Radius
+  Controls radius of sphere on points
+
+Relax Interations
+  Relaxes mesh spheres
+
+.. warning::
+    Sphere Mesh must have radius of 1
+
+
+
+************************************************************
 Tessellate Align Orientation
 ************************************************************
 
