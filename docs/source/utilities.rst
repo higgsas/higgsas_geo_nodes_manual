@@ -205,7 +205,24 @@ Rotation
   
 Scale
   Scale of box mapping
-  
+
+
+
+************************************************************
+Instances AABB Colision
+************************************************************
+
+Removes instances that intersect with each other using AABB (Axis Align Bounding Box)
+
+.. image:: images/iaabbc.png
+.. image:: images/iaabbc1.png
+
+Error
+  Lets instaces intersect by small amount
+
+Seed
+  Seed of which instances will be deleted
+
 
 
 ************************************************************
