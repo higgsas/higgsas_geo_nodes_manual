@@ -42,25 +42,7 @@ Side
   
 Bottom
   Selection of bottom cap
-  
-  
-************************************************************
-Rounded Cube
-************************************************************
 
-Rounded cube mesh primitive
-
-.. image:: images/rcube.PNG
-.. image:: images/rcube2.PNG
-
-Size
-  Size of the rounded cube
-
-Resoliution
-  Resolution of rounded corners
-
-Radius
-  Radius of rounded corners
 
 
 ************************************************************
@@ -88,33 +70,6 @@ Constant Hex Size
   
 Merge
   Hexagon tiles will be merged
-  
-  
-************************************************************
-Triangle Grid
-************************************************************
-
-Triangle grid mesh primitive
-
-.. image:: images/triangle_grid.PNG
-
-Size
-  Size of the grid
-  
-Hex X
-  Number of triangle tiles on **X** axis
-
-Hex Y
-  Number of triangle tiles on **Y** axis
-
-Gap
-  Gap between trianle tiles
-  
-Constant Hex Size
-  Triangle size will be controlled by **Size** input
-  
-Merge
-  Triangle tiles will be merged
 
 
 
@@ -131,6 +86,26 @@ Radius
   
 Resoliution
   Resoliution of the sphere
+
+
+
+************************************************************
+Rounded Cube
+************************************************************
+
+Rounded cube mesh primitive
+
+.. image:: images/rcube.PNG
+.. image:: images/rcube2.PNG
+
+Size
+  Size of the rounded cube
+
+Resoliution
+  Resolution of rounded corners
+
+Radius
+  Radius of rounded corners
 
 
 
@@ -171,9 +146,35 @@ Trefoil Knot
 
 Curve
   Outputs torus knot curve
+
+
+
+************************************************************
+Triangle Grid
+************************************************************
+
+Triangle grid mesh primitive
+
+.. image:: images/triangle_grid.PNG
+
+Size
+  Size of the grid
   
+Hex X
+  Number of triangle tiles on **X** axis
+
+Hex Y
+  Number of triangle tiles on **Y** axis
+
+Gap
+  Gap between trianle tiles
   
+Constant Hex Size
+  Triangle size will be controlled by **Size** input
   
+Merge
+  Triangle tiles will be merged
+
   
   
   
