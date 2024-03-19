@@ -1,6 +1,34 @@
 Simulation
 ===================================
 
+***********************************************************
+Directional Reaction Diffusion 
+************************************************************
+
+Creates growing/mixing effect between two virtual chemicals with guide vector (Slower then regular Reaction Diffusion Solver)
+
+.. image:: images/dirreact.PNG
+
+
+A
+  Chemical A value stored on the mesh (set to 1)
+
+B
+  Chemical B value stored on the mesh (set it to some random texture/noise that effect will growth from)
+
+F
+  Chemicals feed rate
+
+K
+  Chemicals kill rate
+
+.. image:: images/reactshow.png
+
+T
+  Time scale of the simulation (going above 1.5 simulation will become unstable)
+
+
+
 ************************************************************
 Image Points Stippling
 ************************************************************
