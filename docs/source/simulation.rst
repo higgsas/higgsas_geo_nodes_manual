@@ -140,7 +140,7 @@ Seed
 
 .. warning::
 
-    Splines can ne overlaping with itself
+    Splines can be overlaping with itself
 
     .. image:: images/spack4.PNG
 
