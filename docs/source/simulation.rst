@@ -108,6 +108,45 @@ Scale
 
 
 ************************************************************
+Splines Packing
+************************************************************
+
+Removes overlaping splines each simulation step
+
+.. image:: images/spack2.PNG
+.. image:: images/spack3.PNG
+.. image:: images/spack1.PNG
+.. image:: images/spack5.PNG
+
+Time Steps
+  Number of simulation steps per frame
+
+Min Radius
+  Min radius of the splines
+
+Max Radius
+  Max radius of the splines
+
+Minimal Splines Length
+  Removes splines with mininal distance
+
+**Random/Max Radius**
+
+- **Random** Each interation sets spline radius to random value, and will clamp it with existing splines that it won't overlap. It will give more randomized radius, but with bigger gaps
+- **Max Radius** Each interation sets splines radius to max radius to the closest existing splines. It will result in tighter gaps between splines but with more uniform radius
+
+Seed
+  Seed of setting random radius between min and max 
+
+.. warning::
+
+    Splines can ne overlaping with itself
+
+    .. image:: images/spack4.PNG
+
+
+
+************************************************************
 Triangle Mesh Circle Packing
 ************************************************************
 
