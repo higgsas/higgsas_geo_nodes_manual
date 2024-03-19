@@ -2,6 +2,80 @@ Updates
 ===================================
 
 
+**2024-03-19 Update**
+
+23 New Nodes
+
+Instances Bounding Box - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/utilities.html#instances-aabb-colision
+
+Maze solver - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#maze-solver
+
+Curve Banking - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#curve-banking
+
+Spine Heart - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#heart
+
+SDF Heart - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/sdf.html#sdf-heart
+
+2D Remesh - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#d-triangular-remesh
+
+Tubes to Splines - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#tubes-to-splines
+
+Advect Splines - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#advect-splines
+
+Phyllotaxis Surface - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/distribution.html#phyllotaxis-profile-surface
+
+Sharpen Mesh - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/deformers.html#sharpen-mesh
+
+Rounded Cube - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/primitives.html#rounded-cube
+
+Image Points Stippling - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/simulation.html#image-points-stippling
+
+Triangle Mesh Circle Packing - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/simulation.html#triangle-mesh-circle-packing
+
+Edge Bundling 
+
+TSP mesh
+
+UV Mirror
+
+Sphere Intersection - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#spheres-intersections
+
+Instances AABB Collision - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/utilities.html#instances-aabb-colision
+
+Spin - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#spin
+
+Splines Packing - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/simulation.html#splines-packing
+
+SDF Volume Points Fracture 
+
+Circe Outer/Inner Tangent Curve - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#circle-outer-inner-tangent-curve
+
+Directional Reaction Diffusion - 
+
+Updates:
+
+Moved UV nodes to new UV category
+
+Moved curl noise nodes to new Effects category
+
+Reaction Diffusion Solver - added time steps and simplified the node
+
+Distance to Edge Voronoi - updated to use Repeat Zone for performance
+
+Mesh Face Divided - updated to use Repeat Zone for performance
+
+Circle Packing - now using Repeat Zone instead of Simulation Zone, so you won’t need to play animation for the packing
+
+VDM Points Scatter - Added blur option thanks to Benny_G feedback
+
+Catenary Curves - updated to use Repeat Zone for performance
+
+Poly Arc - updated to use Repeat Zone for performance
+
+Curve Offset - fixed direction being not normalized
+
+Surface Curl Noise - added option to project to surface and simplified normal input just use mesh
+
 **2024-03-08 Update**
 
 Fixed Curve Offset node not working in blender 4.0
