@@ -27,6 +27,10 @@ K
 T
   Time scale of the simulation (going above 1.5 simulation will become unstable)
 
+.. warning::
+
+    For the effect in all directions mesh needs to be triangulated. Quad mesh direction can only go to the vertex neighbor
+
 
 
 ************************************************************
