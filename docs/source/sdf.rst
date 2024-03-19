@@ -156,6 +156,26 @@ SDF Torus
 
 
 
+************************************************************
+SDF Volume Points Fracture
+************************************************************
+
+Fractures mesh volume from points
+
+.. image:: images/svpf.PNG
+
+Voxel Size
+  Size of the voxel
+
+Smoothing
+  Creates smoother/beveled fracture edges
+
+Gap
+  Gap between cells
+
+Noise Distortion
+  Distorts fracture cells using noise texture
+
 
 
 
