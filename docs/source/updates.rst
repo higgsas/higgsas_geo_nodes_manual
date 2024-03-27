@@ -2,6 +2,10 @@ Updates
 ===================================
 
 
+**2024-03-27 Update**
+
+Added option to submit feedback using Google Forms - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/contact.html 
+
 **2024-03-19 Update**
 
 23 New Nodes
