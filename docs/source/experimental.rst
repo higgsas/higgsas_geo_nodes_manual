@@ -36,3 +36,16 @@ Rope simulation solver
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simple rope simulation with blender 3.6 <a href="https://twitter.com/hashtag/geomentrynodes?src=hash&amp;ref_src=twsrc%5Etfw">#geomentrynodes</a><a href="https://twitter.com/hashtag/b3d?src=hash&amp;ref_src=twsrc%5Etfw">#b3d</a> <a href="https://twitter.com/hashtag/simulation?src=hash&amp;ref_src=twsrc%5Etfw">#simulation</a> <a href="https://t.co/v1yC65oojF">pic.twitter.com/v1yC65oojF</a></p>&mdash; higgsas (@higgsasxyz) <a href="https://twitter.com/higgsasxyz/status/1665762313519919104?ref_src=twsrc%5Etfw">June 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+************************************************************
+Rope Simulations
+************************************************************
+
+Rope simulation solver
+
+|ropes|
+
+.. |ropes| raw:: html
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2GgqFeliSpcecO-3_2k_wRLvCQjgLmWGO-lrW_OBFA0trMg/viewform?embedded=true" width="640" height="503" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
