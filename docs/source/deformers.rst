@@ -434,3 +434,42 @@ Projection Falloff
   Falloff of VDM displacment, mostly usefull when VDM texture scaled larger then the mesh 
 
 
+
+************************************************************
+VDM Points Scatter
+************************************************************
+
+Scatters VDM texture from points on to the mesh and displaces it
+
+.. image:: images/vdmps.JPG
+.. image:: images/vdmps0.JPG
+
+VDM Texture
+  VDM (Vector Displacment Map) texture used to displace mesh
+
+Points Normal
+  Normals of input points
+
+Scale
+  Scale of the VDM texture
+  
+Rotation
+  Rotation of the VDM texture
+
+Displacment Scale
+  Scale of the displacment
+
+Tangent
+  Tangent vector that rotation will be aligned
+
+Blur Boundaries
+  Blurs vdm texture for each point cell boundaries
+
+.. image:: images/vdmps1.JPG
+.. image:: images/vdmps2.JPG
+
+Blur Iterations
+  Iterations of the blur
+
+Blur Radius
+  Radius for each point cell boundaries
