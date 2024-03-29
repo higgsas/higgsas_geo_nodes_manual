@@ -2,6 +2,22 @@ Updates
 ===================================
 
 
+**2024-03-29 Update**
+
+Added Blender 4.1 version with some improvements
+
+Added position attribute to falloffs nodes in blender 4.1 
+
+Normalized falloffs directions
+
+Improved mesh contours fill curves performance in blender 4.1 
+
+Improved Easing node usability using new menus switch in blender 4.1 
+
+3d curve fill much faster in blender 4.1
+
+VDM Points Scatter added better option for boundaries blur
+
 **2024-03-27 Update**
 
 Added option to submit feedback using Google Forms - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/contact.html 
