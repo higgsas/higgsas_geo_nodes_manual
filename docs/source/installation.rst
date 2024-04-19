@@ -3,7 +3,7 @@ Installation
 
 
 ************************************************************
-Installing node groups assets for Blender 3.4/3.5+
+Installing node groups assets
 ************************************************************
 
 |install_video|
