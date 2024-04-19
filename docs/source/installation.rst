@@ -15,3 +15,9 @@ Installing node groups assets for Blender 3.4/3.5+
 - Extract downloaded .zip file folder for your blender version
 - Inside Blender go to :guilabel:`Edit/Preferences/Files Paths/Asset Libraries` and press :guilabel:`+` Add Asset Library
 - Locate unzipped folder and press :guilabel:`Add Asset Library`
+
+.. warning::
+
+    Make sure before pressing :guilabel:`Add Asset Library` you are inside :guilabel:`Higgsas Geo Nodes Blender X.X` folder
+
+    .. image:: images/installimp.JPG
