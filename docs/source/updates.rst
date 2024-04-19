@@ -2,6 +2,12 @@ Updates
 ===================================
 
 
+**2024-04-20 Update**
+
+Added 2 new nodes: 2D Hilbert Curve, Bricks Grid
+
+Removed installation guide for blender 3.3 version because it caused confusion
+
 **2024-03-29 Update**
 
 Added Blender 4.1 version with some improvements

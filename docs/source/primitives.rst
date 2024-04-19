@@ -2,6 +2,50 @@ Mesh Primitives
 ===================================
 
 ************************************************************
+Bricks Grid
+************************************************************
+
+Creates bricks grid
+
+.. image:: images/brickg0.JPG
+
+X Grid Size
+  Size of X axis
+  
+Y Grid Size
+  Size of Y axis
+  
+Absolute Grid Size
+  Will mach exactly size of grid 
+  
+X Brick Size
+  Brick size of X axis
+  
+Y Brick Size
+  Brick size of Y axis
+
+Offset
+  Offset of every second brick row
+  
+Side Bricks
+  Adds side bricks
+
+Mortar Size
+  Creates gap between bricks
+  
+Depth
+  Adds depth to the bricks
+
+Depth Size
+  Size of the bricks depth
+
+Can also be using with repeat zone to create multiple bricks walls
+
+.. image:: images/brickg1.JPG
+.. image:: images/brickg2.JPG
+
+
+************************************************************
 Capsule
 ************************************************************
 
