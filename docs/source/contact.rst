@@ -9,7 +9,7 @@ Email - higgsasmotion@gmail.com
 
 `Twitter <https://twitter.com/higgsasxyz>`_
 
-Submit feedback with Google Forms
+Submit feedback/suggestions with Google Forms
 
 |feedback|
 
