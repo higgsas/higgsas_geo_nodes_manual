@@ -378,7 +378,7 @@ Delete Caps
   Deletes caps that has more than 4 faces
 
 .. warning::
-    Cylinder primitives or manually created cylinders might not work because of random random indices
+    Cylinder primitives or manually created cylinders might not work because of random indices
 
 
 
