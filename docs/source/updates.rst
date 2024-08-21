@@ -1,6 +1,34 @@
 Updates
 ===================================
 
+**2024-08-21 Update**
+
+Added version for blender 4.2 with some updates
+
+Camera Culling - updated with matrix nodes making it faster
+
+Camera UV Coordinates - updated with matrix nodes making it faster
+
+Bend - updated with matrix nodes making it 2-5 times faster
+
+VDM Points Scatter - updated with matrix nodes making it 2-5 times faster
+
+VDM Brush - added Fast/Accurate modes. Fast mode increse performance up to 10 times compate to accurate mode
+
+Twist, Strech, Taper - added Smooth Limits option
+
+Box Image Mapping - updated with matrix nodes
+
+Sphere/Cyling UV Mapping - updated with matrix nodes
+
+New nodes:
+
+Mesh Curve Direction Guide
+
+Correct UV
+
+UV Seam
+
 
 **2024-04-20 Update**
 
