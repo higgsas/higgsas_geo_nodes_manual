@@ -72,6 +72,26 @@ Epsilon
 
 
 ************************************************************
+Mesh Curves Direction Guide
+************************************************************
+
+Creates directional vectors from curves tangent
+
+.. image:: images/mcdg.JPG
+.. image:: images/mcdg2.JPG
+
+Curves
+  Curves input
+
+Project to Surface
+  Makes guide direction vector perpendicular to mesh normals
+  
+Blur Vector
+  Blurs directional vector to minimize seam between different curves
+
+
+
+************************************************************
 Surface Curl Noise
 ************************************************************
 
