@@ -53,3 +53,15 @@ Margin
 Rotate
   Rotates packed UV island
 
+
+
+************************************************************
+UV Seam
+************************************************************
+
+Detects uv edge seam
+
+.. image:: images/uvseam.JPG
+
+Epsilon
+  Small value is used as a threshold to check if edges are edges are close to each other
