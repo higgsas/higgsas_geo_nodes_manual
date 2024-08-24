@@ -1,6 +1,11 @@
 Updates
 ===================================
 
+**2024-08-24 Update**
+
+Fixed Even Curve to Mesh not working with bezier curves
+
+
 **2024-08-21 Update**
 
 Added version for blender 4.2 with some updates
