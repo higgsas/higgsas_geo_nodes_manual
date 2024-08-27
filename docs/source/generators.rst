@@ -461,6 +461,35 @@ Ascii
 
 
 ************************************************************
+Mesh Unfold
+************************************************************
+
+Unfolds mesh into face strips
+
+.. image:: images/munfold.JPG
+
+|unfold|
+
+.. |unfold| raw:: html
+
+    <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Mesh unfold<a href="https://twitter.com/hashtag/geometrynodes?src=hash&amp;ref_src=twsrc%5Etfw">#geometrynodes</a> <a href="https://twitter.com/hashtag/b3d?src=hash&amp;ref_src=twsrc%5Etfw">#b3d</a> <a href="https://t.co/sZD9Ae7oGg">pic.twitter.com/sZD9Ae7oGg</a></p>&mdash; higgsas (@higgsasxyz) <a href="https://twitter.com/higgsasxyz/status/1828514096645386648?ref_src=twsrc%5Etfw">August 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Start Face
+  Face selection that unfolding will begins. Can have multiple faces selected
+
+**Angle/Flat**
+
+- **Angle:** Rotates faces by custom angle defided by Unfold Amount
+- **Flat:** Rotates faces by its edge angles making whole mesh flat
+
+.. image:: images/munfold2.JPG
+
+Unfold Amount
+  Amount of how much face stris will rotate
+
+
+
+************************************************************
 Solidify
 ************************************************************
 
