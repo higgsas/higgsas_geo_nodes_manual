@@ -477,6 +477,10 @@ Unfolds mesh into face strips
 Start Face
   Face selection that unfolding will begins. Can have multiple faces selected
 
+.. image:: images/munfold3.JPG
+.. image:: images/munfold4.JPG
+.. image:: images/munfold5.JPG
+
 **Angle/Flat**
 
 - **Angle:** Rotates faces by custom angle defided by Unfold Amount
@@ -486,6 +490,35 @@ Start Face
 
 Unfold Amount
   Amount of how much face stris will rotate
+
+Unfold Factor
+  How much unfolding happens with using a falloff mask
+
+Falloff Factor
+  Adjusts falloff gradient
+
+Randomize Unfolding
+  By default it will use edge angles to determine which faces to split into strips. Randomize Unfolding will mix edge angles with random values
+
+Seed
+  Seed of Randomize Unfolding
+
+Normalize Mask
+  Ignores unfold factor and falloff factor making mask 0 to 1
+
+Mask
+  Creates mask that goes from start face to end face trip
+
+.. image:: images/munfold6.JPG
+.. image:: images/munfold7.JPG
+
+Mask can also be used in shader editor to make curly parts transparent
+
+.. image:: images/munfold8.JPG
+.. image:: images/munfold9.JPG
+
+.. warning::
+    For dence mesh with many faces node can become slow, recomend to use Bake node for the animation
 
 
 
