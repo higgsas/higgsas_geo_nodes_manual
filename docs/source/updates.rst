@@ -3,7 +3,9 @@ Updates
 
 **2024-08-27 Update**
 
-Added Mesh Unfold node
+Added Mesh Unfold - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#mesh-unfold
+
+**2024-08-25 Update**
 
 Fixed Even Curve to Mesh not working with bezier curves
 
