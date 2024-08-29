@@ -1,6 +1,12 @@
 Updates
 ===================================
 
+**2024-08-29 Update**
+
+Added documentation for Mesh Topology Face Strips
+
+https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#mesh-topology-face-strips
+
 **2024-08-27 Update**
 
 Added Mesh Unfold - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#mesh-unfold
