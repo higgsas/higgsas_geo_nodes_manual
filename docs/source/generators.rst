@@ -461,6 +461,37 @@ Ascii
 
 
 ************************************************************
+Mesh Topology Face Strips
+************************************************************
+
+Creates ID values for each face strips using face corner indices order.
+
+.. image:: images/facestrip.JPG
+.. image:: images/facestrip3.JPG
+.. image:: images/facestrip6.JPG
+
+Order
+  Selects which face edge to use as direction
+
+Guide Direction
+  Uses direction vector to guide face strips
+
+.. image:: images/facestrip4.JPG
+.. image:: images/facestrip5.JPG
+.. image:: images/facestrip7.JPG
+
+Face Group ID
+  Outputs unique id for each face strip
+
+Boundary Edge
+  Outputs edges that creates face strips boundaries
+
+.. warning::
+    Its only works on quad faces, triangles or n-gons will give bad results
+
+
+
+************************************************************
 Mesh Unfold
 ************************************************************
 
