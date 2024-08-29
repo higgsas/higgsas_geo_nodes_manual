@@ -91,7 +91,7 @@ UV Mirror
 
 Mirrors UV from one side of the mesh to other
 
-.. image:: images/uvseam.JPG
+.. image:: images/uvmirr.JPG
 
 Axis
   Axis in 3d space that UV will be mirrored
