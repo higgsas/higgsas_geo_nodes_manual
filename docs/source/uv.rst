@@ -86,6 +86,25 @@ Rotate
 
 
 ************************************************************
+UV Mirror
+************************************************************
+
+Mirrors UV from one side of the mesh to other
+
+.. image:: images/uvseam.JPG
+
+Axis
+  Axis in 3d space that UV will be mirrored
+
+Center
+  Center in 3d space that UV will be mirrored
+
+UV Map
+  UV map attribute
+
+
+
+************************************************************
 UV Seam
 ************************************************************
 
