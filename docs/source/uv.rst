@@ -24,6 +24,36 @@ Scene Res Y
 
 
 ************************************************************
+UV Correct
+************************************************************
+
+Corrects UV attribute with simple objects
+
+.. image:: images/uvcor.JPG
+.. image:: images/uvcor2.JPG
+.. image:: images/uvcor3.JPG
+.. image:: images/uvcor4.JPG
+
+Focal Lenth
+  Camera focal lenth 
+  
+Sensor Size
+  Camera sensor size
+  
+Scene Res X
+  Scene X resolution
+
+Scene Res Y
+  Scene Y resolution
+
+.. warning::
+    Subsuface subdivied or complex meshes will give bad results
+
+    .. image:: images/uvcor5.JPG
+
+
+
+************************************************************
 Triplanar UV Mapping  
 ************************************************************
 
