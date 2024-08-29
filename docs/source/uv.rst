@@ -89,7 +89,7 @@ Rotate
 UV Mirror
 ************************************************************
 
-Mirrors UV from one side of the mesh to other
+Mirrors UV in 3d space from one side of the mesh to other
 
 .. image:: images/uvmirr.JPG
 
