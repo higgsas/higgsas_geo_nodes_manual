@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+**2024-09-07 Update**
+
+Added Curve Intersection
+
 **2024-08-29 Update**
 
 Added documentation for Mesh Topology Face Strips
