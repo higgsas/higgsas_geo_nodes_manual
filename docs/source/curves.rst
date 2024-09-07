@@ -165,6 +165,27 @@ Flip Direction
 
 
 ************************************************************
+Curve Intersection
+************************************************************
+
+Creates point on curve segment where intersection is find
+
+.. image:: images/cinter.JPG
+
+**2D/3D**
+
+- **2D:** Calculates intersection on Z axis
+- **3D:** Calculates intersection in 3D space
+
+.. image:: images/cinter1.JPG
+.. image:: images/cinter2.JPG
+
+3D Distance Threshold
+  Distance Threshold between found intersection segments
+
+
+
+************************************************************
 Curve Mesh Boolean
 ************************************************************
 
