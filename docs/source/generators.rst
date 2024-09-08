@@ -216,6 +216,7 @@ Seed
 
 .. tip::
     To correctly render the image:
+    
     - Set camera to Orthographic mode 
     - Set scene resolution that matches image. Node outputs image Width and Height to help set scene resoliution 
     - Use Cycles render endgine with sample of 1 to get most accurate results. Samples above 1 will create blury pixels 
