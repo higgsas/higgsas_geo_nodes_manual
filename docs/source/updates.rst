@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+**2024-09-08 Update**
+
+Added Image Pixel Sorting
+
 **2024-09-07 Update**
 
 Added Curve Intersection
