@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+**2024-09-09 Update**
+
+Added new option in Image Pixel Sorting - Max Threshold/Min Threshold, for more control 
+
 **2024-09-08 Update**
 
 Added option in Image Pixel Sorting - Whole Image Sort
