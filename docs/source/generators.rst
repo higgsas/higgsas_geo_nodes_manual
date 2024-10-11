@@ -834,6 +834,31 @@ Component Index
 
 
 ************************************************************
+Triangle Mesh to Voronoi
+************************************************************
+
+Converts triangulated mesh to voronoi cells 
+
+.. image:: images/triantovor.JPG
+  
+Limit Obtuse Triangles
+  Limits obtuse triangles (triangles in which one of the interior angles measures more than 90° degrees) to avoid mesh intersections
+
+.. image:: images/triantovor2.JPG
+.. image:: images/triantovor3.JPG
+.. image:: images/triantovor4.JPG
+
+**Clamp/Use Average**
+
+- **Clamp:** Clamps calculated circumcircle center if its lays outside of the triangle
+- **Use Average:**  Uses triangle face center
+
+Keep Boundaries
+  Keeps boundaries of the mesh
+
+
+
+************************************************************
 Voxel Remesh
 ************************************************************
 

@@ -165,6 +165,32 @@ Attribute
 
 
 ************************************************************
+Mesh Fresnel
+************************************************************
+
+Calculates mesh fresnel from camera point of view
+
+.. image:: images/mfrestnel.JPG
+.. image:: images/mfrestnel2.JPG
+  
+Camera/Origin
+  Uses Camera or Custom origin location for calculating direction 
+
+Origin
+  Location of hte origin
+
+Bias
+  Offset of the fresnel
+
+Scale
+  Intensity of the fresnel
+
+Exponent
+  Falloff of the fresnel
+
+
+
+************************************************************
 Mesh Island Measure
 ************************************************************
 
