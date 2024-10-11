@@ -22,6 +22,7 @@ Contents
    falloffs
    generators
    geometry_measure
+   image
    primitives
    sdf
    selection

@@ -182,33 +182,6 @@ Show Original Geometry
 
 
 ************************************************************
-Image Box Mapping  
-************************************************************
-
-Map image on mesh using box mapping method 
-
-.. image:: images/box_map.png
-
-Image
-  Input of the image that will be box mapped on the mesh
-  
-Blend
-  Blends between seams
-
-.. image:: images/box_map2.png
-
-Translation
-  Translation of box mapping
-  
-Rotation
-  Rotation of box mapping
-  
-Scale
-  Scale of box mapping
-
-
-
-************************************************************
 Instances AABB Colision
 ************************************************************
 
