@@ -2,6 +2,30 @@ Distribution
 ===================================
 
 ************************************************************
+2D Distance to Edge Circle Packing
+************************************************************
+
+Packs circles by finding largest circle that fits in between the edges (lose edges/boundary edges)
+
+.. image:: images/2dcircpack.JPG
+.. image:: images/2dcircpack2.JPG
+.. image:: images/2dcircpack3.JPG
+
+Iterations
+  Iterations of the circle packing/number of circles
+  
+Grid Resolution
+  Grid resolution that distances to edge will be stored for circle packing. Higher resolution will give smaller gaps between circles, worse performance
+  
+Min Radius
+  Min radius of the circles
+
+Max Radius
+  Max radius of the circles
+
+
+
+************************************************************
 3D Points Grid
 ************************************************************
 
