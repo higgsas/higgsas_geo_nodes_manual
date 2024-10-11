@@ -13,7 +13,7 @@ Added NURBS option in Lost Splines Node
 
 Reworked Expand / Contract Selection node to improve performance
 
-**New Nodes**
+**New Nodes:**
 
 Polar to Cartesian
 
