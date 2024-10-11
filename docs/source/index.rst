@@ -19,7 +19,6 @@ Contents
    curves
    deformers
    distribution
-   effects
    falloffs
    generators
    geometry_measure
@@ -29,6 +28,7 @@ Contents
    simulation
    uv
    utilities
+   vectorfields
 
 .. toctree::
 

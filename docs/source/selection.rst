@@ -76,6 +76,22 @@ Steps
 
 
 ************************************************************
+Index String Selection
+************************************************************
+
+Lets you type multiple numbers to select indices. Numbers/digints can be separated using "SPACE" "COMMA" "DOT" characters
+
+.. image:: images/indexstring.JPG
+
+Invert
+  Inverts selection
+
+Index
+  Can be used for custom indices selection
+
+
+
+************************************************************
 Is Inside Volume
 ************************************************************
 
