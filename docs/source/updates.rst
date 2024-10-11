@@ -1,7 +1,7 @@
 Updates
 ===================================
 
-**2024-09-09 Update**
+**2024-10-11 Update**
 
 Renamed Effects node category to Vector Fields to better match what nodes do
 
