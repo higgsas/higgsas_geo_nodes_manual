@@ -165,6 +165,30 @@ Attribute
 
 
 ************************************************************
+Mesh Curvature
+************************************************************
+
+Calculates different types of mesh curvatures
+
+Angle Unsigned
+
+.. image:: images/curvat.JPG
+  
+Angle Signed
+
+.. image:: images/curvat2.JPG
+
+Gaussian Curvature
+
+.. image:: images/curvat3.JPG
+
+Mean Curvature
+
+.. image:: images/curvat4.JPG
+
+
+
+************************************************************
 Mesh Fresnel
 ************************************************************
 
