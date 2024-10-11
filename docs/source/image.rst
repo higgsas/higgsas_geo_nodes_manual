@@ -63,18 +63,26 @@ Ordered 8x8
 
 .. image:: images/imgdit5.JPG
 
+Average/Lightness/Saturation/Hue/Red/Blue/Green
+  Converts image color to specified channel
 
+Gamma Correction
+  Gamma corrects image values
+
+Contrast Min
+  Min contrast control of the image
+
+Contrast Max
+  Max contrast control of the image
+
+Brightness Min
+  Min brightness control of the image
+
+Brightness Max
+  Min brightness control of the image
 
 Frame
   Current frame of image/video
-
-Threshold - Lightness/Saturation/Hue/Red/Blue/Green
-  Image grey scale channels that will be used by Treshhold
-
-.. image:: images/imgsort3.JPG
-
-Average/Lightness/Saturation/Hue/Red/Blue/Green
-    
 
 .. tip::
     To correctly render the image:
