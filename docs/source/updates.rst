@@ -3,6 +3,48 @@ Updates
 
 **2024-09-09 Update**
 
+Renamed Effects node category to Vector Fields to better match what nodes do
+
+Adden new nodes category - Image
+
+Removed old 2D Curl Noise node, you can achieve same results with better performance using Advect Splines + Curl Noise 2D/3D
+
+Added NURBS option in Lost Splines Node
+
+Reworked Expand / Contract Selection node to improve performance
+
+**New Nodes**
+
+Polar to Cartesian
+
+Cartesian to Polar
+
+Triangle Mesh to Voronoi - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#triangle-mesh-to-voronoi
+
+Mesh Curvature - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#mesh-curvature
+
+Mesh Fresnel - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#mesh-fresnel
+
+Points Relax
+
+Image Points Distribute
+
+Image Trace
+
+Image Dithering - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/image.html#image-dithering
+
+UV Transform
+
+Sphere Plane Intersection
+
+2D Distance to Edge Circle Packing - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/distribution.html#d-distance-to-edge-circle-packing
+
+Ray Sphere Intersection
+
+Index String Selection - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/selection.html#index-string-selection
+
+**2024-09-09 Update**
+
 Added new option in Image Pixel Sorting - Max Threshold/Min Threshold, for more control 
 
 **2024-09-08 Update**
