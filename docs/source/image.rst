@@ -29,6 +29,65 @@ Scale
 
 
 ************************************************************
+Image Dithering
+************************************************************
+
+Converts image gray scale values to single black and white values
+
+.. image:: images/imgdit.JPG
+.. image:: images/imgdit6.JPG
+
+Image
+  Image input
+  
+Resoliution Scale
+  Grid resolution scale from image pixels
+  
+Floyd-Steinberg
+
+.. image:: images/imgdit.JPG
+
+Sierra
+
+.. image:: images/imgdit2.JPG
+
+Ordered 2x2
+
+.. image:: images/imgdit3.JPG
+
+Ordered 4x4
+
+.. image:: images/imgdit4.JPG
+
+Ordered 8x8
+
+.. image:: images/imgdit5.JPG
+
+
+
+Frame
+  Current frame of image/video
+
+Threshold - Lightness/Saturation/Hue/Red/Blue/Green
+  Image grey scale channels that will be used by Treshhold
+
+.. image:: images/imgsort3.JPG
+
+Average/Lightness/Saturation/Hue/Red/Blue/Green
+    
+
+.. tip::
+    To correctly render the image:
+    
+    - Set camera to Orthographic mode 
+    - Set scene resolution that matches image. Node outputs image Width and Height to help set scene resoliution 
+    - Use Cycles render endgine with sample of 1 to get most accurate results. Samples above 1 will create blury pixels 
+    
+    .. image:: images/imgsort4.JPG
+
+
+
+************************************************************
 Image Pixel Sorting
 ************************************************************
 
