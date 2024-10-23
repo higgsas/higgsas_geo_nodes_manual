@@ -2,6 +2,22 @@ Simulation
 ===================================
 
 ************************************************************
+Belousov–Zhabotinsky reaction
+************************************************************
+
+Simulates oscillating reaction between 3 virtual chemicals 
+
+.. image:: images/bzr1.JPG
+
+|bzr|
+
+.. |bzr| raw:: html
+
+    <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="und" dir="ltr">Belousov–Zhabotinsky reaction <a href="https://twitter.com/hashtag/geometrynodes?src=hash&amp;ref_src=twsrc%5Etfw">#geometrynodes</a> <a href="https://twitter.com/hashtag/b3d?src=hash&amp;ref_src=twsrc%5Etfw">#b3d</a> <a href="https://t.co/cFvZV4IFPJ">pic.twitter.com/cFvZV4IFPJ</a></p>&mdash; higgsas (@higgsasxyz) <a href="https://twitter.com/higgsasxyz/status/1849112721582621051?ref_src=twsrc%5Etfw">October 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+************************************************************
 Directional Reaction Diffusion 
 ************************************************************
 
