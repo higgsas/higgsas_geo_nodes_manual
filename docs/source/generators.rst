@@ -2,43 +2,6 @@ Generators
 ===================================
 
 ************************************************************
-2D Recursive Subdivision
-************************************************************
-
-Subdivides quad faces with offset
-
-.. image:: images/2drec.PNG
-.. image:: images/2drec2.PNG
-.. image:: images/2drec3.PNG
-.. image:: images/2drec.gif
-
-W
-  Controls subdivided quad movement 
-
-Limit Distance
-  Limits subdivided quad movement side to side
-  
-Random Orientation
-  Randomize movement verticaly and horizontaly  
-  
-Seed
-  Seed of random orientation
-  
-Rotation
-  Rotation
-  
-Scale
-  Scale
-  
-Selection
-  Selects which faces to subdivide 
-    
-.. warning::
-    Subdivision only wokrs on non-deformed quad faces
-
-
-
-************************************************************
 2D Triangular Remesh
 ************************************************************
 
@@ -373,6 +336,33 @@ Selection
 
 .. warning::
     Tris and n-gon faces will be ignored 
+
+
+
+************************************************************
+Mesh Face Recursive Subdivision
+************************************************************
+
+Subdivides quad faces with offset
+
+.. image:: images/frs1.JPG
+.. image:: images/frs2.JPG
+.. image:: images/2drec.gif
+
+Iterations
+  How many times faces will be divided
+
+W
+  Controls subdivided quad movement 
+
+Limit Distance
+  Limits subdivided quad movement side to side
+
+Smoothstep
+  Creates more "sharp" movment
+  
+Loop Animation
+  Will loops animation of selected frame range
 
 
 
