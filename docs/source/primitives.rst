@@ -45,6 +45,41 @@ Can also be using with repeat zone to create multiple bricks walls
 .. image:: images/brickg2.JPG
 
 
+
+************************************************************
+Cairo Tile Grid
+************************************************************
+
+Hexagon grid mesh primitive
+
+.. image:: images/ktile.JPG
+
+Size
+  Size of the grid
+  
+Tile X
+  Number of tiles on **X** axis
+
+
+Tile Y
+  Number of tiles on **Y** axis
+
+Tile Angle
+  Rotation of the tile shape
+
+.. image:: images/ktile2.JPG
+
+Gap
+  Gap between tiles
+  
+Constant Hex Size
+  Tile size will be controlled by **Size** input
+  
+Merge
+  Tiles will be merged
+
+
+
 ************************************************************
 Capsule
 ************************************************************
@@ -114,6 +149,26 @@ Constant Hex Size
   
 Merge
   Hexagon tiles will be merged
+
+
+
+************************************************************
+Oloid
+************************************************************
+
+Oloid mesh
+
+.. image:: images/oloid.JPG
+.. image:: images/oloid2.JPG
+
+Outer Resolution
+  Outer Resolution
+
+Inner Resolution
+  Inner Resolution
+
+Size
+  Size of the oloid
 
 
 
