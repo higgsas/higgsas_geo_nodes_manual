@@ -15,6 +15,32 @@ Simulates oscillating reaction between 3 virtual chemicals
 
     <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="und" dir="ltr">Belousov–Zhabotinsky reaction <a href="https://twitter.com/hashtag/geometrynodes?src=hash&amp;ref_src=twsrc%5Etfw">#geometrynodes</a> <a href="https://twitter.com/hashtag/b3d?src=hash&amp;ref_src=twsrc%5Etfw">#b3d</a> <a href="https://t.co/cFvZV4IFPJ">pic.twitter.com/cFvZV4IFPJ</a></p>&mdash; higgsas (@higgsasxyz) <a href="https://twitter.com/higgsasxyz/status/1849112721582621051?ref_src=twsrc%5Etfw">October 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+.. image:: images/bzr2.JPG
+
+Color
+  Input color that reaction will happen
+
+Alpha
+  Scale of color R value
+
+Beta
+  Scale of color G value
+
+Gamma
+  Scale of color B value
+
+.. image:: images/bzr3.JPG
+.. image:: images/bzr4.JPG
+
+Blur Iterations
+  How much chemicals will be averaged
+
+Blur Weight
+  Weight of the blur
+
+Speed
+  Speed of the simulation
+
 
 
 ************************************************************
