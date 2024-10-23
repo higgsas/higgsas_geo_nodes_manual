@@ -29,6 +29,23 @@ Corner Tangent
 
 
 ************************************************************
+Fit Plane
+************************************************************
+
+Creates diretional normal vector given point cloud 
+
+.. image:: images/fitp.JPG
+.. image:: images/fitp2.JPG
+
+Position
+  Position of the points
+  
+Group ID
+  Group if for points
+
+
+
+************************************************************
 Face Vertex Poistion
 ************************************************************
 
