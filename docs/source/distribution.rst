@@ -351,6 +351,32 @@ Points Radius
 
 
 ************************************************************
+Points Relax in Volume
+************************************************************
+
+Relaxes points inside the mesh volume
+
+.. image:: images/vpr.JPG
+.. image:: images/vpr1.JPG
+.. image:: images/vpr2.JPG
+
+**Push Pull / Voronoi Centroid**
+
+- **Push / Pull** Relaxes points by pushing/pulling points given points radius
+- **Voronoi Centroid** Relaxes points by calculating point voronoi centroid with guide points. It gives better results then Push/Pull option but it's much slower
+  
+Radius Scale
+  Scale of the automatically calulated points radius when using Push/Pull option 
+  
+Voxel Amount
+  Volxel amount that mesh will be converted to the volume that guide points will be distributed
+
+Guide Points Spacing
+  Amount of guide points. Smaller value will result in more guide points that will give better relaxing results, but with much slower performance
+
+
+
+************************************************************
 Random Points
 ************************************************************
 
