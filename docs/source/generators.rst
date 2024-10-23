@@ -313,8 +313,11 @@ Mesh Face Divider
 
 Divides mesh face horizontally and vertically / U or V
 
-.. image:: images/mfd.PNG
-.. image:: images/mfd2.PNG
+.. image:: images/mfdd.JPG
+.. image:: images/mfdd2.JPG
+
+Iterations
+  How many times faces will be divided
 
 U/V Ratio
   Ratio of more U or V divisions
@@ -328,6 +331,11 @@ Even Propability
 Limit Distance
   Limits division distance from the center
 
+Distortion
+  Distorts faces
+
+.. image:: images/mfdd3.JPG
+
 Seed
   Seed of random divisions
 
@@ -335,7 +343,7 @@ Selection
   Selection of faces being divided
 
 .. warning::
-    Tris and n-gon faces will be ignored 
+    N-gon faces will be ignored
 
 
 

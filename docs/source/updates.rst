@@ -1,6 +1,30 @@
 Updates
 ===================================
 
+**2024-10-23 Update**
+
+Revorked face tangent node
+
+Added option to Fit Size node - Fit in Geometry
+
+Added Absolute option to Mesh Fresnel node
+
+Added Push/Pull option in Points Relax on Surface node
+
+Remade and renamed 2D Recursive Subdivision to Mesh Face Recursive Subdivision. Also it works with any quad and triangle faces
+
+**New Nodes:**
+
+Fit Plane - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/geometry_measure.html#fit-plane
+
+Oloid - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/primitives.html#oloid
+
+Cairo Tiles Grid - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/primitives.html#cairo-tile-grid
+
+Points Relax in Volume - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/distribution.html#points-relax-in-volume
+
+Belousov-zhabotinsky Reaction - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/simulation.html#belousovzhabotinsky-reaction
+
 **2024-10-11 Update**
 
 Renamed Effects node category to Vector Fields to better match what nodes do
