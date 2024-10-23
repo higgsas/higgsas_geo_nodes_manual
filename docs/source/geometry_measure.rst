@@ -46,30 +46,6 @@ Group ID
 
 
 ************************************************************
-Face Vertex Poistion
-************************************************************
-
-Gives face vertex position on face domain
-
-.. image:: images/f_v_p.png
-.. image:: images/f_v_p1.png
-.. image:: images/f_v_p2.png  
-
-Position 1
-  Position 1 of the face corner
-
-Position 2
-  Position 2 of the face corner
-
-Position 3
-  Position 3 of the face corner
-
-Position 4
-  Position 4 of the face corner
-
-
-
-************************************************************
 Gradient Direction
 ************************************************************
 
