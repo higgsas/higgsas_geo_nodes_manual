@@ -369,7 +369,7 @@ Radius Scale
   Scale of the automatically calulated points radius when using Push/Pull option 
   
 Voxel Amount
-  Volxel amount that mesh will be converted to the volume that guide points will be distributed
+  Volxel amount that mesh will be converted to the volume that guide points will be distributed when using Voronoi Centroid option
 
 Guide Points Spacing
   Amount of guide points. Smaller value will result in more guide points that will give better relaxing results, but with much slower performance
