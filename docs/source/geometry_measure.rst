@@ -43,6 +43,8 @@ Position
 Group ID
   Group if for points
 
+.. image:: images/fitp3.JPG
+
 
 
 ************************************************************
