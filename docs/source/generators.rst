@@ -175,11 +175,11 @@ Threshold
 - **Off**  Places line on face edge midpoint
 
 .. tip::
-    Use **Attribute Smooth** node to smooth edges
+    Use **Mesh Smooth** node to smooth edges
     
-    .. image:: images/marching_squares_tip.png
+    .. image:: images/mrelax.JPG
     
-    .. image:: images/marching_squares_tip1.png
+    .. image:: images/mrelax2.JPG
     
 .. warning::
     Node only works on quad faces (faces that has 4 vertises)
@@ -236,9 +236,9 @@ Threshold
 .. tip::
     Use **Attribute Smooth** node to smooth edges
     
-    .. image:: images/marching_squares_tip.png
+    .. image:: images/mrelax.JPG
     
-    .. image:: images/marching_squares_tip1.png
+    .. image:: images/mrelax2.JPG
     
 .. warning::
     Node only works on tris faces (faces that has 3 vertises)
