@@ -187,3 +187,8 @@ Frame
   
 Color Attribute
   Creates color attribute from image colors
+
+.. tip::
+    If you want to change font, you can by opening the node group (TAB key) and changing font in String to Curves node
+    
+
