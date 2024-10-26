@@ -345,6 +345,11 @@ Selection
 .. warning::
     N-gon faces will be ignored
 
+.. tip::
+    To get original uv map you can use this setup
+    
+    .. image:: images/mfduv.JPG
+
 
 
 ************************************************************
