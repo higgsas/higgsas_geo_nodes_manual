@@ -59,11 +59,6 @@ Splines Resolution
 Axis Rotation
   Rotates spline around its axis
 
-.. warning::
-    Splines segments must be separated
-
-    .. image:: images/catn3.PNG
-
 
 
 ************************************************************
