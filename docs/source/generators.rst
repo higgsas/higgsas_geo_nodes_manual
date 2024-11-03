@@ -568,7 +568,7 @@ Instaces sphere meshes on points and deforms it to not intersect
 .. image:: images/spinter.PNG  
 .. image:: images/spinter1.PNG  
 .. image:: images/spinter2.PNG  
-.. image:: images/spinter3.PNG  
+.. image:: images/rasp.JPG  
 
 Sphere Mesh
   Mesh of spheres that will be deformed
@@ -581,6 +581,11 @@ Relax Interations
 
 .. warning::
     Sphere Mesh must have radius of 1
+
+.. warning::
+    If spheres radius are too big it will give bad results
+
+    .. image:: images/spinter3.PNG  
 
 
 
