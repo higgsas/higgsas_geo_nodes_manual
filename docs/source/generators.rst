@@ -753,6 +753,7 @@ Triangle Mesh to Voronoi
 Converts triangulated mesh to voronoi cells 
 
 .. image:: images/triantovor.JPG
+.. image:: images/stsk.JPG
   
 Limit Obtuse Triangles
   Limits obtuse triangles (triangles in which one of the interior angles measures more than 90° degrees) to avoid mesh intersections
@@ -800,13 +801,4 @@ Face UV Map
   Creates uv map for each face
 
 .. image:: images/voxel_r2.PNG  
-
-
-
-
-
-
-
-
-
 
