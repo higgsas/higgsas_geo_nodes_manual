@@ -50,7 +50,7 @@ Creates boolean operation between 2 SDFs volumes
 
 **Xor**
 
-.. image:: images/sdfsli.JPG
+.. image:: images/sdfxor.JPG
   
 SDF 1
   First SDF input
@@ -65,7 +65,7 @@ Blend
 
 Slice / Xor Blend
 
-  Smoothly blends boolean operation between 2 SDFs
+  Smoothly blends boolean operation between 2 SDFs when using Slice and Xor options
 
 Color Mask
   Crates mask between 2 SDFs
@@ -81,7 +81,7 @@ Color Mask
 SDF Capsule
 ************************************************************
 
-.. image:: images/sdfcap.PNG
+.. image:: images/sdfcap.JPG
 
 
 
@@ -89,7 +89,7 @@ SDF Capsule
 SDF Cube
 ************************************************************
 
-.. image:: images/sdfcube.PNG
+.. image:: images/sdfcube.JPG
 
 
 
@@ -97,7 +97,7 @@ SDF Cube
 SDF Cylinder
 ************************************************************
 
-.. image:: images/sdfcyl.PNG
+.. image:: images/sdfcyl.JPG
 
 
 
@@ -105,7 +105,7 @@ SDF Cylinder
 SDF Gyroid
 ************************************************************
 
-.. image:: images/sdfgy.PNG
+.. image:: images/sdfgy.JPG
 
 
 
@@ -121,7 +121,23 @@ SDF Heart
 SDF Polygon
 ************************************************************
 
-.. image:: images/sdfpo.PNG
+.. image:: images/sdfpo.JPG
+
+
+
+************************************************************
+SDF Round Cone
+************************************************************
+
+.. image:: images/sdfrc.JPG
+
+
+
+************************************************************
+SDF Schwarz P
+************************************************************
+
+.. image:: images/sdfsw.JPG
 
 
 
@@ -139,7 +155,7 @@ SDF to Mesh
 
 Converts SDF volume to mesh
 
-.. image:: images/sdftomesh.PNG
+.. image:: images/sdfbool.JPG
 
 SDF
   SDF field that mesh will be created
