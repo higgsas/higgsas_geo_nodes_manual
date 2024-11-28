@@ -30,15 +30,27 @@ SDF Boolean
 
 Creates boolean operation between 2 SDFs volumes
 
-.. image:: images/sdfb1.PNG
-.. image:: images/sdfb2.PNG
-.. image:: images/sdfb3.PNG
+**Union / Difference / Intersection / Slice / Xor**
 
-**Uni / Dif / Int**
+**Union**
 
-- **Uni** Union operation
-- **Dif** Difference operation
-- **Int** Intersection operation
+.. image:: images/sdfun.JPG
+
+**Differnce**
+
+.. image:: images/sdfdif.JPG
+
+**Interection**
+
+.. image:: images/sdfint.JPG
+
+**Slice**
+
+.. image:: images/sdfsli.JPG
+
+**Xor**
+
+.. image:: images/sdfsli.JPG
   
 SDF 1
   First SDF input
@@ -50,6 +62,10 @@ Blend
   Smoothly blends boolean operation between 2 SDFs
   
 .. image:: images/sdfb4.PNG
+
+Slice / Xor Blend
+
+  Smoothly blends boolean operation between 2 SDFs
 
 Color Mask
   Crates mask between 2 SDFs

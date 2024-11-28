@@ -1,6 +1,32 @@
 Updates
 ===================================
 
+**2024-11-28 Update**
+
+Added Gizmos to SDF nodes
+
+.. image:: images/sdfgizm.JPG
+
+Added Gizmo to Bezier Easing 
+
+Added Solid option to SDF Gyroid
+
+Added Slice and Xor options to SDF Boolean
+
+Fixed SDF to Mesh node inconsistent grid location
+
+**New Nodes:**
+
+Delete mesh smooth
+
+SDF Spiral
+
+SDF Round Cone
+
+Dragon Curve
+
+SDF Schwarz P
+
 **2024-10-23 Update**
 
 Revorked face tangent node
