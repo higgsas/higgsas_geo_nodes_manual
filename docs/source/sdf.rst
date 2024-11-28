@@ -106,6 +106,7 @@ SDF Gyroid
 ************************************************************
 
 .. image:: images/sdfgy.JPG
+.. image:: images/sdfgy2.JPG
 
 
 
@@ -138,6 +139,7 @@ SDF Schwarz P
 ************************************************************
 
 .. image:: images/sdfsw.JPG
+.. image:: images/sdfsw2.JPG
 
 
 
