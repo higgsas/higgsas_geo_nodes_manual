@@ -113,7 +113,7 @@ SDF Gyroid
 SDF Heart
 ************************************************************
 
-.. image:: images/sdfheart.PNG
+.. image:: images/sdfheart.JPG
 
 
 
@@ -145,7 +145,7 @@ SDF Schwarz P
 SDF Sphere
 ************************************************************
 
-.. image:: images/sdfsp.PNG
+.. image:: images/sdfsp.JPG
 
 
 
@@ -184,7 +184,7 @@ Show Bounds
 SDF Torus
 ************************************************************
 
-.. image:: images/sdftor.PNG
+.. image:: images/sdftor.JPG
 
 
 
