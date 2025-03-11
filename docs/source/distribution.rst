@@ -377,6 +377,34 @@ Guide Points Spacing
 
 
 ************************************************************
+Points Relax on Surface
+************************************************************
+
+Relaxes points on mesh surface
+
+.. image:: images/p_relax_s.jpg
+.. image:: images/p_relax_s2.jpg
+
+**Push Pull / Voronoi Centroid**
+
+- **Push / Pull** Relaxes points by pushing/pulling points given points radius
+- **Voronoi Centroid** Relaxes points by calculating point voronoi centroid with guide points. It gives better results then Push/Pull option but it's much slower
+
+Project on Surface
+  Projects points on the surface
+  
+Radius Scale
+  Scale of the automatically calulated points radius when using Push/Pull option 
+  
+Guide Points Count
+  Guide points count that will be distributed on the mesh to calculate voronoi centroid to relax points
+
+Seed
+  Seed of the guide points distribution
+
+
+
+************************************************************
 Random Points
 ************************************************************
 

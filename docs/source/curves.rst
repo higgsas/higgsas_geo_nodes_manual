@@ -20,7 +20,7 @@ Absolute Size
   Makes hilbert curve exactly match Size
 
 Moore Curve / Cyclic
-  Creates Moore curve that is cyclic 
+  Creates Moore curve that is cyclic
 
 .. image:: images/hilbc3.JPG
 
