@@ -169,7 +169,9 @@ F
 K
   Chemicals kill rate
 
-.. image:: images/reactshow.png
+Example F and K values
+
+.. image:: images/rdexample.png
 
 T
   Time scale of the simulation (going above 1.5 simulation will become unstable)
