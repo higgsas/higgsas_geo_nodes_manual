@@ -1,6 +1,64 @@
 Updates
 ===================================
 
+**2025-05-20 Update**
+
+**New Nodes:**
+
+- Strange Attractors
+- SDF Diamond
+- Circles Arc Tangent
+- Circles Line Tangent
+- Image String Art
+- Place objects on ground
+- Projectile Trajectory
+- Image Quad Tree
+- Even Grid Profile Surface
+- Klein Bottle
+- Image Hilbert Curve
+- Curve Median Axis 2D
+- Spherical Spiral
+- Super Ellipse
+- Super Ellipsoid
+- Shortest Points Path
+- Curves Inverse Kinematics
+- 4 Points Sphere
+- Capadera Curve
+- Gabriels Horn
+- Instances Tile
+- Flatten Geometry
+- Lissajous Curve
+- Differential Growth
+- Camera Perspective to Orthographic Transformation
+- Curve Circles Arc Tangent
+- Dubins CSC Path
+- Stereographic Projection
+- Pyramid
+- Mobius Transformation
+- Points Cluster
+- Bounding Box AABB Collision
+
+**Updates:**
+
+- Added 4.4 Blender Version
+- Added color tag to all nodes for better readability
+
+.. image:: images/colortag.JPG
+
+- Instances Bounding Box much faster in Blender 4.3 version
+- Mesh Face Strips now works with triangles while using Guide Direction
+- Renamed "2D Hilbert Curve" to "Hilbert Curve" and added 3d Hilbert Curve variation
+- Changed and renamed "Align Curve Normal" to "Align Curve to Surface"
+- Curve Deform now take into account the curve radius
+- Mesh Unfold - node now 6 times faster and preserve materials and other attributes
+- Tessellate Mesh - Added Keep Z Offset option, added Align to Direction option and now works with triangle faces
+- Removed "Tessellate Align Orientation" node, now its integrated in tessellate nodes
+- Wave Falloff - added "Cylindrical" option and fixed falloff option being incorrect
+- Reworked and renamed "Curve Circle Inner/Outer Tangent Lines" to "Curve Circle Line Tangent"
+- Fixed "TSP Mesh" creating multiples splines, added option "Shortest Path" option
+- Fixed "Instances AABB Collision" node deleting too many instances, now it preserves 1.5x times more non intersecting instances and its 2x times faster in some cases
+- Added XYZ option in "Array" node
+
 **2024-11-28 Update**
 
 Added Gizmos to SDF nodes
