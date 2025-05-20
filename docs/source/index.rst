@@ -17,6 +17,7 @@ Contents
 
    installation
    curves
+   curveprimitives
    deformers
    distribution
    falloffs
