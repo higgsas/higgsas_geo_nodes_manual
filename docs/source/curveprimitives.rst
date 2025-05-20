@@ -35,10 +35,11 @@ Curve heart shape
 Hilbert Curve
 ************************************************************
 
-Creates hilbert curve
+2D and 3D hilbert curve
 
 .. image:: images/hilbc1.JPG
 .. image:: images/hilbc2.JPG
+.. image:: images/hilb3d.jpg
 
 Size
   Size of hilber curve
@@ -63,3 +64,13 @@ Spherical Spiral
 Capareda Curve
 
 .. image:: images/spsp.jpg
+
+
+
+************************************************************
+Super Ellipse
+************************************************************
+
+Super Ellipse Cruve
+
+.. image:: images/supelip.jpg
