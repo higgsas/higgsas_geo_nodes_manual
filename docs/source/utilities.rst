@@ -218,47 +218,28 @@ Seed
 
 
 
+************************************************************
+TSP Mesh
+************************************************************
+
+Creates pseudo traveling salesman problem path. Node will generates edges selection that are continuous resulting in singular/cyclic path, that tries to visit all the vertices/points. Note that some points will not be selected
+
+.. image:: images/tsp1.jpg
+.. image:: images/tsp2.jpg
+.. image:: images/tsp3.jpg
+.. image:: images/tsp4.jpg
+.. image:: images/tsp5.jpg
+.. image:: images/tsp6.jpg
 
 
 
+**Random Path/Shortest**
 
+- **Random Path** Random Path
+- **Shortest Path** Shortest Path
 
+.. image:: images/tsp7.jpg
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Seed
+  Seed of the random paths
 

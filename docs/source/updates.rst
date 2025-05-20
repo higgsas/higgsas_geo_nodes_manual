@@ -16,7 +16,7 @@ Updates
 - Even Grid Profile Surface
 - Klein Bottle
 - Image Hilbert Curve
-- Curve Median Axis 2D
+- Curve Median Axis 2D - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#curve-median-axis-2d
 - Spherical Spiral - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curveprimitives.html#spherical-spiral
 - Super Ellipse
 - Super Ellipsoid
