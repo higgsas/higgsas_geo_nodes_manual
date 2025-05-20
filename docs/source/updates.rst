@@ -14,7 +14,7 @@ Updates
 - Projectile Trajectory
 - Image Quad Tree
 - Even Grid Profile Surface
-- Klein Bottle
+- Klein Bottle - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/primitives.html#klein-bottle
 - Image Hilbert Curve
 - Curve Median Axis 2D - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curves.html#curve-median-axis-2d
 - Spherical Spiral - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curveprimitives.html#spherical-spiral
@@ -55,7 +55,7 @@ Updates
 - Removed "Tessellate Align Orientation" node, now its integrated in tessellate nodes
 - Wave Falloff - added "Cylindrical" option and fixed falloff option being incorrect
 - Reworked and renamed "Curve Circle Inner/Outer Tangent Lines" to "Curve Circle Line Tangent"
-- Fixed "TSP Mesh" creating multiples splines, added option "Shortest Path" option
+- Fixed "TSP Mesh" creating multiples splines, added "Shortest Path" option - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/utilities.html#tsp-mesh
 - Fixed "Instances AABB Collision" node deleting too many instances, now it preserves 1.5x times more non intersecting instances and its 2x times faster in some cases
 - Added XYZ option in "Array" node
 
