@@ -6,7 +6,7 @@ Updates
 **New Nodes:**
 
 - Strange Attractors
-- SDF Diamond
+- SDF Diamond - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/sdf.html#sdf-diamond
 - Circles Arc Tangent
 - Circles Line Tangent
 - Image String Art
@@ -17,13 +17,13 @@ Updates
 - Klein Bottle
 - Image Hilbert Curve
 - Curve Median Axis 2D
-- Spherical Spiral
+- Spherical Spiral - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curveprimitives.html#spherical-spiral
 - Super Ellipse
 - Super Ellipsoid
 - Shortest Points Path
 - Curves Inverse Kinematics
 - 4 Points Sphere
-- Capadera Curve
+- Capadera Curve - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curveprimitives.html#capareda-curve
 - Gabriels Horn
 - Instances Tile
 - Flatten Geometry

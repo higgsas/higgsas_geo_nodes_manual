@@ -156,6 +156,46 @@ Creates point on curve segment where intersection is find
 
 
 ************************************************************
+Curve Median Axis 2D
+************************************************************
+
+Calculates closed/cyclic curve median axis by converting it to triangular planar mesh calculating voronoi cells
+
+.. image:: images/cma2d.jpg
+
+Resample Length
+  Resample length
+
+Fill Curve Group index
+  Curves group id which curves will be converted to a mesh to calulate median axis 
+
+Median Edges
+  Outputs median edges
+
+.. image:: images/cma2d1.jpg
+
+Median Mesh
+  Outputs median mesh
+
+.. image:: images/cma2d2.jpg
+
+Median Points
+  Outputs median points
+
+.. image:: images/cma2d3.jpg
+
+Points Radius
+  Radius of median points
+
+
+.. tip::
+    Median Points can be used to create inflation effect
+    
+    .. image:: images/cma2d4.jpg
+
+
+
+************************************************************
 Curve Mesh Boolean
 ************************************************************
 
