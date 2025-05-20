@@ -43,7 +43,7 @@ Updates
 - Added 4.4 Blender Version
 - Added color tag to all nodes for better readability
 
-.. image:: images/colortag.JPG
+.. image:: images/colortags.png
 
 - Instances Bounding Box much faster in Blender 4.3 version
 - Mesh Face Strips now works with triangles while using Guide Direction
