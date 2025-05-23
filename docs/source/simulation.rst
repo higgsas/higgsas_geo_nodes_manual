@@ -184,6 +184,41 @@ Scale
 
 
 ************************************************************
+Snow Crystal Growth
+************************************************************
+
+Simulates snow crystal growth from starting vertex selection
+
+.. image:: images/snowflak2.jpg
+.. image:: images/snowflak3.jpg
+.. image:: images/snowflak4.jpg
+
+Time Steps
+  Number of simulation steps per frame
+
+Start Selection
+  Start vertex selection that snow crystal will grow from
+
+Beta
+  Parameter of the simulation
+
+.. image:: images/snowflak.png
+
+Gamma
+  Parameter of the simulation
+
+Randomize Beta
+  Randomizes beta parameter
+
+.. image:: images/snowflak5.jpg
+.. image:: images/snowflak6.jpg
+
+Seed
+  Seed of randomization
+
+
+
+************************************************************
 Splines Packing
 ************************************************************
 
