@@ -520,6 +520,24 @@ Mask can also be used in shader editor to make curly parts transparent
 
 
 ************************************************************
+Shortest Points Path
+************************************************************
+
+Creates shortest points connected path from start points selection
+
+.. image:: images/shortppath.jpg  
+.. image:: images/shortest_points_path.jpg
+.. image:: images/shortppath2.jpg  
+  
+Steps
+  Each step points will be connected to closest points
+  
+End Point
+  Shortest Path end points selection
+
+
+
+************************************************************
 Solidify
 ************************************************************
 
