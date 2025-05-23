@@ -33,7 +33,7 @@ Updates
 - Curve Circles Arc Tangent
 - Dubins CSC Path
 - Stereographic Projection
-- Pyramid
+- Pyramid - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/primitives.html#pyramid
 - Mobius Transformation
 - Points Cluster
 - Bounding Box AABB Collision

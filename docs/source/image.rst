@@ -40,7 +40,7 @@ Converts image gray scale values to single black and white values
 Image
   Image input
   
-Resoliution Scale
+Resolution Scale
   Grid resolution scale from image pixels
   
 Floyd-Steinberg
@@ -92,6 +92,38 @@ Frame
     - Use Cycles render endgine with sample of 1 to get most accurate results. Samples above 1 will create blury pixels 
     
     .. image:: images/imgsort4.JPG
+
+
+
+************************************************************
+Image Hilbert Curve
+************************************************************
+
+Generates continues hilbert curve with different orders from a image
+
+.. image:: images/image_hilbert_curve.jpg
+
+Image
+  Image input
+  
+
+Average/Lightness/Saturation/Hue/Red/Blue/Green
+  Converts image color to specified channel
+
+Resolution Scale
+  Grid resolution scale from image pixels
+
+Gamma Correction
+  Gamma corrects image values
+
+Brightness Min
+  Min brightness control of the image
+
+Brightness Max
+  Min brightness control of the image
+
+Frame
+  Current frame of image/video
 
 
 
