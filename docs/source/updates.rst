@@ -20,7 +20,7 @@ Updates
 - Spherical Spiral - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curveprimitives.html#spherical-spiral
 - Super Ellipse
 - Super Ellipsoid
-- Shortest Points Path
+- Shortest Points Path - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/generators.html#shortest-points-path
 - Curves Inverse Kinematics
 - 4 Points Sphere
 - Capadera Curve - https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/curveprimitives.html#capareda-curve
