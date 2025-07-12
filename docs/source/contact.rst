@@ -9,6 +9,8 @@ Email - higgsasmotion@gmail.com
 
 `Twitter <https://twitter.com/higgsasxyz>`_
 
+`Blenderartists Forum <https://blenderartists.org/t/higgsas-geometry-nodes-groups-blender-3-3-4-4/1351737>`_
+
 Submit feedback/suggestions with Google Forms
 
 |feedback|
