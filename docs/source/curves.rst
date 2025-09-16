@@ -70,6 +70,22 @@ Tilt
 
 
 ************************************************************
+Blend Curves
+************************************************************
+
+Blends curves by the minimal distance
+
+.. image:: images/blendcurve1.jpg
+.. image:: images/blendcurve2.jpg
+.. image:: images/blendcurve3.jpg
+.. image:: images/blendcurve4.jpg
+
+Distance
+  Minimal distance that curves will be blended
+  
+
+
+************************************************************
 Circle Outer/Inner Tangent Curve
 ************************************************************
 
