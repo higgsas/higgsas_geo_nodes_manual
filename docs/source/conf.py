@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Higgsas Geo Nodes Manual'
-copyright = '2024, Higgsas'
+copyright = '2025, Higgsas'
 author = 'Higgsas'
 
 release = '0.1'
