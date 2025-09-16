@@ -227,6 +227,50 @@ Rounded cone mesh primitive
 .. image:: images/roundcone.jpg
 
 
+************************************************************
+Spur Gear
+************************************************************
+
+Spur gear mesh primitive
+
+.. image:: images/spurg1.jpg
+.. image:: images/spurg2.jpg
+
+Module
+  Size of a gear tooth
+
+Teeth
+  Gear teeth count
+
+Pressure  Angle
+  Angle formed between the tooth face and the gear wheel tangent
+
+Height
+  Height of the gear
+
+Addendum Factor
+  Radial distance from Pitch Circle to the top of the gear tooth
+
+Dedendum Factor
+  Distance from Pitch Circle to the bottom of the gear tooth
+
+Teeth Resolution
+  Resolution of the teeths
+
+**Flat Fillet/Circular Fillet**
+
+.. image:: images/spurg3.jpg
+
+Side Segments
+  Side segmets count of the gear
+
+Rotate Half Teeth
+  Roates gear half of the teeth
+
+Rotate
+  Rotation of the gear
+
+
 
 ************************************************************
 Rounded Cube
