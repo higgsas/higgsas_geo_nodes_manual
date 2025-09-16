@@ -199,6 +199,26 @@ Seed
 
 
 ************************************************************
+Mesh Face Groups Relax
+************************************************************
+
+Relaxes mesh faces groups boundaries 
+
+.. image:: images/mfrelax1.jpg
+.. image:: images/mfrelax2.jpg
+
+Face Group ID
+  Input of the face groups
+
+Iterations
+  Iterations of relaxing
+
+Relax Weight
+  Relax weight
+
+
+
+************************************************************
 Random Normal Distribution
 ************************************************************
 
