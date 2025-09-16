@@ -1,6 +1,29 @@
 Updates
 ===================================
 
+**2025-09-16 Update**
+
+**Updates:**
+
+- Added Blender 4.5 version
+- Various node groups UI updates for 4.5 version
+- Set Center - Added Edge/Corners centers option
+- Camera Culling - simplified node - removed camera info input values, now works with orthographic camera
+- Camera UV Coordinates - simplified node - removed camera info input values, now works with orthographic camera. Added Normalized and Uniform options
+
+**New Nodes:**
+
+- Rounded Cone
+- Box Selection
+- Checker Selection
+- Spur Gear
+- Curve Forward Kinematics
+- Infinite Cube
+- Mesh Auxetic Structure 
+- Mesh Face Groups Relax
+- Blend Curves
+
+
 **2025-05-20 Update**
 
 **New Nodes:**
