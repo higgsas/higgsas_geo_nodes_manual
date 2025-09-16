@@ -57,7 +57,8 @@ Checker Selection
 
 Creates checker selection
 
-.. image:: images/b_r_s.PNG
+.. image:: images/checksel.jpg
+.. image:: images/checksel2.jpg
 
 
 
