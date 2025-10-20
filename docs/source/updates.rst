@@ -1,6 +1,10 @@
 Updates
 ===================================
 
+**2025-10-20 Update**
+
+Added dark-theme to the documentation website
+
 **2025-09-16 Update**
 
 **Updates:**
