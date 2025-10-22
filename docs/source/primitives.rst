@@ -210,12 +210,6 @@ Quad sphere mesh primitive
 
 .. image:: images/qsp1.PNG
 
-Radius
-  Radius of sphere
-  
-Resoliution
-  Resoliution of the sphere
-
 
 
 ************************************************************
@@ -273,6 +267,17 @@ Rotate
 
 
 ************************************************************
+Super Ellipsoid
+************************************************************
+
+3d shape that generalizes an ellipsoid
+
+.. image:: images/superslip2.jpg
+.. image:: images/superslip.jpg
+
+
+
+************************************************************
 Rounded Cube
 ************************************************************
 
@@ -280,15 +285,6 @@ Rounded cube mesh primitive
 
 .. image:: images/rcube.PNG
 .. image:: images/rcube2.PNG
-
-Size
-  Size of the rounded cube
-
-Resoliution
-  Resolution of rounded corners
-
-Radius
-  Radius of rounded corners
 
 
 
