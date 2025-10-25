@@ -96,6 +96,28 @@ Frame
 
 
 ************************************************************
+Image Grid
+************************************************************
+
+Creates mesh grid with image aspect ratio
+
+.. image:: images/imgdit.JPG
+.. image:: images/imgdit6.JPG
+
+**Resolution Scale/Resolution**
+
+- **Resolution Scale:** Uses image pixels width and height for grid x and y face amount
+- **Resolution:**  Custom resolution of longes grid axis
+
+Normalize pixels
+  Makes pixels/faces same aspect ratio
+
+Frame
+  Freame of the image/video
+
+
+
+************************************************************
 Image Hilbert Curve
 ************************************************************
 

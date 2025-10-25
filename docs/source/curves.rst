@@ -70,6 +70,20 @@ Tilt
 
 
 ************************************************************
+Bezier Resample
+************************************************************
+
+Resamples bezier curve by subdividing it while leaving original controls points
+
+.. image:: images/bezres.png
+.. image:: images/bezres2.png
+
+Lenth
+  Length spacing between points
+
+
+
+************************************************************
 Blend Curves
 ************************************************************
 
