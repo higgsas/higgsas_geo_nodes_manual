@@ -1,7 +1,7 @@
 Higgsas geometry nodes groups manual
 ===================================
 
-.. image:: images/mainpreview.jpeg
+.. image:: images/mainnodes2.jpg
 .. image:: images/search2.PNG
 
 `Gumroad <https://higgsas.gumroad.com/l/wrusot>`_
