@@ -54,6 +54,25 @@ Scene Res Y
 
 
 ************************************************************
+Face UV
+************************************************************
+
+Creates uv for each face
+
+.. image:: images/faceuv.jpg
+
+Pack UV
+  Packs uv so they don't overlap. By default each face uv will fill uv space
+
+.. image:: images/faceuv1.jpg
+.. image:: images/faceuv2.jpg
+
+Margin
+  Marging of uv islands
+
+
+
+************************************************************
 Triplanar UV Mapping  
 ************************************************************
 
