@@ -75,8 +75,8 @@ Bezier Resample
 
 Resamples bezier curve by subdividing it while leaving original controls points
 
-.. image:: images/bezres.png
-.. image:: images/bezres2.png
+.. image:: images/bezres.jpg
+.. image:: images/bezres2.jpg
 
 Lenth
   Length spacing between points
