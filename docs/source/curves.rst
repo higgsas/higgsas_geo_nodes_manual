@@ -70,6 +70,24 @@ Tilt
 
 
 ************************************************************
+Bezier Extend
+************************************************************
+
+Extends bezier end point hands with continuity
+
+.. image:: images/bezextend.jpg
+
+Reverse
+  Extends start point instead of end
+  
+Factor
+  Factor of the extension. Negative value will contract
+
+.. image:: images/bezextend2.jpg
+
+
+
+************************************************************
 Bezier Resample
 ************************************************************
 
