@@ -239,6 +239,31 @@ Seed
 
 
 ************************************************************
+Scales Texture
+************************************************************
+
+Procedural scales texture
+
+.. image:: images/scales1.jpg
+.. image:: images/scales2.jpg
+
+Scale
+  Scale of texture
+  
+Bebel
+  Scales bevel
+
+.. image:: images/scales3.jpg
+.. image:: images/scales4.jpg
+
+Smooth Bevel
+  Smooth bevel
+
+.. image:: images/scales5.jpg
+
+
+
+************************************************************
 TSP Mesh
 ************************************************************
 
