@@ -3,18 +3,29 @@ Camera
 
 
 ************************************************************
-Camera UV Coordinates
+Fit in Camera
 ************************************************************
 
-Creates UV coordinates inside camera view
+Fits geomety inside the camera by calculating bounding box and centering to the camera view
 
-.. image:: images/cam_uv.jpeg
+.. image:: images/fitincam.jpg
 
-Focal Lenth
-  Camera focal lenth 
+**Active Camera/Custom Camera**
+
+- **Active Camera:** Uses active camera
+- **Custom Camera:**  Uses custom camera
   
-Sensor Size
-  Camera sensor size
+
+**Camera Space/Object Space**
+
+- **Camera Space:** Centers object inside camera view without rotating it, so it faces same direction as camera
+- **Object Space:**  Fits and rotates object so it faces spesified direction
+
+.. image:: images/fitincam2.jpg
+.. image:: images/fitincam3.jpg
+
+Translation
+  Camera space translation
   
-Scene Res X
-  Scene X resolution
+Rotation
+  Camera space rotation
