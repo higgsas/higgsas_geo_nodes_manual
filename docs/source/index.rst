@@ -16,6 +16,7 @@ Contents
 .. toctree::
 
    installation
+   camera
    curves
    curveprimitives
    deformers
