@@ -206,7 +206,7 @@ Pyramid mesh
 Quad Disk
 ************************************************************
 
-Pyramid mesh
+Quad disk mesh
 
 .. image:: images/quaddisk.jpg
 
