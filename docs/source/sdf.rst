@@ -1,6 +1,8 @@
 SDF Nodes
 ===================================
 
+.. image:: images/sdfnodes.jpg
+
 SDF - Signed distance fields creates 3d volume surface that can be definded using mathematical functions
 
 ************************************************************
