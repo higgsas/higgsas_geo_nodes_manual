@@ -119,8 +119,7 @@ Image Grid
 
 Creates mesh grid with image aspect ratio
 
-.. image:: images/imgdit.JPG
-.. image:: images/imgdit6.JPG
+.. image:: images/imagegrid.jpg
 
 **Resolution Scale/Resolution**
 
