@@ -29,6 +29,24 @@ Scale
 
 
 ************************************************************
+Image Color Plette
+************************************************************
+
+Generates color paletten from the image using different methods
+
+.. image:: images/imagepal.jpg
+.. image:: images/imagepal2.jpg
+.. image:: images/imagepal3.jpg
+
+Image
+  Umage input
+  
+Resolution Scale
+  Grid resolution scale from image pixels
+
+
+
+************************************************************
 Image Dithering
 ************************************************************
 
