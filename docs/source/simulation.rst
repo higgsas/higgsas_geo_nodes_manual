@@ -196,13 +196,11 @@ Reaction Diffusion Solver
 
 Creates growing/mixing effect between two virtual chemicals 
 
-.. image:: images/reactdiff1.PNG
+.. image:: images/rd1.jpg
 .. image:: images/reactdiff.gif
-.. image:: images/reactdiff2.PNG
-
-Inside Reaction Diffusion Solver node group (tab to open)
-
-.. image:: images/reactdiff3.PNG
+.. image:: images/rd4.jpg
+.. image:: images/rd3.jpg
+.. image:: images/rd2.jpg
 
 A
   Chemical A value stored on the mesh (set to 1)
