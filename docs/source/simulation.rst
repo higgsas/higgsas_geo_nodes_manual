@@ -146,6 +146,50 @@ Recreates image using point/dots for the gradiant shading using weighted voronoi
 
 
 ************************************************************
+Image Thinning
+************************************************************
+
+Calculates image Straight Skeleton lines
+
+.. image:: images/imagethin.jpg
+.. image:: images/imagethin2.jpg
+.. image:: images/imagethin3.jpg
+
+|imagethin|
+
+.. |imagethin| raw:: html
+
+    <center><iframe width="1080" height="1080" src="https://www.youtube.com/embed/sr9rykZoS94" title="Blender Geometry Nodes Image Thinning #shorts #b3d #blender #geometrynodes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><center>
+
+Times Steps
+  Times steps of the simulation
+
+Resolution Scale
+  Grid resolution scale from image pixels
+
+Threshold
+  Threshold that image will be converted to white and black pixels
+  
+
+Blur Image
+  Blurs Image
+
+Sobel
+  Will extracts image edges
+
+.. image:: images/imagethin4.jpg
+.. image:: images/imagethin5.jpg
+.. image:: images/imagethin6.jpg
+
+Invert
+  Inverts values
+
+Relax Ddges
+  Relaxes edges extracted from image straight skeleton
+
+
+
+************************************************************
 Reaction Diffusion Solver
 ************************************************************
 
