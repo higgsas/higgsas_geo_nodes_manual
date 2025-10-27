@@ -159,7 +159,9 @@ Calculates image Straight Skeleton lines
 
 .. |imagethin| raw:: html
 
-    <center><iframe width="1080" height="1080" src="https://www.youtube.com/embed/sr9rykZoS94" title="Blender Geometry Nodes Image Thinning #shorts #b3d #blender #geometrynodes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><center>
+    <iframe width="720" height="720" src="https://www.youtube.com/embed/sr9rykZoS94" title="Blender Geometry Nodes Image Thinning #shorts #b3d #blender #geometrynodes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Times Steps
   Times steps of the simulation
@@ -169,7 +171,6 @@ Resolution Scale
 
 Threshold
   Threshold that image will be converted to white and black pixels
-  
 
 Blur Image
   Blurs Image
