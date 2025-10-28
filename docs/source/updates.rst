@@ -1,6 +1,48 @@
 Updates
 ===================================
 
+**2025-10-28 Update**
+
+**New Nodes:**
+
+- Bezier Curve Resample
+- Image Grid
+- Bezier Extend
+- Image Color Palate
+- Image Thinning
+- Camera Grid
+- Camera Perspective Shift
+- Index Selection
+- SDF Lidinoid 
+- SDF IWP
+- SDF IWP Skeletal
+- Fit in Camera
+- Face UV
+- Scales Texture
+- Index Falloff
+- Quad Disk
+- UV Measure
+- Camera View Transform
+- Shadow Mask
+- Boundary Edge Smooth
+- UV Align to Direction
+
+**Updates:**
+
+- Renamed "Index Ratio" to "Instances Index Ratio", added collapsible values for ease of use
+- Added new options to "Set Center" node
+- Sli1ghtly improved "Triangle Mesh Circle Packing" node
+- Updated nodes icons visuals, added missing nodes icons
+
+.. image:: images/mainnodes2.jpg
+
+- Removed "Mesh Island Measure" node. Combined same functionality into "Mesh Measure" node. Added Bounds Center output
+- Improved "Curve Bisect" node
+- "Marching Squares/Triangles Isolines" slightly faster
+- Improved "Mesh to Ascii" node 
+- "Image nodes" and "Reaction Diffusion" nodes now automatically adds material
+
+
 **2025-10-20 Update**
 
 Added dark-theme to the documentation website
