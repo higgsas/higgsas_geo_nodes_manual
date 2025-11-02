@@ -255,25 +255,32 @@ Area Center of Mass
 Mesh Tension
 ************************************************************
 
-Creates Compression and Tension mask by comparing Face Area before and after mesh deformation
+Creates Compression and Tension masks by comparing edge lenghts before and after mesh deformation
 
-.. image:: images/mesh_tension.png
+.. image:: images/tension.jpg
+.. image:: images/tension3.jpg
+.. image:: images/tension4.jpg
 .. image:: images/mesh_tension1.png
 
-Original Geometry
-  Geometry before deformation happens
-  
-Strength
-  Strength of the Tension / Compresion values
-  
-Bias
-  Offset of the Tension / Compresion values 
-  
-Tension
-  Output values of the tension map
+Rest Position
+  Position attribute that needs to be captured/stored before the mesh deformation happens. If using Armature use "rest_position" attribute by enabling it in properties/data tab
 
-Compresion
-  Output values of the compresion map
+.. image:: images/tension2.jpg
+
+Strength Tension
+  Strength of the Tension mask
+
+Strength Compression
+  Strength of the compression mask
+  
+Bias Tension
+  Offset of the tension values 
+  
+Bias Tension
+  Offset of the compression values 
+
+Clamp
+  Clamps tension and compresions mask values between 0 and 1
 
 
 
