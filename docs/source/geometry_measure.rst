@@ -276,7 +276,7 @@ Strength Compression
 Bias Tension
   Offset of the tension values 
   
-Bias Tension
+Bias Compression
   Offset of the compression values 
 
 Clamp
