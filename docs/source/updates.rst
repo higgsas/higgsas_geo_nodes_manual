@@ -1,6 +1,25 @@
 Updates
 ===================================
 
+**2025-11-21 Update**
+
+**New Nodes:**
+
+- Plane Plane Intersection
+- Face Points Grid Distribution
+- Ripples Solver
+- Mesh Falloff
+- Mesh Points Fracture
+- Mesh Islands to Instances
+- Wrap
+
+**Updates:**
+
+- Added Blender 5.0 version
+- Added new category: Instances
+- Renamed "Adaptive Catenary Curves" to "Dynamic Catenary Curves"
+
+
 **2025-10-28 Update**
 
 **New Nodes:**
