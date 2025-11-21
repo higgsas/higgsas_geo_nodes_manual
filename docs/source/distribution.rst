@@ -209,6 +209,33 @@ Selection
 
 
 ************************************************************
+Face Points Grid Distribution
+************************************************************
+
+Distributes points in grid on faces
+
+.. image:: images/facegriddist1.jpg
+.. image:: images/facegriddist2.jpg
+.. image:: images/facegriddist4.jpg
+.. image:: images/facegriddist3.jpg
+
+**Count/Density**
+
+- **Count** Points count for each U and V axis
+- **Density** Evenly subdivides face with points
+
+Radius
+  Radius of the points
+  
+Align to Direction
+  Aligns U/V points count and other output attributes to the **Direction** input
+  
+Direction
+  Direction input for aligning U/V points count and other output attributes
+
+
+
+************************************************************
 Homogeneous Disk
 ************************************************************
 
