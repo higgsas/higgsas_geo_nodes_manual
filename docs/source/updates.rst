@@ -1,6 +1,26 @@
 Updates
 ===================================
 
+**2026-02-23 Update**
+
+**New Nodes:**
+
+- Direction Visualize
+- Herringbone Tile Grid
+- Volume Grid Visualize
+- Hopscotch Tile Grid
+- Direction Object Space to UV Space Transform
+- Isometric Tile Grid
+- 3 Planes intersection
+
+- Separated various intersection/math nodes from **Geometry Measure** category to the new **Linear Algebra** category
+
+- Curl Noise 3D - Improved performance by 20% by sampling noise texture 4 times instead of 6 in tetrahedral directions
+- Image Points Stippling - Added color layers separation for easier stippling with color	
+- Face Tangent - Fixed different tangent when Align to Direction is enabled
+- Reaction Diffusion Solver - Added different patterns presets
+- Curve Bisect - Fixed bisection being incorrect
+
 **2025-11-21 Update**
 
 **New Nodes:**
