@@ -13,8 +13,9 @@ Updates
 - Isometric Tile Grid
 - 3 Planes intersection
 
-- Separated various intersection/math nodes from **Geometry Measure** category to the new **Linear Algebra** category
+**Updates:**
 
+- Separated various intersection/math nodes from **Geometry Measure** category to the new **Linear Algebra** category
 - Curl Noise 3D - Improved performance by 20% by sampling noise texture 4 times instead of 6 in tetrahedral directions
 - Image Points Stippling - Added color layers separation for easier stippling with color	
 - Face Tangent - Fixed different tangent when Align to Direction is enabled
