@@ -2,6 +2,33 @@ Linear Algebra
 ===================================
 
 ************************************************************
+3 Planes Intersection
+************************************************************
+
+Creates diretional normal vector given point cloud 
+
+.. image:: images/3planeinter.jpg
+
+Plane 1 Position
+  Position of plane
+  
+Plane 1 Normal
+  Normal of plane
+
+Plane 2 Position
+  Position of plane
+  
+Plane 2 Normal
+  Normal of plane
+
+Plane 3 Position
+  Position of plane
+  
+Plane 3 Normal
+  Normal of plane
+
+
+************************************************************
 Fit Plane
 ************************************************************
 
