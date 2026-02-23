@@ -25,6 +25,8 @@ Contents
    generators
    geometry_measure
    image
+   instance
+   linearalgebra
    primitives
    sdf
    selection
