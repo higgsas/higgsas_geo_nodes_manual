@@ -473,7 +473,9 @@ Depth
   Number of times smaller and smaller circles are created
   
 Min Radius
-  Min radius of the circles
+  Min radius of the circles that will be created
+
+
 
 ************************************************************
 Volume Points Grid
@@ -488,4 +490,29 @@ Density
   
 World Space
   **On:** Points dstribution stays at world coordinates if mesh moving
+
+
+
+************************************************************
+Volume Spheres Packing
+************************************************************
+
+Packs spheres inside volume by finding largest sphere that fits inside volume, each iteration 
+
+.. image:: images/sppack.jpg
+
+Iterations
+  Iterations of the spheres packing/number of spheres
+  
+Voxel Resolution
+  Voxel grid resolution that guide points will be distributed inside volume. Higher resolution will give smaller gaps between spheres and smaller gap original mesh
+  
+Min Radius
+  Min radius of the spheres that will be created
+
+Max Radius
+  Max radius of the sphere
+
+.. image:: images/sppack2.jpg
+  
   
