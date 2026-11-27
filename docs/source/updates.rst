@@ -26,6 +26,7 @@ Updates
 - Volume Spheres Packing
 
 **Updates:**
+
 - 5.1 and above version Marching Squares Isolines/Marching Triangles Isolines replaced by Marching Isolines node, now works on triangles/quads and n-gons.
 - Fit Plane add Fit Line updated to be more accurate
 - Camera Culling - added Instances Bounds option
