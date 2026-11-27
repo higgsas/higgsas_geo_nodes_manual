@@ -1,6 +1,36 @@
 Updates
 ===================================
 
+**2026-11-27 Update**
+
+**New Nodes:**
+
+- Celtic Knots
+- Principal component analysis 5.1 ONLY
+- Oriented bounding box 
+- Curve Fractal
+- Camera Frustum
+- Camera Fisheye Transform
+- Diagonalize Faces
+- Mountain Erosion Texture
+- Squarified Treemap
+- Weighted Barycentric Coordinates
+- Is Inside Grid Volume
+- Gradient Visualization
+- Match Transform
+- Apollonius Circle Problem
+- Triangle Circle Fractal
+- Conformal Mapping
+- Pipe Joint
+- Iterative Closes Point
+- Volume Spheres Packing
+
+**Updates:**
+- 5.1 and above version Marching Squares Isolines/Marching Triangles Isolines replaced by Marching Isolines node, now works on triangles/quads and n-gons.
+- Fit Plane add Fit Line updated to be more accurate
+- Camera Culling - added Instances Bounds option
+
+
 **2026-02-23 Update**
 
 **New Nodes:**
