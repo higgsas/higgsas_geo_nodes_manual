@@ -6,8 +6,8 @@ project = 'Higgsas Geo Nodes Manual'
 copyright = '2026, Higgsas'
 author = 'Higgsas'
 
-release = '0.1'
-version = '4.5.0'
+release = '0.9'
+version = '5.3.0'
 
 # -- General configuration
 
