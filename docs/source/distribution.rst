@@ -461,6 +461,21 @@ Seed
 
 
 ************************************************************
+Triangle Circle Fractal
+************************************************************
+
+Packs circles inside a triangle
+
+.. image:: images/circlefract.jpg
+.. image:: images/circlefract2.jpg
+
+Depth
+  Number of times smaller and smaller circles are created
+  
+Min Radius
+  Min radius of the circles
+
+************************************************************
 Volume Points Grid
 ************************************************************
 
